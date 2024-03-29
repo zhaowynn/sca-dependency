@@ -156150,7 +156150,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.thrift</groupId>
@@ -156415,7 +156415,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -170605,7 +170605,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -171350,12 +171350,12 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.joshelser</groupId>
@@ -203515,7 +203515,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.ws.rs</groupId>
@@ -291030,7 +291030,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.jdo</groupId>
@@ -302715,7 +302715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -302880,7 +302880,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kerby</groupId>
@@ -302910,7 +302910,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.helger.commons</groupId>
@@ -316590,7 +316590,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.thrift</groupId>
@@ -316670,7 +316670,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -316710,12 +316710,12 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.rest-assured</groupId>
@@ -325145,7 +325145,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.auth0</groupId>
@@ -325155,7 +325155,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -330650,7 +330650,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -342845,7 +342845,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -344715,7 +344715,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-dbcp</groupId>
@@ -344740,7 +344740,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -345480,7 +345480,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2.external</groupId>
@@ -345565,7 +345565,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -345685,7 +345685,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -346110,7 +346110,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
