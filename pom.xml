@@ -159830,7 +159830,7 @@
 <dependency>
     <groupId>org.apache.maven.plugin-tools</groupId>
     <artifactId>maven-plugin-tools-generators</artifactId>
-    <version>3.5.2</version>
+    <version>3.12.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.ws</groupId>
