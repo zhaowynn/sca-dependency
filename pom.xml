@@ -157805,7 +157805,7 @@
 <dependency>
     <groupId>com.synopsys.integration</groupId>
     <artifactId>integration-bdio</artifactId>
-    <version>22.1.9</version>
+    <version>26.0.10</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
