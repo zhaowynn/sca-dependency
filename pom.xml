@@ -155150,7 +155150,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-oauth2-core</artifactId>
-    <version>5.6.8</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -157300,7 +157300,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-oauth2-jose</artifactId>
-    <version>5.6.8</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
