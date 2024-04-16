@@ -89274,7 +89274,7 @@
 <dependency>
   <groupId>org.springframework.security</groupId>
   <artifactId>spring-security-web</artifactId>
-  <version>5.4.5</version>
+  <version>5.8.12</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -152210,7 +152210,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>5.4.5</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -158925,7 +158925,7 @@
 <dependency>
     <groupId>org.apache.phoenix</groupId>
     <artifactId>phoenix-core</artifactId>
-    <version>5.1.2</version>
+    <version>5.2.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -159155,7 +159155,7 @@
 <dependency>
     <groupId>org.springframework.amqp</groupId>
     <artifactId>spring-rabbit-junit</artifactId>
-    <version>3.0.0</version>
+    <version>3.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -234690,7 +234690,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>5.1.6.RELEASE</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -267215,7 +267215,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>4.2.10.RELEASE</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -302755,7 +302755,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>5.4.5</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>org.hdrhistogram</groupId>
@@ -330370,7 +330370,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>5.4.5</version>
+    <version>5.8.12</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
