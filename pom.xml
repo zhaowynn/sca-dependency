@@ -89694,7 +89694,7 @@
 <dependency>
   <groupId>org.jboss.xnio</groupId>
   <artifactId>xnio-api</artifactId>
-  <version>3.8.0.Final</version>
+  <version>3.8.14.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -89749,7 +89749,7 @@
 <dependency>
   <groupId>org.jboss.xnio</groupId>
   <artifactId>xnio-nio</artifactId>
-  <version>3.8.0.Final</version>
+  <version>3.8.14.Final</version>
 </dependency>
 <dependency>
   <groupId>io.github.bonigarcia</groupId>
@@ -149960,7 +149960,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-nio</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -151620,7 +151620,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-api</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -154780,7 +154780,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-nio</artifactId>
-    <version>3.8.6.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -154830,7 +154830,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-api</artifactId>
-    <version>3.8.6.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.nimbusds</groupId>
@@ -259515,7 +259515,7 @@
 <dependency>
     <groupId>io.gatling</groupId>
     <artifactId>gatling-recorder</artifactId>
-    <version>2.2.5</version>
+    <version>3.11.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -291475,7 +291475,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-api</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -303160,7 +303160,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-nio</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.webjars.npm</groupId>
@@ -310245,7 +310245,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-api</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang</groupId>
@@ -325080,7 +325080,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-api</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.ws</groupId>
@@ -330575,7 +330575,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-nio</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -346350,7 +346350,7 @@
 <dependency>
     <groupId>org.jboss.xnio</groupId>
     <artifactId>xnio-nio</artifactId>
-    <version>3.8.0.Final</version>
+    <version>3.8.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
