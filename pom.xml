@@ -959,7 +959,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -2739,7 +2739,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.mail</groupId>
@@ -4924,7 +4924,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>javax.validation</groupId>
@@ -6424,7 +6424,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -11144,7 +11144,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>io.kestra.plugin</groupId>
@@ -12599,7 +12599,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -14624,7 +14624,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -18354,7 +18354,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>javax.validation</groupId>
@@ -19634,7 +19634,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis</groupId>
@@ -22294,7 +22294,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.xmlbeans</groupId>
@@ -27834,7 +27834,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -30459,7 +30459,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -32964,7 +32964,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -34239,7 +34239,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -37229,7 +37229,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -40494,7 +40494,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -43444,7 +43444,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -45519,7 +45519,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -48644,7 +48644,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>javax.validation</groupId>
@@ -49279,7 +49279,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -50519,7 +50519,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -53934,7 +53934,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -55874,7 +55874,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.jvnet.staxex</groupId>
@@ -57009,7 +57009,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -59934,7 +59934,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -63504,7 +63504,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -66869,7 +66869,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -69684,7 +69684,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -73304,7 +73304,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -75319,7 +75319,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -77569,7 +77569,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>javax.validation</groupId>
@@ -81914,7 +81914,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -83994,7 +83994,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -85429,7 +85429,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>com.headius</groupId>
@@ -87019,7 +87019,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.postgresql</groupId>
@@ -89489,7 +89489,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-placeholders</artifactId>
-  <version>2.7.0</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -89589,7 +89589,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.7.0</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
@@ -90024,7 +90024,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-legacy</artifactId>
-  <version>2.7.0</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.assertj</groupId>
@@ -90314,7 +90314,7 @@
 <dependency>
   <groupId>com.github.tomakehurst</groupId>
   <artifactId>wiremock</artifactId>
-  <version>2.27.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -91329,7 +91329,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -94119,7 +94119,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
@@ -98339,7 +98339,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -99779,7 +99779,7 @@
 <dependency>
   <groupId>org.xmlunit</groupId>
   <artifactId>xmlunit-core</artifactId>
-  <version>2.8.4</version>
+  <version>2.10.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -104350,7 +104350,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -107875,7 +107875,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -109780,7 +109780,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -111335,7 +111335,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -112755,7 +112755,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -115700,7 +115700,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -118830,7 +118830,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -122345,7 +122345,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -125180,7 +125180,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -128830,7 +128830,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -130070,7 +130070,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -132085,7 +132085,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -135195,7 +135195,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -138085,7 +138085,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -140115,7 +140115,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -141810,7 +141810,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -144260,7 +144260,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -146565,7 +146565,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -151190,7 +151190,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -151750,7 +151750,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -152090,7 +152090,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -152150,7 +152150,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-placeholders</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -152185,7 +152185,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-legacy</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.logging</groupId>
@@ -152570,7 +152570,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-legacy</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -154250,7 +154250,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.boofcv</groupId>
@@ -162655,7 +162655,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -164930,7 +164930,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -167360,7 +167360,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -170775,7 +170775,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -173265,7 +173265,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.ezmorph</groupId>
@@ -174660,7 +174660,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -177890,7 +177890,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -179865,7 +179865,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -182935,7 +182935,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -184770,7 +184770,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -187090,7 +187090,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -190220,7 +190220,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -193195,7 +193195,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -195985,7 +195985,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -198100,7 +198100,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -199275,7 +199275,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -201435,7 +201435,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -204950,7 +204950,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -207165,7 +207165,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -210800,7 +210800,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -213800,7 +213800,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -216185,7 +216185,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -219145,7 +219145,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -220685,7 +220685,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -221000,7 +221000,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -222915,7 +222915,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -226365,7 +226365,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -227640,7 +227640,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -229745,7 +229745,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -232305,7 +232305,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -233565,7 +233565,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.6.3</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -234360,7 +234360,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -235630,7 +235630,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -237825,7 +237825,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -240390,7 +240390,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -242725,7 +242725,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -245975,7 +245975,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -248215,7 +248215,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -251640,7 +251640,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -253805,7 +253805,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -255295,7 +255295,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -256915,7 +256915,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -256935,7 +256935,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-legacy</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -257105,7 +257105,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-placeholders</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.flipkart.zjsonpatch</groupId>
@@ -258460,7 +258460,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -261305,7 +261305,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -263525,7 +263525,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -267600,7 +267600,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -269170,7 +269170,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -273685,7 +273685,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -274990,7 +274990,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -278945,7 +278945,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -281175,7 +281175,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -285735,7 +285735,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -285850,7 +285850,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -287410,7 +287410,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.stream.buffer</groupId>
@@ -289780,7 +289780,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -293940,7 +293940,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -296380,7 +296380,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -298145,7 +298145,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -299850,7 +299850,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -301760,7 +301760,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -303005,7 +303005,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.opencensus</groupId>
@@ -303345,7 +303345,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -305245,7 +305245,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -308090,7 +308090,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -310305,7 +310305,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -313760,7 +313760,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -314745,7 +314745,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -316855,7 +316855,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -316940,7 +316940,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-legacy</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -316955,7 +316955,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-placeholders</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -317325,7 +317325,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-legacy</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -317365,7 +317365,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.opencensus</groupId>
@@ -318940,7 +318940,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -323190,7 +323190,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -324450,7 +324450,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -325710,7 +325710,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -326120,7 +326120,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.staxex</groupId>
@@ -328840,7 +328840,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -329365,7 +329365,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -330325,7 +330325,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-placeholders</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -332200,7 +332200,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.liferay</groupId>
@@ -333085,7 +333085,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -333780,7 +333780,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -333915,7 +333915,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -334060,7 +334060,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-legacy</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.agilejava.docbkx</groupId>
@@ -334120,7 +334120,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-placeholders</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.antlr</groupId>
@@ -334780,7 +334780,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -337205,7 +337205,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -340315,7 +340315,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -342715,7 +342715,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -345220,7 +345220,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.crazycake</groupId>
@@ -349170,7 +349170,7 @@
 <dependency>
     <groupId>org.xmlunit</groupId>
     <artifactId>xmlunit-core</artifactId>
-    <version>2.8.4</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
