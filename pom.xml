@@ -156295,7 +156295,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.43</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
@@ -254425,7 +254425,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.43</version>
 </dependency>
 <dependency>
     <groupId>io.opencensus</groupId>
@@ -275980,7 +275980,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.43</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -296695,7 +296695,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.43</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang.modules</groupId>
