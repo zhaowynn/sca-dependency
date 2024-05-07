@@ -289555,7 +289555,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk8</artifactId>
-    <version>1.6.21</version>
+    <version>1.9.24</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -291415,7 +291415,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk8</artifactId>
-    <version>1.6.21</version>
+    <version>1.9.24</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven.resolver</groupId>
@@ -296795,7 +296795,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-hadoop</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -300180,7 +300180,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk8</artifactId>
-    <version>1.6.21</version>
+    <version>1.9.24</version>
 </dependency>
 <dependency>
     <groupId>net.sf.opencsv</groupId>
@@ -310730,7 +310730,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-hadoop</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -316245,7 +316245,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-avro</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>com.oracle.database.jdbc</groupId>
@@ -316680,7 +316680,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-hadoop</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -318050,7 +318050,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-hadoop</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>org.json4s</groupId>
@@ -321205,7 +321205,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-avro</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>com.h2database</groupId>
@@ -321645,7 +321645,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-avro</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -324575,7 +324575,7 @@
 <dependency>
     <groupId>org.apache.parquet</groupId>
     <artifactId>parquet-hadoop</artifactId>
-    <version>1.12.3</version>
+    <version>1.14.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
