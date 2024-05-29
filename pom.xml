@@ -139765,7 +139765,7 @@
 <dependency>
     <groupId>org.bouncycastle</groupId>
     <artifactId>bctls-fips</artifactId>
-    <version>1.0.9</version>
+    <version>1.0.19</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
