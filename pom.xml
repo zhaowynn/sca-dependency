@@ -2969,7 +2969,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -4784,7 +4784,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -5679,7 +5679,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -8314,7 +8314,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -8529,7 +8529,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -8739,7 +8739,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -10629,7 +10629,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -11864,7 +11864,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -13909,7 +13909,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -15989,7 +15989,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.tdunning</groupId>
@@ -16049,7 +16049,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -18924,7 +18924,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -20909,7 +20909,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -21594,7 +21594,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -23759,7 +23759,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -24604,7 +24604,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.netbeans.external</groupId>
@@ -25584,7 +25584,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -25959,7 +25959,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -26544,7 +26544,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -27054,7 +27054,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -30689,7 +30689,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.extras</groupId>
@@ -31664,7 +31664,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.zaxxer</groupId>
@@ -33439,7 +33439,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -35594,7 +35594,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -36144,7 +36144,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -36434,7 +36434,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -38884,7 +38884,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -39439,7 +39439,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -39694,7 +39694,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -42654,7 +42654,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -43999,7 +43999,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -44689,7 +44689,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.liferay</groupId>
@@ -46799,7 +46799,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -48964,7 +48964,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -49724,7 +49724,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -52484,7 +52484,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -53254,7 +53254,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -55729,7 +55729,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -56419,7 +56419,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -58574,7 +58574,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -59374,7 +59374,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -61434,7 +61434,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -61634,7 +61634,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -62229,7 +62229,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -62939,7 +62939,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -65034,7 +65034,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -65539,7 +65539,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -66319,7 +66319,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -68309,7 +68309,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -68569,7 +68569,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.jodd</groupId>
@@ -69144,7 +69144,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -71309,7 +71309,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -72814,7 +72814,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -73639,7 +73639,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -74764,7 +74764,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -77974,7 +77974,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -80154,7 +80154,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -80674,7 +80674,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.apache.camel</groupId>
@@ -81349,7 +81349,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -81814,7 +81814,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -83434,7 +83434,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -85684,7 +85684,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -86344,7 +86344,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -91544,7 +91544,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -91954,7 +91954,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -92424,7 +92424,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -93234,7 +93234,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.netbeans.external</groupId>
@@ -93474,7 +93474,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.extras</groupId>
@@ -95944,7 +95944,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -96524,7 +96524,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -98304,7 +98304,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -99244,7 +99244,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.2</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -101655,7 +101655,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -101790,7 +101790,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -103875,7 +103875,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -106265,7 +106265,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -108375,7 +108375,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -108865,7 +108865,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -109320,7 +109320,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -111975,7 +111975,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -112285,7 +112285,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -114985,7 +114985,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -115320,7 +115320,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -117080,7 +117080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -118105,7 +118105,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -118460,7 +118460,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -120360,7 +120360,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -120470,7 +120470,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -121590,7 +121590,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -121625,7 +121625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -122000,7 +122000,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -125765,7 +125765,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -126700,7 +126700,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -127375,7 +127375,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -129250,7 +129250,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -129460,7 +129460,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -129715,7 +129715,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -131750,7 +131750,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -135675,7 +135675,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -136110,7 +136110,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -139080,7 +139080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -139320,7 +139320,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.external</groupId>
@@ -142575,7 +142575,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -145045,7 +145045,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -147360,7 +147360,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -148470,7 +148470,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -149675,7 +149675,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -154080,7 +154080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-maven-plugin</artifactId>
-    <version>3.1.5</version>
+    <version>4.1.3</version>
 </dependency>
 <dependency>
     <groupId>org.sonatype.plexus</groupId>
@@ -156750,7 +156750,7 @@
 <dependency>
     <groupId>de.codecentric</groupId>
     <artifactId>spring-boot-admin-client</artifactId>
-    <version>2.4.2</version>
+    <version>3.3.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -158490,7 +158490,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-stream-rabbit</artifactId>
-    <version>3.2.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.aliyun</groupId>
@@ -158755,7 +158755,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-shade-plugin</artifactId>
-    <version>3.2.4</version>
+    <version>3.6.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven</groupId>
@@ -160190,7 +160190,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -160665,7 +160665,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -161250,7 +161250,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -165970,7 +165970,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -169145,7 +169145,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -170595,7 +170595,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -171770,7 +171770,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -171865,7 +171865,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -174005,7 +174005,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -176480,7 +176480,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -178565,7 +178565,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.opentest4j</groupId>
@@ -178625,7 +178625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -178890,7 +178890,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -179150,7 +179150,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -181570,7 +181570,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -183090,7 +183090,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -184020,7 +184020,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -184095,7 +184095,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -186315,7 +186315,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -186925,7 +186925,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -189010,7 +189010,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -189525,7 +189525,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -191790,7 +191790,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -194150,7 +194150,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -194190,7 +194190,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -194435,7 +194435,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -196650,7 +196650,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -198605,7 +198605,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -200790,7 +200790,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -203400,7 +203400,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
@@ -204285,7 +204285,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -204300,7 +204300,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -207980,7 +207980,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -209020,7 +209020,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -209655,7 +209655,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -210100,7 +210100,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -212475,7 +212475,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -214530,7 +214530,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -216860,7 +216860,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -217190,7 +217190,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -217335,7 +217335,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -217430,7 +217430,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -219615,7 +219615,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -219695,7 +219695,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -219985,7 +219985,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -222205,7 +222205,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -224775,7 +224775,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -227055,7 +227055,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -229055,7 +229055,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -229655,7 +229655,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -231440,7 +231440,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -231955,7 +231955,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -234925,7 +234925,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -237130,7 +237130,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -239360,7 +239360,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -239660,7 +239660,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -242010,7 +242010,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -244495,7 +244495,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -245095,7 +245095,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
@@ -245280,7 +245280,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -245290,7 +245290,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -250095,7 +250095,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -252070,7 +252070,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -252410,7 +252410,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -257240,7 +257240,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>log4j</groupId>
@@ -257330,7 +257330,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.flywaydb</groupId>
@@ -257490,7 +257490,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -257625,7 +257625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -260160,7 +260160,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -262820,7 +262820,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>nz.net.ultraq.thymeleaf</groupId>
@@ -265725,7 +265725,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -265920,7 +265920,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -271110,7 +271110,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.stream</groupId>
@@ -273585,7 +273585,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.soap</groupId>
@@ -274350,7 +274350,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -277905,7 +277905,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -280520,7 +280520,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -282850,7 +282850,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -283405,7 +283405,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -283755,7 +283755,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -285020,7 +285020,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -286405,7 +286405,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -287240,7 +287240,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-vault-config</artifactId>
-    <version>3.1.1</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -292125,7 +292125,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -292430,7 +292430,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.mapstruct</groupId>
@@ -292990,7 +292990,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.cloudfoundry</groupId>
@@ -293205,7 +293205,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.lucee</groupId>
@@ -295630,7 +295630,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -295650,7 +295650,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -302080,7 +302080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -302670,7 +302670,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-vault-config</artifactId>
-    <version>3.1.1</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.restdocs</groupId>
@@ -306915,7 +306915,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -310820,7 +310820,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.wildfly.client</groupId>
@@ -311625,7 +311625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -312180,7 +312180,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -317600,7 +317600,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -317820,7 +317820,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kerby</groupId>
@@ -320800,7 +320800,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -321540,7 +321540,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -321680,7 +321680,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -321705,7 +321705,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -322610,7 +322610,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-vault-config</artifactId>
-    <version>3.1.1</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.clapper</groupId>
@@ -331040,7 +331040,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -331605,7 +331605,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -333515,7 +333515,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -334185,7 +334185,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -335225,7 +335225,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -338870,7 +338870,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -339640,7 +339640,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -345285,7 +345285,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -345305,7 +345305,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.1.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -345980,7 +345980,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.1.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -347690,7 +347690,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -349810,7 +349810,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
