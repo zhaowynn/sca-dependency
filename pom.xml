@@ -89464,7 +89464,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-core</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.14.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -152220,7 +152220,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.mojo</groupId>
@@ -158490,7 +158490,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-stream-rabbit</artifactId>
-    <version>3.2.4</version>
+    <version>4.1.2</version>
 </dependency>
 <dependency>
     <groupId>com.aliyun</groupId>
@@ -163325,7 +163325,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -329790,7 +329790,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -346240,7 +346240,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
