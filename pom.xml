@@ -89464,7 +89464,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-core</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.14.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -89734,7 +89734,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-websockets-jsr</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.14.Final</version>
 </dependency>
 <dependency>
   <groupId>jakarta.transaction</groupId>
@@ -89949,7 +89949,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-servlet</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.14.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -151690,7 +151690,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -152220,7 +152220,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.mojo</groupId>
@@ -152475,7 +152475,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -153795,7 +153795,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.16.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.electronwill.night-config</groupId>
@@ -163325,7 +163325,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -307155,7 +307155,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -310345,7 +310345,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>edu.princeton.cup</groupId>
@@ -318190,7 +318190,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -325985,7 +325985,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -329790,7 +329790,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -330235,7 +330235,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws.security.kerb</groupId>
@@ -335905,7 +335905,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -344645,7 +344645,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -345615,7 +345615,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.threads</groupId>
@@ -346240,7 +346240,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.14.Final</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
