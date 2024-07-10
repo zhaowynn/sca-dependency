@@ -159895,7 +159895,7 @@
 <dependency>
     <groupId>it.uniroma2.art.semanticturkey</groupId>
     <artifactId>st-core-services</artifactId>
-    <version>0.12</version>
+    <version>12.2</version>
 </dependency>
 <dependency>
     <groupId>org.antlr</groupId>
@@ -276720,7 +276720,7 @@
 <dependency>
     <groupId>org.cloudfoundry</groupId>
     <artifactId>cloudfoundry-client-reactor</artifactId>
-    <version>4.9.0.RELEASE</version>
+    <version>4.14.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.datastax.oss</groupId>
@@ -291015,7 +291015,7 @@
 <dependency>
     <groupId>org.cloudfoundry</groupId>
     <artifactId>cloudfoundry-client-reactor</artifactId>
-    <version>4.9.0.RELEASE</version>
+    <version>4.14.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jknack</groupId>
@@ -300140,7 +300140,7 @@
 <dependency>
     <groupId>org.cloudfoundry</groupId>
     <artifactId>cloudfoundry-client-reactor</artifactId>
-    <version>4.9.0.RELEASE</version>
+    <version>4.14.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.nimbusds</groupId>
