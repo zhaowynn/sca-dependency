@@ -158620,7 +158620,7 @@
 <dependency>
     <groupId>org.eclipse.parsson</groupId>
     <artifactId>parsson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </dependency>
 <dependency>
     <groupId>org.tomlj</groupId>
@@ -171205,7 +171205,7 @@
 <dependency>
     <groupId>org.eclipse.parsson</groupId>
     <artifactId>parsson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -240555,7 +240555,7 @@
 <dependency>
     <groupId>com.solace.spring.boot</groupId>
     <artifactId>solace-java-spring-boot-autoconfigure</artifactId>
-    <version>4.2.2</version>
+    <version>5.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.toomuchcoding.jsonassert</groupId>
@@ -275635,7 +275635,7 @@
 <dependency>
     <groupId>com.solace.spring.boot</groupId>
     <artifactId>solace-java-spring-boot-autoconfigure</artifactId>
-    <version>4.2.2</version>
+    <version>5.1.0</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor.addons</groupId>
@@ -291095,7 +291095,7 @@
 <dependency>
     <groupId>org.eclipse.parsson</groupId>
     <artifactId>parsson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.zafarkhaja</groupId>
@@ -293045,7 +293045,7 @@
 <dependency>
     <groupId>com.solace.spring.boot</groupId>
     <artifactId>solace-java-spring-boot-autoconfigure</artifactId>
-    <version>4.2.2</version>
+    <version>5.1.0</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -296080,7 +296080,7 @@
 <dependency>
     <groupId>org.eclipse.parsson</groupId>
     <artifactId>parsson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </dependency>
 <dependency>
     <groupId>org.lz4</groupId>
@@ -335095,7 +335095,7 @@
 <dependency>
     <groupId>co.elastic.clients</groupId>
     <artifactId>elasticsearch-java</artifactId>
-    <version>8.3.2</version>
+    <version>8.12.1</version>
 </dependency>
 <dependency>
     <groupId>io.grpc</groupId>
@@ -346665,7 +346665,7 @@
 <dependency>
     <groupId>org.eclipse.parsson</groupId>
     <artifactId>parsson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
