@@ -154265,7 +154265,7 @@
 <dependency>
     <groupId>org.springframework.graphql</groupId>
     <artifactId>spring-graphql</artifactId>
-    <version>1.1.0</version>
+    <version>1.2.6</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven</groupId>
@@ -158240,7 +158240,7 @@
 <dependency>
     <groupId>com.graphql-java</groupId>
     <artifactId>graphql-java</artifactId>
-    <version>19.2</version>
+    <version>19.11</version>
 </dependency>
 <dependency>
     <groupId>com.netflix.netflix-commons</groupId>
