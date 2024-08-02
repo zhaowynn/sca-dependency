@@ -479,7 +479,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -794,7 +794,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -1239,7 +1239,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -2329,7 +2329,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -2384,7 +2384,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -2784,7 +2784,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -4364,7 +4364,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -4429,7 +4429,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -5014,7 +5014,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -5934,7 +5934,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -6224,7 +6224,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -6709,7 +6709,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.postgresql</groupId>
@@ -10474,7 +10474,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.stoyanr</groupId>
@@ -10694,7 +10694,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -11184,7 +11184,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -12119,7 +12119,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -12434,7 +12434,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -12884,7 +12884,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -14154,7 +14154,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -14419,7 +14419,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -14894,7 +14894,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -17864,7 +17864,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -17939,7 +17939,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>jakarta.validation</groupId>
@@ -18004,7 +18004,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -18389,7 +18389,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -19189,7 +19189,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -19464,7 +19464,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -19934,7 +19934,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -21854,7 +21854,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -22104,7 +22104,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -22579,7 +22579,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -27324,7 +27324,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -27624,7 +27624,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -28109,7 +28109,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -30069,7 +30069,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -30124,7 +30124,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -30524,7 +30524,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -32329,7 +32329,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -32474,7 +32474,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -32499,7 +32499,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.offbytwo.jenkins</groupId>
@@ -33024,7 +33024,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -33734,7 +33734,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.tdunning</groupId>
@@ -34054,7 +34054,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -34074,7 +34074,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -36729,7 +36729,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -37049,7 +37049,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -37064,7 +37064,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -38714,7 +38714,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.apache.camel</groupId>
@@ -39994,7 +39994,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -40294,7 +40294,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -40344,7 +40344,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -43044,7 +43044,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -43109,7 +43109,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -43489,7 +43489,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -44999,7 +44999,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -45344,7 +45344,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -45374,7 +45374,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -48239,7 +48239,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -48304,7 +48304,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -48664,7 +48664,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -48869,7 +48869,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -50019,7 +50019,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -50344,7 +50344,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -50389,7 +50389,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.hibernate.validator</groupId>
@@ -53489,7 +53489,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -53779,7 +53779,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -53824,7 +53824,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -56644,7 +56644,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -56939,7 +56939,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -57024,7 +57024,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -58334,7 +58334,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -58419,7 +58419,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -59544,7 +59544,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -59604,7 +59604,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -59944,7 +59944,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -61744,7 +61744,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -63089,7 +63089,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -63159,7 +63159,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -63534,7 +63534,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -65709,7 +65709,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -66489,7 +66489,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -66564,7 +66564,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -66914,7 +66914,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -69374,7 +69374,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -69729,7 +69729,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -72804,7 +72804,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -72964,7 +72964,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -73429,7 +73429,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -74939,7 +74939,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -75014,7 +75014,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -75359,7 +75359,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -77079,7 +77079,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -77399,7 +77399,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -77434,7 +77434,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -79304,7 +79304,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -79419,7 +79419,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -79824,7 +79824,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -81539,7 +81539,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -81604,7 +81604,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -81974,7 +81974,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.marshalling</groupId>
@@ -83619,7 +83619,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -83694,7 +83694,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -84049,7 +84049,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.marshalling</groupId>
@@ -86539,7 +86539,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -86629,7 +86629,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -87014,7 +87014,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.xmlunit</groupId>
@@ -93679,7 +93679,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -93749,7 +93749,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.projectlombok</groupId>
@@ -94124,7 +94124,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -97689,7 +97689,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -97954,7 +97954,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -98169,7 +98169,7 @@
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
   <artifactId>elasticsearch-rest-high-level-client</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.23</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -99644,7 +99644,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -100935,7 +100935,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -101330,7 +101330,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -103485,7 +103485,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -103825,7 +103825,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -104150,7 +104150,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -105110,7 +105110,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -105525,7 +105525,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -106035,7 +106035,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -107605,7 +107605,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -107725,7 +107725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -108115,7 +108115,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -109580,7 +109580,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -110520,7 +110520,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -110915,7 +110915,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -111505,7 +111505,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -112530,7 +112530,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -113515,7 +113515,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -113925,7 +113925,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -115600,7 +115600,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.libphonenumber</groupId>
@@ -116525,7 +116525,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -116930,7 +116930,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -118735,7 +118735,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -119675,7 +119675,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -120085,7 +120085,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -122265,7 +122265,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -123205,7 +123205,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -123625,7 +123625,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -124740,7 +124740,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -125025,7 +125025,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -125070,7 +125070,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -128485,7 +128485,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -128635,7 +128635,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -129105,7 +129105,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -130930,7 +130930,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -131280,7 +131280,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -131355,7 +131355,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -132945,7 +132945,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -133305,7 +133305,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -133375,7 +133375,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -134960,7 +134960,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -135050,7 +135050,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -135445,7 +135445,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -136850,7 +136850,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -136875,7 +136875,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>jakarta.validation</groupId>
@@ -139120,7 +139120,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -139375,7 +139375,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -139445,7 +139445,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -139515,7 +139515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -139940,7 +139940,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -140015,7 +140015,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -141325,7 +141325,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -142630,7 +142630,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -142715,7 +142715,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -143785,7 +143785,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -145135,7 +145135,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -145190,7 +145190,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -146100,7 +146100,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -147320,7 +147320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -147440,7 +147440,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -147515,7 +147515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -150810,7 +150810,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -151125,7 +151125,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -151180,7 +151180,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -152925,7 +152925,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.4.6</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -153475,7 +153475,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.17.7</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -157905,7 +157905,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -160640,7 +160640,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -161470,7 +161470,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -161535,7 +161535,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -162335,7 +162335,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -163700,7 +163700,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -163745,7 +163745,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -164620,7 +164620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -166220,7 +166220,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -166280,7 +166280,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -167125,7 +167125,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -168055,7 +168055,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -169175,7 +169175,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -169450,7 +169450,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -170435,7 +170435,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.docker-java</groupId>
@@ -171905,7 +171905,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -172190,7 +172190,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -173055,7 +173055,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -175205,7 +175205,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -175230,7 +175230,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -175730,7 +175730,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -177475,7 +177475,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -177550,7 +177550,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -177915,7 +177915,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -180285,7 +180285,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -180445,7 +180445,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -180920,7 +180920,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -181635,7 +181635,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -181895,7 +181895,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>jakarta.validation</groupId>
@@ -182725,7 +182725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -185200,7 +185200,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -185360,7 +185360,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -185820,7 +185820,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -187585,7 +187585,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -187765,7 +187765,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -188225,7 +188225,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -190630,7 +190630,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -190785,7 +190785,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -191260,7 +191260,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -191815,7 +191815,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -192125,7 +192125,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -192985,7 +192985,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -195565,7 +195565,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -195660,7 +195660,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -196025,7 +196025,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -197705,7 +197705,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -197780,7 +197780,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -198130,7 +198130,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -199655,7 +199655,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -199830,7 +199830,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -200300,7 +200300,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -201845,7 +201845,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -202035,7 +202035,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -202490,7 +202490,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -203620,7 +203620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -205355,7 +205355,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -205545,7 +205545,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -205970,7 +205970,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -207610,7 +207610,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -207855,7 +207855,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -208365,7 +208365,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -209680,7 +209680,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -210040,7 +210040,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -211175,7 +211175,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -211345,7 +211345,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mozilla</groupId>
@@ -211795,7 +211795,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -212770,7 +212770,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -213520,7 +213520,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -215665,7 +215665,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -215985,7 +215985,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -216015,7 +216015,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -218565,7 +218565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -218915,7 +218915,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -219500,7 +219500,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -221065,7 +221065,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -221210,7 +221210,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -221665,7 +221665,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -223315,7 +223315,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -223600,7 +223600,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -224110,7 +224110,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -225935,7 +225935,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -226020,7 +226020,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -226440,7 +226440,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -226485,7 +226485,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -228020,7 +228020,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -228170,7 +228170,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mozilla</groupId>
@@ -228565,7 +228565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -230250,7 +230250,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -230705,7 +230705,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -233745,7 +233745,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234150,7 +234150,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234190,7 +234190,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -236025,7 +236025,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -236180,7 +236180,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -236615,7 +236615,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -238195,7 +238195,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -238375,7 +238375,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -238835,7 +238835,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -240880,7 +240880,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -241045,7 +241045,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -241495,7 +241495,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -243105,7 +243105,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -243275,7 +243275,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -243715,12 +243715,12 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -246370,7 +246370,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -246540,7 +246540,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -247010,7 +247010,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -248610,7 +248610,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -248780,7 +248780,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -249210,7 +249210,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -251180,7 +251180,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -251270,7 +251270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -251650,7 +251650,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mozilla</groupId>
@@ -253295,7 +253295,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -253615,7 +253615,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -253640,7 +253640,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -254095,7 +254095,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -254730,7 +254730,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -255695,7 +255695,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -255860,7 +255860,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -256320,7 +256320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -258855,7 +258855,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -259025,7 +259025,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -259565,7 +259565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -261720,7 +261720,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -261870,7 +261870,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -262320,7 +262320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -263955,7 +263955,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -264280,7 +264280,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -264725,7 +264725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -267020,7 +267020,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.virtuald</groupId>
@@ -267110,7 +267110,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -267620,7 +267620,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -269630,7 +269630,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -269800,7 +269800,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -270305,7 +270305,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -272635,7 +272635,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -273415,7 +273415,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -273470,7 +273470,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -275660,7 +275660,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -276040,7 +276040,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -277115,7 +277115,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -279415,7 +279415,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -279575,7 +279575,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -279860,7 +279860,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -281635,7 +281635,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -281810,7 +281810,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mozilla</groupId>
@@ -282270,7 +282270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -283320,7 +283320,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -284575,7 +284575,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -284895,7 +284895,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -285075,7 +285075,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -286670,7 +286670,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -287090,7 +287090,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -288735,7 +288735,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -288800,7 +288800,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.pegdown</groupId>
@@ -289455,7 +289455,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -289495,7 +289495,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -294430,7 +294430,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -294595,7 +294595,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -294895,7 +294895,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -297320,7 +297320,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -297705,7 +297705,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.mozilla</groupId>
@@ -298415,7 +298415,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -300755,7 +300755,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -301160,7 +301160,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -301635,7 +301635,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -303730,7 +303730,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -305795,7 +305795,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -305970,7 +305970,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -306250,7 +306250,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -308625,7 +308625,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -308640,7 +308640,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -309175,7 +309175,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -313300,7 +313300,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -313585,7 +313585,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -313640,7 +313640,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -315225,7 +315225,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -315385,7 +315385,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -315670,7 +315670,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -319410,7 +319410,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -319575,7 +319575,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -319875,7 +319875,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -321860,7 +321860,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -322145,7 +322145,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -322815,7 +322815,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -326500,7 +326500,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -326520,7 +326520,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -326935,7 +326935,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -328475,7 +328475,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -328745,7 +328745,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -328830,7 +328830,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -330605,7 +330605,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.17.3</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.antlr</groupId>
@@ -332725,7 +332725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -333020,7 +333020,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -333100,7 +333100,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -335505,7 +335505,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -335920,7 +335920,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate</groupId>
@@ -337735,7 +337735,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -338100,7 +338100,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -338120,7 +338120,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -339065,7 +339065,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -340840,7 +340840,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -340855,7 +340855,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -341280,7 +341280,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -343355,7 +343355,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -343515,7 +343515,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -343805,7 +343805,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -344555,7 +344555,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.scopt</groupId>
@@ -348695,7 +348695,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -348755,7 +348755,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -349185,7 +349185,7 @@
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
     <artifactId>elasticsearch-rest-high-level-client</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.23</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
