@@ -88659,7 +88659,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-ldap</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>commons-codec</groupId>
@@ -88669,7 +88669,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-git</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -88679,7 +88679,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-contrib</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -88694,7 +88694,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-cli</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -88714,7 +88714,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-scp</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>com.typesafe</groupId>
@@ -88749,7 +88749,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-spring-sftp</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -88759,7 +88759,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>apache-sshd</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>com.nimbusds</groupId>
@@ -88789,7 +88789,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-putty</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>io.github.gitbucket</groupId>
@@ -88874,7 +88874,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-openpgp</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -88979,7 +88979,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-sftp</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>commons-io</groupId>
@@ -89069,7 +89069,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-common</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -89094,7 +89094,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-core</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -153715,7 +153715,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-common</artifactId>
-    <version>2.8.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -155180,7 +155180,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-sftp</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -155270,7 +155270,7 @@
 <dependency>
     <groupId>org.apache.kerby</groupId>
     <artifactId>token-provider</artifactId>
-    <version>1.0.1</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -278695,7 +278695,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-sftp</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -287855,7 +287855,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-core</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -288440,7 +288440,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-core</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.oauth-client</groupId>
@@ -288490,7 +288490,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-common</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -290860,7 +290860,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-common</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>com.rackspace.eclipse.webtools.sourceediting</groupId>
@@ -297895,7 +297895,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-core</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>org.atteo</groupId>
@@ -297925,7 +297925,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-common</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -308870,7 +308870,7 @@
 <dependency>
     <groupId>org.apache.sshd</groupId>
     <artifactId>sshd-sftp</artifactId>
-    <version>2.7.0</version>
+    <version>2.12.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -311520,7 +311520,7 @@
 <dependency>
     <groupId>org.apache.kerby</groupId>
     <artifactId>token-provider</artifactId>
-    <version>1.0.1</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.yetus</groupId>
@@ -317505,7 +317505,7 @@
 <dependency>
     <groupId>org.apache.kerby</groupId>
     <artifactId>token-provider</artifactId>
-    <version>1.0.1</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kerby</groupId>
@@ -317825,7 +317825,7 @@
 <dependency>
     <groupId>org.apache.kerby</groupId>
     <artifactId>token-provider</artifactId>
-    <version>1.0.1</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -336860,7 +336860,7 @@
 <dependency>
     <groupId>org.apache.kerby</groupId>
     <artifactId>token-provider</artifactId>
-    <version>1.0.1</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
