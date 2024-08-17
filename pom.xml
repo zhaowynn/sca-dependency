@@ -92299,7 +92299,7 @@
 <dependency>
   <groupId>org.scala-sbt</groupId>
   <artifactId>main_2.12</artifactId>
-  <version>1.8.0-RC1</version>
+  <version>1.10.0</version>
 </dependency>
 <dependency>
   <groupId>org.scala-sbt</groupId>
@@ -194005,7 +194005,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>3.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -291165,7 +291165,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>3.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -310510,7 +310510,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>3.1.2</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
