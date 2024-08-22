@@ -157390,7 +157390,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-help-plugin</artifactId>
-    <version>3.2.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
