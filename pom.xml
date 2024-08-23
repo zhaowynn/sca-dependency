@@ -89494,7 +89494,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-json</artifactId>
-  <version>2.4.3</version>
+  <version>3.2.9</version>
 </dependency>
 <dependency>
   <groupId>org.hamcrest</groupId>
@@ -89639,7 +89639,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-web</artifactId>
-  <version>2.4.3</version>
+  <version>3.2.9</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -89734,7 +89734,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-websockets-jsr</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.2.35.Final</version>
 </dependency>
 <dependency>
   <groupId>jakarta.transaction</groupId>
@@ -149145,7 +149145,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -151690,7 +151690,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.35.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -151875,7 +151875,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-json</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -153795,7 +153795,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.16.Final</version>
+    <version>2.2.35.Final</version>
 </dependency>
 <dependency>
     <groupId>com.electronwill.night-config</groupId>
@@ -154610,7 +154610,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>3.0.0</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -154795,7 +154795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-jersey</artifactId>
-    <version>3.0.0</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.threeten</groupId>
@@ -156080,7 +156080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-hateoas</artifactId>
-    <version>2.7.6</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -158545,7 +158545,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-webflux</artifactId>
-    <version>3.0.0</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.wildfly.common</groupId>
@@ -159255,7 +159255,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-jersey</artifactId>
-    <version>3.0.0</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -232990,7 +232990,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -233635,7 +233635,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-json</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -260800,7 +260800,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -267920,7 +267920,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -271130,7 +271130,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>ognl</groupId>
@@ -277655,7 +277655,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -302850,7 +302850,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>io.zipkin.brave</groupId>
@@ -309670,7 +309670,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-json</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.staxex</groupId>
@@ -310345,7 +310345,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.35.Final</version>
 </dependency>
 <dependency>
     <groupId>edu.princeton.cup</groupId>
@@ -316500,7 +316500,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-json</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -317870,7 +317870,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.6.6</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -318190,7 +318190,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.35.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -325985,7 +325985,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.35.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -329985,7 +329985,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -330235,7 +330235,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.35.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws.security.kerb</groupId>
@@ -330400,7 +330400,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.6.6</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -330975,7 +330975,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-json</artifactId>
-    <version>2.6.6</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -335945,7 +335945,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -346670,7 +346670,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-json</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -346865,7 +346865,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.9</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
