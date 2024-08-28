@@ -152740,7 +152740,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-pmd-plugin</artifactId>
-    <version>3.14.0</version>
+    <version>3.25.0</version>
 </dependency>
 <dependency>
     <groupId>net.sourceforge.lept4j</groupId>
@@ -159830,7 +159830,7 @@
 <dependency>
     <groupId>org.apache.maven.plugin-tools</groupId>
     <artifactId>maven-plugin-tools-generators</artifactId>
-    <version>3.5.2</version>
+    <version>3.15.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.ws</groupId>
