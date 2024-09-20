@@ -449,7 +449,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -3249,7 +3249,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -5419,7 +5419,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>xerces</groupId>
@@ -5889,7 +5889,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -8404,7 +8404,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -9009,7 +9009,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -9834,7 +9834,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba</groupId>
@@ -11514,7 +11514,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -12074,7 +12074,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>net.sourceforge.findbugs</groupId>
@@ -14109,7 +14109,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>net.sourceforge.findbugs</groupId>
@@ -16394,7 +16394,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -16899,7 +16899,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -19144,7 +19144,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -21384,7 +21384,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.projectreactor</groupId>
@@ -21809,7 +21809,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>net.sourceforge.findbugs</groupId>
@@ -23809,7 +23809,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -24164,7 +24164,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -24749,7 +24749,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -24764,7 +24764,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -25679,7 +25679,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.projectreactor</groupId>
@@ -26339,7 +26339,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -26879,7 +26879,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -27264,7 +27264,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -30979,7 +30979,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -32729,7 +32729,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -33369,7 +33369,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -35974,7 +35974,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -36219,7 +36219,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.16.1</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -36269,7 +36269,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>javax.inject</groupId>
@@ -36374,7 +36374,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -39249,7 +39249,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -39629,7 +39629,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -41774,7 +41774,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -41784,7 +41784,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -43759,7 +43759,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -44349,7 +44349,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -44634,7 +44634,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -47089,7 +47089,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -49304,7 +49304,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -49669,7 +49669,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -52799,7 +52799,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -53109,7 +53109,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -55994,7 +55994,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -56259,7 +56259,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -58814,7 +58814,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -59224,7 +59224,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -61624,7 +61624,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -62549,7 +62549,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -62779,7 +62779,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -65374,7 +65374,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -65684,7 +65684,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -66179,7 +66179,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -68584,7 +68584,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws.security.kerb</groupId>
@@ -68649,7 +68649,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -68954,7 +68954,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -71509,7 +71509,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -73684,7 +73684,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -73969,7 +73969,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -74579,7 +74579,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -78184,7 +78184,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -80369,7 +80369,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -80944,7 +80944,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -81159,7 +81159,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -83204,7 +83204,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -85894,7 +85894,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -86164,7 +86164,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -89639,7 +89639,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-web</artifactId>
-  <version>2.4.3</version>
+  <version>3.2.10</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -90039,7 +90039,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-undertow</artifactId>
-  <version>2.4.3</version>
+  <version>3.2.10</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -92024,7 +92024,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -92619,7 +92619,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -93254,7 +93254,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okio</groupId>
@@ -93299,7 +93299,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -96024,7 +96024,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -96444,7 +96444,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -98879,7 +98879,7 @@
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -99184,7 +99184,7 @@
 <dependency>
   <groupId>com.google.protobuf</groupId>
   <artifactId>protobuf-java</artifactId>
-  <version>3.8.0</version>
+  <version>3.25.5</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -101550,7 +101550,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -102055,7 +102055,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -102690,7 +102690,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -103675,7 +103675,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -106470,7 +106470,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -108760,7 +108760,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -108905,7 +108905,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.inject</groupId>
@@ -109100,7 +109100,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -109190,7 +109190,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -111855,7 +111855,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -112155,7 +112155,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -114750,7 +114750,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -115180,7 +115180,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -117340,7 +117340,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -117940,7 +117940,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -118325,7 +118325,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -120555,7 +120555,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -121205,7 +121205,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -121395,7 +121395,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -121865,7 +121865,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -125745,7 +125745,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -126765,7 +126765,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -126975,7 +126975,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -128695,7 +128695,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -129585,7 +129585,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -131605,7 +131605,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -133720,7 +133720,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -135530,7 +135530,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -137490,7 +137490,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -138115,7 +138115,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -140425,7 +140425,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -140435,7 +140435,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.7.1</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -141755,7 +141755,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.auth0</groupId>
@@ -144195,7 +144195,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -146505,7 +146505,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -148450,7 +148450,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -149145,7 +149145,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -149525,7 +149525,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -151900,7 +151900,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-undertow</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -153005,7 +153005,7 @@
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
     <artifactId>shardingsphere-infra-executor</artifactId>
-    <version>5.0.0</version>
+    <version>5.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -154610,7 +154610,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>3.0.0</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -155230,7 +155230,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.30</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -155805,7 +155805,7 @@
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-parsers</artifactId>
-    <version>1.27</version>
+    <version>2.0.0</version>
 </dependency>
 <dependency>
     <groupId>backport-util-concurrent</groupId>
@@ -156830,7 +156830,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -157620,7 +157620,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.19.4</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.mortbay.jetty</groupId>
@@ -158510,7 +158510,7 @@
 <dependency>
     <groupId>edu.ucar</groupId>
     <artifactId>grib</artifactId>
-    <version>4.5.5</version>
+    <version>8.0.29</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kafka</groupId>
@@ -158545,7 +158545,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-webflux</artifactId>
-    <version>3.0.0</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.wildfly.common</groupId>
@@ -158925,7 +158925,7 @@
 <dependency>
     <groupId>org.apache.phoenix</groupId>
     <artifactId>phoenix-core</artifactId>
-    <version>5.1.2</version>
+    <version>5.2.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -160170,7 +160170,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -162690,7 +162690,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -165055,7 +165055,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -165735,7 +165735,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -167485,7 +167485,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -170355,7 +170355,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -170605,7 +170605,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -170900,7 +170900,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -173420,7 +173420,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -174725,7 +174725,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -176325,7 +176325,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -178575,7 +178575,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -179920,7 +179920,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -183050,7 +183050,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>xerces</groupId>
@@ -183760,7 +183760,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -184030,7 +184030,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.skyscreamer</groupId>
@@ -184825,7 +184825,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -187160,7 +187160,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -188975,7 +188975,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -189330,7 +189330,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -190295,7 +190295,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -193330,7 +193330,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -193780,7 +193780,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -194200,7 +194200,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -196510,7 +196510,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -199345,7 +199345,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -201445,7 +201445,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -203405,7 +203405,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -204960,7 +204960,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -207175,7 +207175,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -208000,7 +208000,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -209035,7 +209035,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -209890,7 +209890,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -210770,7 +210770,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -213250,7 +213250,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -213725,7 +213725,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -214730,7 +214730,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -216805,7 +216805,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -217220,7 +217220,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -217350,7 +217350,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -217645,7 +217645,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -220650,7 +220650,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.postgresql</groupId>
@@ -222885,7 +222885,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -223450,7 +223450,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -223690,7 +223690,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -227610,7 +227610,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -229730,7 +229730,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -231450,7 +231450,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -232190,7 +232190,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -232735,7 +232735,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.13</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -232990,7 +232990,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -234795,7 +234795,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -235605,7 +235605,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -237790,7 +237790,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -240365,7 +240365,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -242695,7 +242695,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -244470,7 +244470,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -244850,7 +244850,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -245100,7 +245100,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -245950,7 +245950,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -248230,7 +248230,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -252005,7 +252005,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -255255,7 +255255,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -257600,7 +257600,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -258475,7 +258475,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -260800,7 +260800,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -261285,7 +261285,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -263535,7 +263535,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -265650,7 +265650,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -265845,7 +265845,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -267920,7 +267920,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -269260,7 +269260,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -271130,7 +271130,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>ognl</groupId>
@@ -271170,7 +271170,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.netflix.ribbon</groupId>
@@ -273365,7 +273365,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -275050,7 +275050,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -277655,7 +277655,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -279005,7 +279005,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -281265,7 +281265,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -282860,7 +282860,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -283245,7 +283245,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -283290,7 +283290,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -285805,7 +285805,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -286210,7 +286210,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -292140,7 +292140,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -292750,7 +292750,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.mongodb</groupId>
@@ -292775,7 +292775,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.29</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -293800,7 +293800,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -296505,7 +296505,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -299945,7 +299945,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -302425,7 +302425,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-services</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat</groupId>
@@ -302455,7 +302455,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java-util</artifactId>
-    <version>3.19.2</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.grpc</groupId>
@@ -302490,7 +302490,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-protobuf</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>io.perfmark</groupId>
@@ -302715,7 +302715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -302850,7 +302850,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>io.zipkin.brave</groupId>
@@ -303265,7 +303265,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>commons-logging</groupId>
@@ -305315,7 +305315,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -307935,7 +307935,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -310630,7 +310630,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-undertow</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -310865,7 +310865,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -312040,7 +312040,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -314810,7 +314810,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -316670,7 +316670,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -317260,7 +317260,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.29</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.generator</groupId>
@@ -317870,7 +317870,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.6.6</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -318995,7 +318995,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -320775,7 +320775,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -321010,7 +321010,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-services</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>org.json4s</groupId>
@@ -321275,7 +321275,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java-util</artifactId>
-    <version>3.19.2</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -321355,7 +321355,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -321395,7 +321395,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-protobuf</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -323310,7 +323310,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -323650,7 +323650,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java-util</artifactId>
-    <version>3.19.2</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>io.grpc</groupId>
@@ -323660,7 +323660,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-services</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -323750,7 +323750,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-protobuf</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -324315,7 +324315,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.29</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.generator</groupId>
@@ -325400,7 +325400,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -329985,7 +329985,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -330400,7 +330400,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.6.6</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -331015,7 +331015,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -331445,7 +331445,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -334635,7 +334635,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -335330,7 +335330,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-protobuf</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -335355,7 +335355,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java-util</artifactId>
-    <version>3.19.2</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -335395,7 +335395,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-services</artifactId>
-    <version>1.47.0</version>
+    <version>1.63.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -335845,7 +335845,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.28</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>com.thoughtworks.xstream</groupId>
@@ -335945,7 +335945,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -336460,7 +336460,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.27</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -337020,7 +337020,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -340200,7 +340200,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -342455,7 +342455,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -345135,7 +345135,7 @@
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -345400,7 +345400,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.28</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -345685,7 +345685,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -346110,7 +346110,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -346865,7 +346865,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.2.10</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -347295,7 +347295,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.27</version>
+    <version>8.0.31</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -347505,7 +347505,7 @@
 <dependency>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-java</artifactId>
-    <version>3.8.0</version>
+    <version>3.25.5</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
