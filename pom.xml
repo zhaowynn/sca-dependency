@@ -1264,7 +1264,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -1609,7 +1609,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -2819,7 +2819,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -2969,7 +2969,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -3489,7 +3489,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -4784,7 +4784,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -4904,7 +4904,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -5249,7 +5249,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -5679,7 +5679,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -6604,7 +6604,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -7054,7 +7054,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -8204,7 +8204,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -8314,7 +8314,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -8529,7 +8529,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -8739,7 +8739,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -9159,7 +9159,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -9434,7 +9434,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -10629,7 +10629,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -11104,7 +11104,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -11369,7 +11369,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -11569,7 +11569,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -11864,7 +11864,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -11889,7 +11889,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -12904,7 +12904,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -13234,7 +13234,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -13909,7 +13909,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -14934,7 +14934,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -15244,7 +15244,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -15894,7 +15894,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -15989,7 +15989,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.tdunning</groupId>
@@ -16049,7 +16049,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -16644,7 +16644,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.yaml</groupId>
@@ -16824,7 +16824,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -18319,7 +18319,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -18924,7 +18924,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -19929,7 +19929,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
@@ -20284,7 +20284,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>javax.cache</groupId>
@@ -20909,7 +20909,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -21179,7 +21179,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -21594,7 +21594,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -22614,7 +22614,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -22919,7 +22919,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -23709,7 +23709,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -23759,7 +23759,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -24154,7 +24154,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>us.springett</groupId>
@@ -24569,7 +24569,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -24604,7 +24604,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.netbeans.external</groupId>
@@ -25519,7 +25519,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -25584,7 +25584,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -25959,7 +25959,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -26249,7 +26249,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -26544,7 +26544,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -27054,7 +27054,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -28064,7 +28064,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -28254,7 +28254,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -29159,7 +29159,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -30554,7 +30554,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -30689,7 +30689,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.extras</groupId>
@@ -31119,7 +31119,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -31239,7 +31239,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -31664,7 +31664,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.zaxxer</groupId>
@@ -32414,7 +32414,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.jsoup</groupId>
@@ -33069,7 +33069,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -33439,7 +33439,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -34459,7 +34459,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -34644,7 +34644,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>aopalliance</groupId>
@@ -35594,7 +35594,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -35859,7 +35859,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -36069,7 +36069,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -36144,7 +36144,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -36434,7 +36434,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -37449,7 +37449,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -37634,7 +37634,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -38884,7 +38884,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -39129,7 +39129,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -39439,7 +39439,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -39694,7 +39694,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -40714,7 +40714,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -40899,7 +40899,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -42089,7 +42089,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -42654,7 +42654,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -43434,7 +43434,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -43734,7 +43734,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>joda-time</groupId>
@@ -43999,7 +43999,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -44274,7 +44274,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.jsoup</groupId>
@@ -44689,7 +44689,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.liferay</groupId>
@@ -45824,7 +45824,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -45954,7 +45954,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -46799,7 +46799,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -47339,7 +47339,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -48609,7 +48609,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -48964,7 +48964,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -49169,7 +49169,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -49724,7 +49724,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -50809,7 +50809,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -50939,7 +50939,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -52484,7 +52484,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -52674,7 +52674,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -52754,7 +52754,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.junit.jupiter</groupId>
@@ -53254,7 +53254,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -54269,7 +54269,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>xml-apis</groupId>
@@ -54404,7 +54404,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>aopalliance</groupId>
@@ -55729,7 +55729,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -55854,7 +55854,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -56419,7 +56419,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -57439,7 +57439,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -57594,7 +57594,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -58574,7 +58574,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -58699,7 +58699,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -59374,7 +59374,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -60369,7 +60369,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -60544,7 +60544,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -61344,7 +61344,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -61434,7 +61434,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -61634,7 +61634,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -62229,7 +62229,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -62284,7 +62284,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -62384,7 +62384,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -62939,7 +62939,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -63944,7 +63944,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -64114,7 +64114,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -65034,7 +65034,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -65224,7 +65224,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -65479,7 +65479,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -65539,7 +65539,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -66319,7 +66319,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -67304,7 +67304,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -67489,7 +67489,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -68309,7 +68309,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -68454,7 +68454,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>us.springett</groupId>
@@ -68504,7 +68504,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -68569,7 +68569,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.jodd</groupId>
@@ -69144,7 +69144,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -70114,7 +70114,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -70304,7 +70304,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>aopalliance</groupId>
@@ -71099,7 +71099,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.fusesource.jansi</groupId>
@@ -71309,7 +71309,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -71769,7 +71769,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -72814,7 +72814,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -73319,7 +73319,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -73404,7 +73404,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -73639,7 +73639,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -74174,7 +74174,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -74764,7 +74764,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -75744,7 +75744,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -75944,7 +75944,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -77799,7 +77799,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -77974,7 +77974,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -78469,7 +78469,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml</groupId>
@@ -79814,7 +79814,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -79989,7 +79989,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -80154,7 +80154,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -80279,7 +80279,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -80674,7 +80674,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.apache.camel</groupId>
@@ -80824,7 +80824,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -81349,7 +81349,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -81814,7 +81814,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -82434,7 +82434,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -82559,7 +82559,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -83434,7 +83434,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -84429,7 +84429,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.bind</groupId>
@@ -84634,7 +84634,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.headius</groupId>
@@ -85269,7 +85269,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>xml-apis</groupId>
@@ -85319,7 +85319,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.gmbal</groupId>
@@ -85684,7 +85684,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -85814,7 +85814,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -86344,7 +86344,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -87344,7 +87344,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -87464,7 +87464,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -89399,7 +89399,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-test</artifactId>
-  <version>2.4.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.codehaus.groovy</groupId>
@@ -89639,7 +89639,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-web</artifactId>
-  <version>2.4.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -89964,7 +89964,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.4</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -90039,7 +90039,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-undertow</artifactId>
-  <version>2.4.3</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -91544,7 +91544,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -91704,7 +91704,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -91914,7 +91914,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -91954,7 +91954,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -92424,7 +92424,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -92814,7 +92814,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -92999,7 +92999,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -93119,7 +93119,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -93234,7 +93234,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.netbeans.external</groupId>
@@ -93474,7 +93474,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.extras</groupId>
@@ -94484,7 +94484,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -94544,7 +94544,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-codec</groupId>
@@ -95884,7 +95884,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -95944,7 +95944,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -96524,7 +96524,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cglib</groupId>
@@ -96799,7 +96799,7 @@
 <dependency>
   <groupId>org.springframework</groupId>
   <artifactId>spring-webmvc</artifactId>
-  <version>5.3.20</version>
+  <version>6.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -96919,7 +96919,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -98304,7 +98304,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.4</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -98704,7 +98704,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.kestra.plugin</groupId>
@@ -98759,7 +98759,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind.external</groupId>
@@ -99244,7 +99244,7 @@
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-openfeign</artifactId>
-  <version>3.0.3</version>
+  <version>4.1.4</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -100945,7 +100945,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -101410,7 +101410,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.parboiled</groupId>
@@ -101655,7 +101655,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -101790,7 +101790,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -102095,7 +102095,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -102435,7 +102435,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -103875,7 +103875,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -105100,7 +105100,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -105625,7 +105625,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -106025,7 +106025,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -106265,7 +106265,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -106775,7 +106775,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -108065,7 +108065,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -108375,7 +108375,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -108555,7 +108555,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -108810,7 +108810,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -108865,7 +108865,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -109320,7 +109320,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -110505,7 +110505,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -110995,7 +110995,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -111695,7 +111695,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -111975,7 +111975,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -112285,7 +112285,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -113505,7 +113505,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.ezmorph</groupId>
@@ -113995,7 +113995,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -114485,7 +114485,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents.wso2</groupId>
@@ -114520,7 +114520,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -114910,7 +114910,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -114985,7 +114985,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -115320,7 +115320,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -116000,7 +116000,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -116520,7 +116520,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -117010,7 +117010,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -117080,7 +117080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -117730,7 +117730,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -118105,7 +118105,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -118460,7 +118460,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -119655,7 +119655,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.ezmorph</groupId>
@@ -120155,7 +120155,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -120360,7 +120360,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -120420,7 +120420,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -120470,7 +120470,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -120965,7 +120965,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -121450,7 +121450,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -121590,7 +121590,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -121625,7 +121625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -122000,7 +122000,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -123680,7 +123680,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -123805,7 +123805,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -123950,7 +123950,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -125695,7 +125695,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -125765,7 +125765,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -126365,7 +126365,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -126700,7 +126700,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -127320,7 +127320,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -127375,7 +127375,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -128190,7 +128190,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -129070,7 +129070,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -129250,7 +129250,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -129460,7 +129460,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -129715,7 +129715,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -130905,7 +130905,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -131430,7 +131430,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -131750,7 +131750,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -132920,7 +132920,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.redisson</groupId>
@@ -133440,7 +133440,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -134020,7 +134020,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -135405,7 +135405,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -135675,7 +135675,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -136110,7 +136110,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -136585,7 +136585,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -136825,7 +136825,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -137215,7 +137215,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -137255,7 +137255,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -138495,7 +138495,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -139030,7 +139030,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.ezmorph</groupId>
@@ -139080,7 +139080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -139320,7 +139320,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.external</groupId>
@@ -141235,7 +141235,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -141455,7 +141455,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -142375,7 +142375,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -142575,7 +142575,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -143665,7 +143665,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -143920,7 +143920,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -144820,7 +144820,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -145045,7 +145045,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -146005,7 +146005,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -146235,7 +146235,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -147120,7 +147120,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -147360,7 +147360,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -147945,7 +147945,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -148160,7 +148160,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -148355,7 +148355,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -148470,7 +148470,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -149145,7 +149145,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -149675,7 +149675,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -149835,7 +149835,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -150030,7 +150030,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -151050,7 +151050,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -151835,7 +151835,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -151900,7 +151900,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-undertow</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -152030,7 +152030,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.4</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -153560,7 +153560,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-stub-runner</artifactId>
-    <version>3.1.5</version>
+    <version>4.1.5</version>
 </dependency>
 <dependency>
     <groupId>io.micrometer</groupId>
@@ -154080,7 +154080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-maven-plugin</artifactId>
-    <version>3.1.5</version>
+    <version>4.1.5</version>
 </dependency>
 <dependency>
     <groupId>org.sonatype.plexus</groupId>
@@ -154735,7 +154735,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib</artifactId>
-    <version>1.7.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.ibm.db2</groupId>
@@ -154785,7 +154785,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-rest-webmvc</artifactId>
-    <version>3.7.6</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.dropwizard.metrics</groupId>
@@ -154925,7 +154925,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.2.1.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shiro</groupId>
@@ -154950,7 +154950,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-spec-java</artifactId>
-    <version>3.1.5</version>
+    <version>4.1.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere.elasticjob</groupId>
@@ -156080,7 +156080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-hateoas</artifactId>
-    <version>2.7.6</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -157425,7 +157425,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-reflect</artifactId>
-    <version>1.6.10</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.csp</groupId>
@@ -158365,7 +158365,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>6.0.1</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere.elasticjob</groupId>
@@ -158490,7 +158490,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-stream-rabbit</artifactId>
-    <version>3.2.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.aliyun</groupId>
@@ -159040,7 +159040,7 @@
 <dependency>
     <groupId>com.github.binarywang</groupId>
     <artifactId>weixin-java-pay</artifactId>
-    <version>3.5.0</version>
+    <version>4.6.8.B</version>
 </dependency>
 <dependency>
     <groupId>nl.cloudfarming.client</groupId>
@@ -159250,7 +159250,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>3.0.0</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -159515,7 +159515,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-maven-plugin</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -159625,7 +159625,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -159950,7 +159950,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-buildpack-platform</artifactId>
-    <version>2.7.5</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>net.jodah</groupId>
@@ -160010,7 +160010,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -160190,7 +160190,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -160665,7 +160665,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -160905,7 +160905,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -161250,7 +161250,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -161845,7 +161845,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -162055,7 +162055,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.amqp</groupId>
@@ -162550,7 +162550,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -163245,7 +163245,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -164050,7 +164050,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -164280,7 +164280,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -164910,7 +164910,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -165970,7 +165970,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -166590,7 +166590,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -166795,7 +166795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -167330,7 +167330,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -168125,7 +168125,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -168820,7 +168820,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -169145,7 +169145,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -169770,7 +169770,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -169980,7 +169980,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -170325,7 +170325,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -170595,7 +170595,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -170755,7 +170755,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -171760,7 +171760,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -171770,7 +171770,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -171865,7 +171865,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -172520,7 +172520,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -172710,7 +172710,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -173250,7 +173250,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -174005,7 +174005,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -174640,7 +174640,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -175395,7 +175395,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -175515,7 +175515,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -176480,7 +176480,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -176635,7 +176635,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -176805,7 +176805,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -178480,7 +178480,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -178565,7 +178565,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.opentest4j</groupId>
@@ -178625,7 +178625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -178890,7 +178890,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -179150,7 +179150,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -179860,7 +179860,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xmlunit</groupId>
@@ -180590,7 +180590,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -180705,7 +180705,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -181570,7 +181570,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -182200,7 +182200,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -182380,7 +182380,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.ws</groupId>
@@ -182925,7 +182925,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -183090,7 +183090,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -184020,7 +184020,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -184095,7 +184095,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -184765,7 +184765,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xmlunit</groupId>
@@ -185495,7 +185495,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -185615,7 +185615,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -186315,7 +186315,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -186925,7 +186925,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -187120,7 +187120,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -187345,7 +187345,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>de.lars-sh</groupId>
@@ -187920,7 +187920,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -188020,7 +188020,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -188920,7 +188920,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -189010,7 +189010,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -189525,7 +189525,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -190255,7 +190255,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
@@ -190950,7 +190950,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.swagger2markup</groupId>
@@ -191055,7 +191055,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -191790,7 +191790,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -192470,7 +192470,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -192645,7 +192645,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -193280,7 +193280,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -194080,7 +194080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -194150,7 +194150,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -194190,7 +194190,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -194435,7 +194435,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -194635,7 +194635,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -194835,7 +194835,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -196650,7 +196650,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -196810,7 +196810,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -197020,7 +197020,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -198605,7 +198605,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -199300,7 +199300,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -199980,7 +199980,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.swagger2markup</groupId>
@@ -200095,7 +200095,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -200790,7 +200790,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -201465,7 +201465,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -202195,7 +202195,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -202300,7 +202300,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -203295,7 +203295,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -203400,7 +203400,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
@@ -204285,7 +204285,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -204300,7 +204300,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -204975,7 +204975,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -205710,7 +205710,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.swagger2markup</groupId>
@@ -205805,7 +205805,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -207185,7 +207185,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -207715,7 +207715,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -207980,7 +207980,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -208040,7 +208040,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -208190,7 +208190,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -208940,7 +208940,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -209020,7 +209020,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -209655,7 +209655,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -210100,7 +210100,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -210780,7 +210780,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -211450,7 +211450,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -211570,7 +211570,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -212475,7 +212475,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -212930,7 +212930,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -213160,7 +213160,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -213775,7 +213775,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -214530,7 +214530,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -214900,7 +214900,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -216420,7 +216420,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -216730,7 +216730,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -216860,7 +216860,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -217190,7 +217190,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -217335,7 +217335,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -217430,7 +217430,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -217785,7 +217785,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -219445,7 +219445,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -219610,12 +219610,12 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -219695,7 +219695,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -219815,7 +219815,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -219895,7 +219895,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -219985,7 +219985,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -220675,7 +220675,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -221315,7 +221315,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -221440,7 +221440,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -222205,7 +222205,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -222890,7 +222890,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -223410,7 +223410,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -223755,7 +223755,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -223870,7 +223870,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -224775,7 +224775,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -225080,7 +225080,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -225255,7 +225255,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -227055,7 +227055,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -227620,7 +227620,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -229055,7 +229055,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -229655,7 +229655,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -229785,7 +229785,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
@@ -230340,7 +230340,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -230445,7 +230445,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -231395,7 +231395,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -231440,7 +231440,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -231955,7 +231955,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -232455,7 +232455,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -232990,7 +232990,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -233680,7 +233680,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.1.9.RELEASE</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -234600,7 +234600,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -234675,7 +234675,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234925,7 +234925,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -235345,7 +235345,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -235660,7 +235660,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -236275,7 +236275,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -236400,7 +236400,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -237130,7 +237130,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -237800,7 +237800,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -238470,7 +238470,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -238605,7 +238605,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -239360,7 +239360,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -239660,7 +239660,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -240375,7 +240375,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -241135,7 +241135,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -241255,7 +241255,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -242010,7 +242010,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -242750,7 +242750,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -243370,7 +243370,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -243505,7 +243505,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -244390,7 +244390,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -244495,7 +244495,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -245055,7 +245055,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -245095,7 +245095,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
@@ -245280,7 +245280,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -245290,7 +245290,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -245960,7 +245960,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -246635,7 +246635,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -246765,7 +246765,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -248245,7 +248245,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -248865,7 +248865,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -248995,7 +248995,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -250095,7 +250095,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -250255,7 +250255,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -250350,7 +250350,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -252070,7 +252070,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -252410,7 +252410,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -252505,7 +252505,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -254030,7 +254030,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -255285,7 +255285,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -255965,7 +255965,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -256100,7 +256100,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -257240,7 +257240,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>log4j</groupId>
@@ -257330,7 +257330,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.flywaydb</groupId>
@@ -257490,7 +257490,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -257535,7 +257535,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -257625,7 +257625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -258490,7 +258490,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -259105,7 +259105,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -259235,7 +259235,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -260160,7 +260160,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -260800,7 +260800,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -261170,7 +261170,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -261335,7 +261335,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -261960,7 +261960,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -262105,7 +262105,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -262820,7 +262820,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>nz.net.ultraq.thymeleaf</groupId>
@@ -263560,7 +263560,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -263935,7 +263935,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.21.RELEASE</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -264365,7 +264365,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -264485,7 +264485,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -265560,7 +265560,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -265725,7 +265725,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -265920,7 +265920,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -266130,7 +266130,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -266170,7 +266170,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -267560,7 +267560,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.13.RELEASE</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -267585,7 +267585,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -267920,7 +267920,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -268790,7 +268790,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.13.RELEASE</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -269265,7 +269265,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -269890,7 +269890,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -269910,7 +269910,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>xpp3</groupId>
@@ -269995,7 +269995,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -271075,7 +271075,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -271110,7 +271110,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.stream</groupId>
@@ -271130,7 +271130,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ognl</groupId>
@@ -271880,7 +271880,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -272850,7 +272850,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -273070,7 +273070,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -273585,7 +273585,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.soap</groupId>
@@ -274350,7 +274350,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -275075,7 +275075,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -276320,7 +276320,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -276625,7 +276625,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.woodstox</groupId>
@@ -276960,7 +276960,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.13.RELEASE</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -276985,7 +276985,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -277655,7 +277655,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -277905,7 +277905,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -279035,7 +279035,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -279655,7 +279655,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -279735,7 +279735,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -280520,7 +280520,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -281275,7 +281275,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -281895,7 +281895,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -281985,7 +281985,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -282805,7 +282805,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -282850,7 +282850,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -283405,7 +283405,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -283670,7 +283670,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.logging</groupId>
@@ -283755,7 +283755,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -283805,7 +283805,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -285020,7 +285020,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -285960,7 +285960,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -286405,7 +286405,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -286950,7 +286950,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.logging</groupId>
@@ -287180,7 +287180,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -287240,7 +287240,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-vault-config</artifactId>
-    <version>3.1.1</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -287350,7 +287350,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.session</groupId>
@@ -287600,7 +287600,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk7</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>javax.cache</groupId>
@@ -287795,7 +287795,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.transaction</groupId>
@@ -288210,7 +288210,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -289555,7 +289555,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk8</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -290630,7 +290630,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -291415,7 +291415,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk8</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven.resolver</groupId>
@@ -291730,7 +291730,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -292065,7 +292065,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -292125,7 +292125,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -292430,7 +292430,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.mapstruct</groupId>
@@ -292990,7 +292990,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.cloudfoundry</groupId>
@@ -293205,7 +293205,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.lucee</groupId>
@@ -294030,7 +294030,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -294625,7 +294625,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -294725,7 +294725,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>jaxen</groupId>
@@ -295630,7 +295630,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -295650,7 +295650,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -295735,7 +295735,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -296510,7 +296510,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -297860,7 +297860,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -298080,7 +298080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -299950,7 +299950,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -300180,7 +300180,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk8</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.opencsv</groupId>
@@ -301240,7 +301240,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -301330,7 +301330,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -302080,7 +302080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -302670,7 +302670,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-vault-config</artifactId>
-    <version>3.1.1</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.restdocs</groupId>
@@ -302850,7 +302850,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.zipkin.brave</groupId>
@@ -303035,7 +303035,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss</groupId>
@@ -303065,7 +303065,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.servicemix.bundles</groupId>
@@ -303145,7 +303145,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.4</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -303405,7 +303405,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -303910,7 +303910,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -305340,7 +305340,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -306050,7 +306050,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -306125,7 +306125,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -306915,7 +306915,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -307430,7 +307430,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk7</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
@@ -308170,7 +308170,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -308810,7 +308810,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -308960,7 +308960,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -310535,7 +310535,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -310630,7 +310630,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-undertow</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -310820,7 +310820,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.wildfly.client</groupId>
@@ -310830,7 +310830,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.4</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -311625,7 +311625,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -312180,7 +312180,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -312350,7 +312350,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -312470,7 +312470,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -314835,7 +314835,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -315465,7 +315465,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -315545,7 +315545,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -316985,7 +316985,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.sisu</groupId>
@@ -317600,7 +317600,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -317820,7 +317820,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kerby</groupId>
@@ -317870,7 +317870,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.6.6</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -319020,7 +319020,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -319665,7 +319665,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -319710,7 +319710,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-stdlib-jdk7</artifactId>
-    <version>1.6.21</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.jodd</groupId>
@@ -319760,7 +319760,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -320700,7 +320700,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel.quarkus</groupId>
@@ -320800,7 +320800,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -321540,7 +321540,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -321680,7 +321680,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -321705,7 +321705,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -322360,7 +322360,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -322580,7 +322580,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -322610,7 +322610,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-vault-config</artifactId>
-    <version>3.1.1</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.clapper</groupId>
@@ -323425,7 +323425,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -324385,7 +324385,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -325135,7 +325135,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-reflect</artifactId>
-    <version>1.6.10</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -325255,7 +325255,7 @@
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
     <artifactId>kotlin-reflect</artifactId>
-    <version>1.6.10</version>
+    <version>2.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -325870,7 +325870,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.bind</groupId>
@@ -326685,7 +326685,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -326775,7 +326775,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -327550,7 +327550,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -327690,7 +327690,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -329985,7 +329985,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -330270,7 +330270,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.6.6</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.servicemix.bundles</groupId>
@@ -330400,7 +330400,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.6.6</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -330795,7 +330795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.lz4</groupId>
@@ -331040,7 +331040,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -331605,7 +331605,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -331765,7 +331765,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -331930,7 +331930,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -333515,7 +333515,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -333900,7 +333900,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -334185,7 +334185,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -334885,7 +334885,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -335225,7 +335225,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -335945,7 +335945,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -336490,7 +336490,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -336755,7 +336755,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.auth0</groupId>
@@ -336930,7 +336930,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-test</artifactId>
-    <version>2.6.6</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -337345,7 +337345,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -337380,7 +337380,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -338555,7 +338555,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -338650,7 +338650,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.mail</groupId>
@@ -338870,7 +338870,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -339640,7 +339640,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -340450,7 +340450,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -341035,7 +341035,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -341125,7 +341125,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -342855,7 +342855,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -342970,7 +342970,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -343545,7 +343545,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -343675,7 +343675,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -344795,7 +344795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -345285,7 +345285,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -345305,7 +345305,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.1.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -345415,7 +345415,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.18</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -345980,7 +345980,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.1.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -346005,7 +346005,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.18</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -346865,7 +346865,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -347690,7 +347690,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.3</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -347860,7 +347860,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>5.3.20</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -348025,7 +348025,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.1.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>commons-beanutils</groupId>
@@ -349810,7 +349810,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-    <version>3.0.4</version>
+    <version>4.1.4</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
