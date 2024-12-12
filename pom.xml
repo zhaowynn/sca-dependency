@@ -85344,12 +85344,12 @@
 <dependency>
   <groupId>org.tensorflow</groupId>
   <artifactId>tensorflow-core-generator</artifactId>
-  <version>0.4.2</version>
+  <version>1.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.tensorflow</groupId>
   <artifactId>tensorflow-core-api</artifactId>
-  <version>0.4.2</version>
+  <version>1.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.tensorflow</groupId>
@@ -85379,12 +85379,12 @@
 <dependency>
   <groupId>org.tensorflow</groupId>
   <artifactId>tensorflow-core-api</artifactId>
-  <version>0.4.2</version>
+  <version>1.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.tensorflow</groupId>
   <artifactId>tensorflow-core-generator</artifactId>
-  <version>0.4.2</version>
+  <version>1.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.tensorflow</groupId>
