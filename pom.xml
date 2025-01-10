@@ -148415,7 +148415,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>org.scala-sbt</groupId>
@@ -260140,7 +260140,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.0.29</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -260515,7 +260515,7 @@
 <dependency>
     <groupId>io.gatling</groupId>
     <artifactId>gatling-http</artifactId>
-    <version>2.2.5</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.gatling</groupId>
@@ -316475,7 +316475,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -321135,7 +321135,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -346030,7 +346030,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
