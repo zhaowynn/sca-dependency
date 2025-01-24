@@ -5249,7 +5249,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -8204,7 +8204,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -9159,7 +9159,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -11369,7 +11369,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -15894,7 +15894,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -16644,7 +16644,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.yaml</groupId>
@@ -21179,7 +21179,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -23709,7 +23709,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -24569,7 +24569,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -25519,7 +25519,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -26249,7 +26249,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -31119,7 +31119,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -32414,7 +32414,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.jsoup</groupId>
@@ -35859,7 +35859,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -36069,7 +36069,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -39129,7 +39129,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -44274,7 +44274,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.jsoup</groupId>
@@ -49169,7 +49169,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -52674,7 +52674,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -55854,7 +55854,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -58699,7 +58699,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -61344,7 +61344,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -62384,7 +62384,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -65224,7 +65224,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -65479,7 +65479,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -68454,7 +68454,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>us.springett</groupId>
@@ -68504,7 +68504,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -73319,7 +73319,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -79989,7 +79989,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -80279,7 +80279,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -80824,7 +80824,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>javax.persistence</groupId>
@@ -85814,7 +85814,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -89989,7 +89989,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-logging</artifactId>
-  <version>2.4.3</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -91914,7 +91914,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -92999,7 +92999,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -93119,7 +93119,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -95884,7 +95884,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -98704,7 +98704,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>io.kestra.plugin</groupId>
@@ -98759,7 +98759,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-loader-tools</artifactId>
-  <version>2.5.14</version>
+  <version>3.3.7</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind.external</groupId>
@@ -102095,7 +102095,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -108555,7 +108555,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -108810,7 +108810,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -111695,7 +111695,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -114485,7 +114485,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents.wso2</groupId>
@@ -114520,7 +114520,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -114910,7 +114910,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -117730,7 +117730,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -120420,7 +120420,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -120965,7 +120965,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -125695,7 +125695,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -126365,7 +126365,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -128190,7 +128190,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -136585,7 +136585,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -136825,7 +136825,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -141235,7 +141235,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -143665,7 +143665,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -145275,7 +145275,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-bindings-xml</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -146005,7 +146005,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -148355,7 +148355,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -152495,7 +152495,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.4.3</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -153105,7 +153105,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.protostuff</groupId>
@@ -153270,7 +153270,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-transports-http</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -153450,7 +153450,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-bindings-soap</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -155715,7 +155715,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-ws-policy</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
@@ -155975,7 +155975,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>3.0.0</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -156610,7 +156610,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-rs-client</artifactId>
-    <version>3.4.4</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -157050,7 +157050,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-security</artifactId>
-    <version>3.4.4</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -157475,7 +157475,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-ws-addr</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>io.gatling.highcharts</groupId>
@@ -158800,7 +158800,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.7.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang.modules</groupId>
@@ -159250,7 +159250,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>3.0.0</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -159320,7 +159320,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.7.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -159625,7 +159625,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -159950,7 +159950,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-buildpack-platform</artifactId>
-    <version>2.7.5</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>net.jodah</groupId>
@@ -159990,7 +159990,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-core</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.10</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -160010,7 +160010,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -162055,7 +162055,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.amqp</groupId>
@@ -163245,7 +163245,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -164280,7 +164280,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -166795,7 +166795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -168125,7 +168125,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -169980,7 +169980,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -170325,7 +170325,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -171760,7 +171760,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -172710,7 +172710,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -175515,7 +175515,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -178480,7 +178480,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -180705,7 +180705,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -182380,7 +182380,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.ws</groupId>
@@ -185615,7 +185615,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -187345,7 +187345,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>de.lars-sh</groupId>
@@ -188020,7 +188020,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -188920,7 +188920,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -191055,7 +191055,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -192645,7 +192645,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -194080,7 +194080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -200095,7 +200095,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -202300,7 +202300,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -203295,7 +203295,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -205805,7 +205805,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -207715,7 +207715,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -208190,7 +208190,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -208940,7 +208940,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -211570,7 +211570,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -213160,7 +213160,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -216730,7 +216730,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -219610,7 +219610,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -219895,7 +219895,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -221440,7 +221440,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -223410,7 +223410,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -223870,7 +223870,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -230445,7 +230445,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -231395,7 +231395,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -232745,7 +232745,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -234035,7 +234035,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -236400,7 +236400,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -238605,7 +238605,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -241255,7 +241255,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -243505,7 +243505,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -244390,7 +244390,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -245055,7 +245055,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -246765,7 +246765,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -248995,7 +248995,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -256100,7 +256100,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -257535,7 +257535,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -259235,7 +259235,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -260585,7 +260585,7 @@
 <dependency>
     <groupId>io.gatling</groupId>
     <artifactId>gatling-commons</artifactId>
-    <version>2.2.5</version>
+    <version>3.13.2</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -262105,7 +262105,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -264010,7 +264010,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -264045,7 +264045,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -264485,7 +264485,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -265560,7 +265560,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -267670,7 +267670,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -268075,7 +268075,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -269995,7 +269995,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -270060,7 +270060,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -271075,7 +271075,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -271190,7 +271190,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex</groupId>
@@ -273070,7 +273070,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -276625,7 +276625,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.woodstox</groupId>
@@ -277165,7 +277165,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.jersey.contribs</groupId>
@@ -277720,7 +277720,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex</groupId>
@@ -279735,7 +279735,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -281985,7 +281985,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -282805,7 +282805,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -288210,7 +288210,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -292065,7 +292065,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -294725,7 +294725,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>jaxen</groupId>
@@ -298080,7 +298080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -300450,7 +300450,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.4.3</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -301330,7 +301330,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -306125,7 +306125,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -308960,7 +308960,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -310535,7 +310535,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -315545,7 +315545,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -319760,7 +319760,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -320700,7 +320700,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel.quarkus</groupId>
@@ -322580,7 +322580,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -325750,7 +325750,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -326775,7 +326775,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -329955,7 +329955,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.github.solven-eu.pepper</groupId>
@@ -330795,7 +330795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.lz4</groupId>
@@ -333755,7 +333755,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.typesafe.scala-logging</groupId>
@@ -337380,7 +337380,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -338650,7 +338650,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>javax.mail</groupId>
@@ -341125,7 +341125,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -343675,7 +343675,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -344795,7 +344795,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-loader-tools</artifactId>
-    <version>2.5.14</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -344915,7 +344915,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.4.3</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -345450,7 +345450,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.aliyun</groupId>
@@ -345625,7 +345625,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-logging</artifactId>
-    <version>2.4.3</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.gmbal</groupId>
