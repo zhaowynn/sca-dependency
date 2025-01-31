@@ -90349,7 +90349,7 @@
 <dependency>
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-servlets</artifactId>
-  <version>9.4.36.v20210114</version>
+  <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
   <groupId>io.rest-assured</groupId>
@@ -149340,7 +149340,7 @@
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-servlets</artifactId>
-    <version>9.4.36.v20210114</version>
+    <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -159305,7 +159305,7 @@
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-servlets</artifactId>
-    <version>9.4.36.v20210114</version>
+    <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -163365,7 +163365,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -171355,7 +171355,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.joshelser</groupId>
@@ -254365,7 +254365,7 @@
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-servlets</artifactId>
-    <version>9.4.36.v20210114</version>
+    <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
     <groupId>jakarta.validation</groupId>
@@ -291040,7 +291040,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
@@ -302880,7 +302880,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kerby</groupId>
@@ -316620,7 +316620,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.velocity</groupId>
@@ -316710,7 +316710,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
@@ -316845,7 +316845,7 @@
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-servlets</artifactId>
-    <version>9.4.36.v20210114</version>
+    <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -324395,7 +324395,7 @@
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-servlets</artifactId>
-    <version>9.4.36.v20210114</version>
+    <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -325155,7 +325155,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -333790,7 +333790,7 @@
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-servlets</artifactId>
-    <version>9.4.36.v20210114</version>
+    <version>9.4.57.v20241219</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -344835,7 +344835,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -345175,7 +345175,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -345480,7 +345480,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-llap-client</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2.external</groupId>
