@@ -1609,7 +1609,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -3489,7 +3489,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -7054,7 +7054,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -9434,7 +9434,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -11889,7 +11889,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -13234,7 +13234,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -15244,7 +15244,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -16824,7 +16824,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -20284,7 +20284,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>javax.cache</groupId>
@@ -22919,7 +22919,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -24154,7 +24154,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>us.springett</groupId>
@@ -28254,7 +28254,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -29159,7 +29159,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -31239,7 +31239,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -34644,7 +34644,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>aopalliance</groupId>
@@ -37634,7 +37634,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -40899,7 +40899,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -42089,7 +42089,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -45954,7 +45954,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -47339,7 +47339,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -50939,7 +50939,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -54404,7 +54404,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>aopalliance</groupId>
@@ -57594,7 +57594,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -60544,7 +60544,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -64114,7 +64114,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -67489,7 +67489,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -70304,7 +70304,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>aopalliance</groupId>
@@ -71099,7 +71099,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.fusesource.jansi</groupId>
@@ -71769,7 +71769,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -74174,7 +74174,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -75944,7 +75944,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -78469,7 +78469,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml</groupId>
@@ -82559,7 +82559,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -84634,7 +84634,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>com.headius</groupId>
@@ -85269,7 +85269,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>xml-apis</groupId>
@@ -85319,7 +85319,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.gmbal</groupId>
@@ -87344,7 +87344,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -91704,7 +91704,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -94484,7 +94484,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -96919,7 +96919,7 @@
 <dependency>
   <groupId>io.lettuce</groupId>
   <artifactId>lettuce-core</artifactId>
-  <version>6.1.8.RELEASE</version>
+  <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -101410,7 +101410,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.parboiled</groupId>
@@ -102435,7 +102435,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -105625,7 +105625,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -106775,7 +106775,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -110995,7 +110995,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -113995,7 +113995,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -116000,7 +116000,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -117010,7 +117010,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -120155,7 +120155,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -123680,7 +123680,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -123950,7 +123950,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -127320,7 +127320,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -131430,7 +131430,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -133440,7 +133440,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -134020,7 +134020,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -137215,7 +137215,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -137255,7 +137255,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -141455,7 +141455,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -143920,7 +143920,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -146235,7 +146235,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -150030,7 +150030,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -151050,7 +151050,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -153960,7 +153960,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-client</artifactId>
-    <version>2.2.4</version>
+    <version>2.6.2</version>
 </dependency>
 <dependency>
     <groupId>ch.cern.hbase</groupId>
@@ -154925,7 +154925,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.2.1.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shiro</groupId>
@@ -155305,7 +155305,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-server</artifactId>
-    <version>2.2.4</version>
+    <version>2.6.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.activation</groupId>
@@ -155535,7 +155535,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-testing-util</artifactId>
-    <version>2.0.1</version>
+    <version>2.6.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -158560,7 +158560,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-common</artifactId>
-    <version>2.2.4</version>
+    <version>2.6.2</version>
 </dependency>
 <dependency>
     <groupId>xmlenc</groupId>
@@ -159355,7 +159355,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-vfs2-jackrabbit2</artifactId>
-    <version>2.9.0</version>
+    <version>2.10.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -160905,7 +160905,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -161845,7 +161845,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -164050,7 +164050,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -164665,7 +164665,7 @@
 <dependency>
     <groupId>io.zipkin.reporter2</groupId>
     <artifactId>zipkin-sender-kafka</artifactId>
-    <version>2.16.3</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>javax.enterprise</groupId>
@@ -166590,7 +166590,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -169770,7 +169770,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -172520,7 +172520,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -175395,7 +175395,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -176805,7 +176805,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -180590,7 +180590,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -182200,7 +182200,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -185495,7 +185495,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -187920,7 +187920,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -190950,7 +190950,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.swagger2markup</groupId>
@@ -192470,7 +192470,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -194835,7 +194835,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -197020,7 +197020,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -199980,7 +199980,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.swagger2markup</groupId>
@@ -202195,7 +202195,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -205710,7 +205710,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.swagger2markup</groupId>
@@ -208040,7 +208040,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -211450,7 +211450,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -212930,7 +212930,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -214900,7 +214900,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -217785,7 +217785,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -219815,7 +219815,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -221315,7 +221315,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -223755,7 +223755,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -225255,7 +225255,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -230340,7 +230340,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -232455,7 +232455,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -235345,7 +235345,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -236275,7 +236275,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -238470,7 +238470,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -241135,7 +241135,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -243370,7 +243370,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -246635,7 +246635,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -248865,7 +248865,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -250255,7 +250255,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -252505,7 +252505,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -255965,7 +255965,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -259105,7 +259105,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -261960,7 +261960,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -264365,7 +264365,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -266130,7 +266130,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -269890,7 +269890,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -272850,7 +272850,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -276320,7 +276320,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -278630,7 +278630,7 @@
 <dependency>
     <groupId>io.zipkin.reporter2</groupId>
     <artifactId>zipkin-sender-kafka</artifactId>
-    <version>2.16.3</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>javax.enterprise</groupId>
@@ -279655,7 +279655,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -281895,7 +281895,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -283805,7 +283805,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -287180,7 +287180,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -287795,7 +287795,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.transaction</groupId>
@@ -290630,7 +290630,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -294625,7 +294625,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -295735,7 +295735,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -297860,7 +297860,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -301240,7 +301240,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -303910,7 +303910,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -306050,7 +306050,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -308810,7 +308810,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -310390,7 +310390,7 @@
 <dependency>
     <groupId>io.zipkin.reporter2</groupId>
     <artifactId>zipkin-sender-kafka</artifactId>
-    <version>2.16.3</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.flatbuffers</groupId>
@@ -312470,7 +312470,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -315465,7 +315465,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -319665,7 +319665,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -322360,7 +322360,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -324385,7 +324385,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -326685,7 +326685,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -327690,7 +327690,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -331930,7 +331930,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -336490,7 +336490,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -338555,7 +338555,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -341035,7 +341035,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -342855,7 +342855,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -343545,7 +343545,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -348025,7 +348025,7 @@
 <dependency>
     <groupId>io.lettuce</groupId>
     <artifactId>lettuce-core</artifactId>
-    <version>6.1.8.RELEASE</version>
+    <version>6.5.4.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>commons-beanutils</groupId>
