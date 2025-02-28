@@ -2109,7 +2109,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.projectlombok</groupId>
@@ -4109,7 +4109,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.ws</groupId>
@@ -7559,7 +7559,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.ws</groupId>
@@ -10219,7 +10219,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.logging.log4j</groupId>
@@ -13404,7 +13404,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -15419,7 +15419,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.aspectj</groupId>
@@ -17599,7 +17599,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -18554,7 +18554,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -20464,7 +20464,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -23089,7 +23089,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -25759,7 +25759,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -28609,7 +28609,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -29729,7 +29729,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.logging.log4j</groupId>
@@ -31954,7 +31954,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -35009,7 +35009,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -38009,7 +38009,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -41254,7 +41254,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.ws</groupId>
@@ -46299,7 +46299,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -47999,7 +47999,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.bind</groupId>
@@ -51254,7 +51254,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -52894,7 +52894,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.logging.log4j</groupId>
@@ -54684,7 +54684,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.aspectj</groupId>
@@ -56209,7 +56209,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.extras</groupId>
@@ -57859,7 +57859,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -60794,7 +60794,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -64369,7 +64369,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -67744,7 +67744,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -70599,7 +70599,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.ws</groupId>
@@ -72339,7 +72339,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -76219,7 +76219,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.googlecode.aviator</groupId>
@@ -76599,7 +76599,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -79009,7 +79009,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -82829,7 +82829,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>io.vavr</groupId>
@@ -84904,7 +84904,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.ws</groupId>
@@ -86404,7 +86404,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.geronimo.specs</groupId>
@@ -87924,7 +87924,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -95054,7 +95054,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -97209,7 +97209,7 @@
 <dependency>
   <groupId>org.redisson</groupId>
   <artifactId>redisson</artifactId>
-  <version>3.15.0</version>
+  <version>3.45.0</version>
 </dependency>
 <dependency>
   <groupId>io.vavr</groupId>
@@ -100910,7 +100910,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -103095,7 +103095,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -105080,7 +105080,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.ezmorph</groupId>
@@ -107275,7 +107275,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -110495,7 +110495,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -113495,7 +113495,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -116510,7 +116510,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.ezmorph</groupId>
@@ -118025,7 +118025,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -123185,7 +123185,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -124235,7 +124235,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -128075,7 +128075,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -130915,7 +130915,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -132925,7 +132925,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -134610,7 +134610,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -138675,7 +138675,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -139210,7 +139210,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>commons-beanutils</groupId>
@@ -142480,7 +142480,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -144950,7 +144950,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -147265,7 +147265,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -148095,7 +148095,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -150290,7 +150290,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -153420,7 +153420,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.16.1</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -156120,7 +156120,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>com.nimbusds</groupId>
@@ -163100,7 +163100,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -165600,7 +165600,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>javax.inject</groupId>
@@ -167935,7 +167935,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>javax.inject</groupId>
@@ -168505,7 +168505,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -171415,7 +171415,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.x-stream</groupId>
@@ -173860,7 +173860,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -176165,7 +176165,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -177060,7 +177060,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -181330,7 +181330,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign</groupId>
@@ -183535,7 +183535,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -186240,7 +186240,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -188645,7 +188645,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -191560,7 +191560,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -191745,7 +191745,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -193955,7 +193955,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -195155,7 +195155,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.aviator</groupId>
@@ -196315,7 +196315,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jsqlparser</groupId>
@@ -197285,7 +197285,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -202990,7 +202990,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -206470,7 +206470,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -208865,7 +208865,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -208875,7 +208875,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.servicemix.bundles</groupId>
@@ -212295,7 +212295,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -214455,7 +214455,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -215260,7 +215260,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -218150,7 +218150,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -222190,7 +222190,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -224585,7 +224585,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -225655,7 +225655,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -229020,7 +229020,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -231205,7 +231205,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -233090,7 +233090,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -237060,7 +237060,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -239315,7 +239315,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -241975,7 +241975,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -244205,7 +244205,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -247495,7 +247495,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -249685,7 +249685,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -250900,7 +250900,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -252865,7 +252865,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -256815,7 +256815,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -260075,7 +260075,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -262780,7 +262780,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -265230,7 +265230,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -266710,7 +266710,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.offbytwo.jenkins</groupId>
@@ -270845,7 +270845,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -272160,7 +272160,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -277765,7 +277765,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -280480,7 +280480,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -282210,7 +282210,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -282705,7 +282705,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -283055,7 +283055,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -284140,7 +284140,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.ws</groupId>
@@ -287655,7 +287655,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -290505,7 +290505,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -290585,7 +290585,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -292625,7 +292625,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.exist-db.thirdparty.xerces</groupId>
@@ -292635,7 +292635,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -292685,7 +292685,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -295480,7 +295480,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -295990,7 +295990,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -305185,7 +305185,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -306870,7 +306870,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -307185,12 +307185,12 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307370,12 +307370,12 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307565,7 +307565,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -309330,7 +309330,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -309785,7 +309785,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -312810,7 +312810,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -316335,7 +316335,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -316725,7 +316725,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>com.sun.jersey</groupId>
@@ -316760,7 +316760,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>io.github.resilience4j</groupId>
@@ -320465,7 +320465,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -323840,7 +323840,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -325500,7 +325500,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -325575,7 +325575,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -325670,7 +325670,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -327380,7 +327380,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -327975,7 +327975,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -330015,7 +330015,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>io.spring.initializr</groupId>
@@ -330025,7 +330025,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -330465,7 +330465,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -332185,7 +332185,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -338735,7 +338735,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -339490,7 +339490,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -341755,7 +341755,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -344295,7 +344295,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -346040,7 +346040,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -346455,7 +346455,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-hive_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>org.wildfly.common</groupId>
@@ -346475,7 +346475,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.5</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -348250,7 +348250,7 @@
 <dependency>
     <groupId>org.redisson</groupId>
     <artifactId>redisson</artifactId>
-    <version>3.15.0</version>
+    <version>3.45.0</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
