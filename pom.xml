@@ -479,7 +479,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -744,7 +744,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -1604,7 +1604,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -2304,7 +2304,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -2384,7 +2384,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -2544,7 +2544,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -3599,7 +3599,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -4344,7 +4344,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -4429,7 +4429,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -5934,7 +5934,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -6189,7 +6189,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -7079,7 +7079,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml</groupId>
@@ -9554,7 +9554,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -10584,7 +10584,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -10694,7 +10694,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -12119,7 +12119,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -12399,7 +12399,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -13229,7 +13229,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -14154,7 +14154,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -14439,7 +14439,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -15224,7 +15224,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -17004,7 +17004,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.xml.bind</groupId>
@@ -17869,7 +17869,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -18004,7 +18004,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -18564,7 +18564,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -19189,7 +19189,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -19469,7 +19469,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -20234,7 +20234,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -21854,7 +21854,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -22129,7 +22129,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -22914,7 +22914,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -27324,7 +27324,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -27669,7 +27669,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.hibernate.validator</groupId>
@@ -28384,7 +28384,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -29254,7 +29254,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -30044,7 +30044,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -30124,7 +30124,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -31334,7 +31334,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -32359,7 +32359,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -32474,7 +32474,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -32499,7 +32499,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.offbytwo.jenkins</groupId>
@@ -33734,7 +33734,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.tdunning</groupId>
@@ -34024,7 +34024,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -34799,7 +34799,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -36729,7 +36729,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -37014,7 +37014,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -37789,7 +37789,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -39994,7 +39994,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -40269,7 +40269,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -41054,7 +41054,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -42194,7 +42194,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.itextpdf</groupId>
@@ -43024,7 +43024,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -43109,7 +43109,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -44999,7 +44999,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -45294,7 +45294,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -46084,7 +46084,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -47474,7 +47474,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -48219,7 +48219,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -48304,7 +48304,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -50019,7 +50019,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -50314,7 +50314,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.fastinfoset</groupId>
@@ -51064,7 +51064,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -53489,7 +53489,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -54434,7 +54434,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -54704,7 +54704,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -55909,7 +55909,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -56644,7 +56644,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -57589,7 +57589,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -57879,7 +57879,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -58339,7 +58339,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -58419,7 +58419,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -59604,7 +59604,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -60514,7 +60514,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis</groupId>
@@ -60804,7 +60804,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -63159,7 +63159,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -64089,7 +64089,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -64374,7 +64374,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -66059,7 +66059,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>de.lars-sh</groupId>
@@ -66564,7 +66564,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -67524,7 +67524,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.martiansoftware</groupId>
@@ -67749,7 +67749,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -69374,7 +69374,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -70339,7 +70339,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.martiansoftware</groupId>
@@ -70569,7 +70569,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -71799,7 +71799,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -72894,7 +72894,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -72964,7 +72964,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -74349,7 +74349,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -75014,7 +75014,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -75964,7 +75964,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.martiansoftware</groupId>
@@ -76184,7 +76184,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -77079,7 +77079,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -77409,7 +77409,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -78479,7 +78479,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis</groupId>
@@ -79374,7 +79374,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -79419,7 +79419,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -81604,7 +81604,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -82554,7 +82554,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -82794,7 +82794,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -83694,7 +83694,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -84649,7 +84649,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -84879,7 +84879,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -86629,7 +86629,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -87494,7 +87494,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -87869,7 +87869,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign</groupId>
@@ -93749,7 +93749,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>org.projectlombok</groupId>
@@ -94594,7 +94594,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -94999,7 +94999,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -97029,7 +97029,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -97674,7 +97674,7 @@
 <dependency>
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml</artifactId>
-  <version>4.1.2</version>
+  <version>5.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.ha</groupId>
@@ -97689,7 +97689,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -97989,12 +97989,12 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch-geo</artifactId>
-  <version>7.12.1</version>
+  <version>7.17.24</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -100695,7 +100695,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -101285,7 +101285,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -101330,7 +101330,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -102455,7 +102455,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -103775,7 +103775,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -103825,7 +103825,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -105455,7 +105455,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -105525,7 +105525,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -105660,7 +105660,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -106770,7 +106770,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -107645,7 +107645,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -107725,7 +107725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -110875,7 +110875,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -110915,7 +110915,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -111025,7 +111025,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -111505,7 +111505,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -113875,7 +113875,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -113925,7 +113925,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -114015,7 +114015,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -116885,7 +116885,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -116930,7 +116930,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -117035,7 +117035,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -120025,7 +120025,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -120085,7 +120085,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -120150,7 +120150,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -123575,7 +123575,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -123625,7 +123625,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -123675,7 +123675,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -123980,7 +123980,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -124250,7 +124250,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -124740,7 +124740,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -127315,7 +127315,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -128535,7 +128535,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -128635,7 +128635,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -131290,7 +131290,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -131355,7 +131355,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -131415,7 +131415,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -133315,7 +133315,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -133375,7 +133375,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -133430,7 +133430,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -133990,7 +133990,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -134605,7 +134605,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.redisson</groupId>
@@ -134985,7 +134985,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -135050,7 +135050,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -137140,7 +137140,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.offbytwo.jenkins</groupId>
@@ -137360,7 +137360,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -137810,7 +137810,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -139375,7 +139375,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -139515,7 +139515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -139560,7 +139560,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -141510,7 +141510,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -141530,7 +141530,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -142715,7 +142715,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -143970,7 +143970,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -144005,7 +144005,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -145190,7 +145190,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -146260,7 +146260,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -146320,7 +146320,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -147320,7 +147320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -147515,7 +147515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -147560,7 +147560,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.17.3</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -150025,7 +150025,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -150295,7 +150295,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -150810,7 +150810,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -153475,7 +153475,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.17.7</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -153710,7 +153710,7 @@
 <dependency>
     <groupId>org.ofdrw</groupId>
     <artifactId>ofdrw-full</artifactId>
-    <version>1.19.1</version>
+    <version>2.3.6</version>
 </dependency>
 <dependency>
     <groupId>org.apache.sshd</groupId>
@@ -155295,7 +155295,7 @@
 <dependency>
     <groupId>org.ofdrw</groupId>
     <artifactId>ofdrw-converter</artifactId>
-    <version>1.19.1</version>
+    <version>2.3.6</version>
 </dependency>
 <dependency>
     <groupId>ch.cern.hbase</groupId>
@@ -155805,7 +155805,7 @@
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-parsers</artifactId>
-    <version>1.27</version>
+    <version>2.0.0</version>
 </dependency>
 <dependency>
     <groupId>backport-util-concurrent</groupId>
@@ -159045,7 +159045,7 @@
 <dependency>
     <groupId>nl.cloudfarming.client</groupId>
     <artifactId>lib-swingx</artifactId>
-    <version>1.6.1-NB72</version>
+    <version>1.6.1-NB72-NO-WS</version>
 </dependency>
 <dependency>
     <groupId>xalan</groupId>
@@ -160640,7 +160640,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -160925,7 +160925,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -160990,7 +160990,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -161870,7 +161870,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -162325,7 +162325,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -162335,7 +162335,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -164055,7 +164055,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -164555,7 +164555,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -164620,7 +164620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -166585,7 +166585,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -167055,7 +167055,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -167125,7 +167125,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -168440,7 +168440,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -169760,7 +169760,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -170310,7 +170310,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -170435,7 +170435,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.docker-java</groupId>
@@ -172505,7 +172505,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -172980,7 +172980,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -173055,7 +173055,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -174310,7 +174310,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -175690,7 +175690,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -175730,7 +175730,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -176775,7 +176775,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -177065,7 +177065,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -177550,7 +177550,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -179500,7 +179500,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -180870,7 +180870,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -180920,7 +180920,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -182215,7 +182215,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -182650,7 +182650,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -182725,7 +182725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -184435,7 +184435,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -185760,7 +185760,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -185820,7 +185820,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -186685,7 +186685,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -188170,7 +188170,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -188225,7 +188225,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -189880,7 +189880,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -191210,7 +191210,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -191260,7 +191260,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -192465,7 +192465,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -192900,7 +192900,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -192985,7 +192985,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -194885,7 +194885,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.martiansoftware</groupId>
@@ -195135,7 +195135,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -195660,7 +195660,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -197055,7 +197055,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.martiansoftware</groupId>
@@ -197290,7 +197290,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -197780,7 +197780,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -198935,7 +198935,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -200255,7 +200255,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -200300,7 +200300,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -201095,7 +201095,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -202470,7 +202470,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -202490,7 +202490,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -203620,7 +203620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -204600,7 +204600,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -205940,7 +205940,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -205970,7 +205970,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -206815,7 +206815,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -208345,7 +208345,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -208365,7 +208365,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -209060,7 +209060,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -211770,7 +211770,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -211795,7 +211795,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -213020,7 +213020,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -213455,7 +213455,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -213520,7 +213520,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -215025,7 +215025,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -215665,7 +215665,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -216005,7 +216005,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -217915,7 +217915,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -218565,7 +218565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -218955,7 +218955,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -220275,7 +220275,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -221620,7 +221620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -221665,7 +221665,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -222520,7 +222520,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -224065,7 +224065,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -224110,7 +224110,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -225130,7 +225130,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -225515,7 +225515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -226020,7 +226020,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -226965,7 +226965,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -227300,7 +227300,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -228525,7 +228525,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -228565,7 +228565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -229360,7 +229360,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -230620,7 +230620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -230705,7 +230705,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -232705,7 +232705,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -233745,7 +233745,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234160,7 +234160,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -235220,7 +235220,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -236565,7 +236565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -236615,7 +236615,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -237435,7 +237435,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -238790,7 +238790,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -238835,7 +238835,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -239930,7 +239930,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -241455,7 +241455,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -241495,7 +241495,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -242305,7 +242305,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -243670,7 +243670,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -243715,7 +243715,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -245605,7 +245605,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -246970,7 +246970,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -247010,7 +247010,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -247805,7 +247805,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -249165,7 +249165,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -249210,7 +249210,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -250420,7 +250420,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -250840,7 +250840,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -251270,7 +251270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -252660,7 +252660,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -253295,7 +253295,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -253590,7 +253590,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -254095,7 +254095,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -254730,7 +254730,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -254755,7 +254755,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -256270,7 +256270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -256320,7 +256320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -257235,7 +257235,7 @@
 <dependency>
     <groupId>com.diboot</groupId>
     <artifactId>diboot-file-spring-boot-starter</artifactId>
-    <version>2.1.1</version>
+    <version>2.6.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -258040,7 +258040,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -259535,7 +259535,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -259565,7 +259565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -260630,7 +260630,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang.modules</groupId>
@@ -262265,7 +262265,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -262320,7 +262320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -263115,7 +263115,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -264700,7 +264700,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>io.micrometer</groupId>
@@ -264725,7 +264725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -266295,7 +266295,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -266640,7 +266640,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -267110,7 +267110,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -268780,7 +268780,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>xmlpull</groupId>
@@ -270265,7 +270265,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -270305,7 +270305,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -271865,7 +271865,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.jws</groupId>
@@ -272090,7 +272090,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -273470,7 +273470,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -274625,7 +274625,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -277085,7 +277085,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>xpp3</groupId>
@@ -277115,7 +277115,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -278340,7 +278340,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang.modules</groupId>
@@ -279860,7 +279860,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -279975,7 +279975,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -280800,7 +280800,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -282235,7 +282235,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -282270,7 +282270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -283935,7 +283935,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -284575,7 +284575,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -284855,7 +284855,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -285285,7 +285285,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -287370,7 +287370,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.json</groupId>
@@ -288735,7 +288735,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -288800,7 +288800,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.pegdown</groupId>
@@ -288915,7 +288915,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -289410,7 +289410,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -293550,7 +293550,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -294895,7 +294895,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -295145,7 +295145,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -295950,7 +295950,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -297540,7 +297540,7 @@
 <dependency>
     <groupId>com.aliyun.oss</groupId>
     <artifactId>aliyun-sdk-oss</artifactId>
-    <version>2.5.0</version>
+    <version>2.8.3</version>
 </dependency>
 <dependency>
     <groupId>org.jetbrains</groupId>
@@ -298380,7 +298380,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -298415,7 +298415,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -299485,7 +299485,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -301600,7 +301600,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -301635,7 +301635,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -302925,7 +302925,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.jmock</groupId>
@@ -304240,7 +304240,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -304650,7 +304650,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -306250,7 +306250,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -306380,7 +306380,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -307720,7 +307720,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -309175,7 +309175,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -309370,7 +309370,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -312495,7 +312495,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -313300,7 +313300,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -313590,7 +313590,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -314370,7 +314370,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -315670,7 +315670,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -315795,7 +315795,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -318100,7 +318100,7 @@
 <dependency>
     <groupId>com.aliyun.oss</groupId>
     <artifactId>aliyun-sdk-oss</artifactId>
-    <version>2.5.0</version>
+    <version>2.8.3</version>
 </dependency>
 <dependency>
     <groupId>commons-collections</groupId>
@@ -318270,7 +318270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -318595,7 +318595,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -319875,7 +319875,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -319990,7 +319990,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -322340,7 +322340,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -322815,7 +322815,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -323035,7 +323035,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -324925,7 +324925,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -325265,7 +325265,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -325895,7 +325895,7 @@
 <dependency>
     <groupId>com.aliyun.oss</groupId>
     <artifactId>aliyun-sdk-oss</artifactId>
-    <version>3.11.2</version>
+    <version>2.8.3</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -326280,7 +326280,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -326935,7 +326935,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -327075,7 +327075,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -327700,7 +327700,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -327980,7 +327980,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -328475,7 +328475,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -329850,7 +329850,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -331925,7 +331925,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -332215,7 +332215,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -332725,7 +332725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -334410,7 +334410,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -336425,7 +336425,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -336680,7 +336680,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -337735,7 +337735,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -338035,7 +338035,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -339065,7 +339065,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -339930,7 +339930,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -341280,7 +341280,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -341425,7 +341425,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -342155,7 +342155,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -343805,7 +343805,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -343965,7 +343965,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.validator</groupId>
@@ -344555,7 +344555,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.scopt</groupId>
@@ -346090,7 +346090,7 @@
 <dependency>
     <groupId>com.aliyun.oss</groupId>
     <artifactId>aliyun-sdk-oss</artifactId>
-    <version>2.5.0</version>
+    <version>2.8.3</version>
 </dependency>
 <dependency>
     <groupId>commons-lang</groupId>
@@ -346985,7 +346985,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -347060,7 +347060,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -347995,7 +347995,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -348260,7 +348260,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -348755,7 +348755,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -349995,7 +349995,7 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
+    <version>5.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -350090,7 +350090,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-geo</artifactId>
-    <version>7.12.1</version>
+    <version>7.17.24</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.ws</groupId>
