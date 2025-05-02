@@ -349,7 +349,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -469,7 +469,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.tencentcloudapi</groupId>
@@ -1599,7 +1599,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.poi</groupId>
@@ -3174,7 +3174,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -3234,7 +3234,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -3494,7 +3494,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -3779,7 +3779,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -4964,7 +4964,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign.form</groupId>
@@ -5804,7 +5804,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -5919,7 +5919,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.tencentcloudapi</groupId>
@@ -7069,7 +7069,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.headius</groupId>
@@ -7704,7 +7704,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.marshalling</groupId>
@@ -7869,7 +7869,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.fusesource.jansi</groupId>
@@ -8279,7 +8279,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -8299,7 +8299,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.metro</groupId>
@@ -8354,7 +8354,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -8679,7 +8679,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -8894,7 +8894,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>javax.inject</groupId>
@@ -8904,7 +8904,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -10814,7 +10814,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.code.findbugs</groupId>
@@ -10984,7 +10984,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -11984,7 +11984,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -12104,7 +12104,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.tencentcloudapi</groupId>
@@ -13244,7 +13244,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -14019,7 +14019,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -14139,7 +14139,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -15239,7 +15239,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -16139,7 +16139,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -16274,7 +16274,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -16454,7 +16454,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -18239,7 +18239,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -19064,7 +19064,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>ognl</groupId>
@@ -19154,7 +19154,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -20279,7 +20279,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -20844,7 +20844,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -20959,7 +20959,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -21729,7 +21729,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -21839,7 +21839,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -22924,7 +22924,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -23774,7 +23774,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -23974,7 +23974,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>nl.jworks.markdown_to_asciidoc</groupId>
@@ -24369,7 +24369,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -24624,7 +24624,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -25594,7 +25594,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -26029,7 +26029,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mule.glassfish.jaxb</groupId>
@@ -26789,7 +26789,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -26874,7 +26874,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.protobuf</groupId>
@@ -27169,7 +27169,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -27279,7 +27279,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -28424,7 +28424,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign.form</groupId>
@@ -29164,7 +29164,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -30899,7 +30899,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -30974,7 +30974,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.protobuf</groupId>
@@ -31234,7 +31234,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.lettuce</groupId>
@@ -31909,7 +31909,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -33579,7 +33579,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -33624,7 +33624,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -34814,7 +34814,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.poi</groupId>
@@ -35684,7 +35684,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -36179,7 +36179,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -36569,7 +36569,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -36619,7 +36619,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -37854,7 +37854,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -38939,7 +38939,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -39054,7 +39054,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -39064,7 +39064,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -39874,7 +39874,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -39904,7 +39904,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind.external</groupId>
@@ -41129,7 +41129,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jfree</groupId>
@@ -41509,7 +41509,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -41754,7 +41754,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -42079,7 +42079,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.marshalling</groupId>
@@ -44054,7 +44054,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -44879,7 +44879,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -44909,7 +44909,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind.external</groupId>
@@ -46159,7 +46159,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jfree</groupId>
@@ -46729,7 +46729,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jfree</groupId>
@@ -46934,7 +46934,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.freemarker</groupId>
@@ -47074,7 +47074,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -48534,7 +48534,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -49024,7 +49024,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -49914,7 +49914,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -49934,7 +49934,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -51154,7 +51154,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -52369,7 +52369,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.marshalling</groupId>
@@ -52554,7 +52554,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -53339,7 +53339,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -53379,7 +53379,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -54589,7 +54589,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -55744,7 +55744,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -56499,7 +56499,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -56519,7 +56519,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -57749,7 +57749,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -58589,7 +58589,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -59454,7 +59454,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -59479,7 +59479,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -60679,7 +60679,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign.form</groupId>
@@ -61459,7 +61459,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -62244,7 +62244,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -63014,7 +63014,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -63039,7 +63039,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -64264,7 +64264,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.latencyutils</groupId>
@@ -65064,7 +65064,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -65594,7 +65594,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -66429,12 +66429,12 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -67634,7 +67634,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.security</groupId>
@@ -68334,7 +68334,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -68699,7 +68699,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -69249,7 +69249,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -69259,7 +69259,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -70469,7 +70469,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -71434,7 +71434,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>rubygems</groupId>
@@ -71479,7 +71479,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -71774,7 +71774,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -72889,7 +72889,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -73854,7 +73854,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -73919,7 +73919,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -74354,7 +74354,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.poi</groupId>
@@ -74869,7 +74869,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -74879,7 +74879,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -76144,7 +76144,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.aspectj</groupId>
@@ -78109,7 +78109,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -78149,7 +78149,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -78434,7 +78434,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.marshalling</groupId>
@@ -80169,7 +80169,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -80709,7 +80709,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -81444,7 +81444,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -81459,7 +81459,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -82759,7 +82759,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jfree</groupId>
@@ -83524,7 +83524,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -83549,7 +83549,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -84839,7 +84839,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -85704,7 +85704,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.mule.glassfish.jaxb</groupId>
@@ -85824,7 +85824,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -86429,7 +86429,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.code.gson</groupId>
@@ -86459,7 +86459,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -87779,7 +87779,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -91979,7 +91979,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -92914,7 +92914,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -93549,7 +93549,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -93579,7 +93579,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -94909,7 +94909,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -95339,7 +95339,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -95969,7 +95969,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>xyz.wc1950</groupId>
@@ -96699,7 +96699,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -96734,7 +96734,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -97104,7 +97104,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-client</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -98504,7 +98504,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -99084,7 +99084,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-common</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -99099,7 +99099,7 @@
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
   <artifactId>nacos-api</artifactId>
-  <version>2.0.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -100805,7 +100805,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -101870,7 +101870,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -101930,7 +101930,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -101990,7 +101990,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -102400,7 +102400,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.staxex</groupId>
@@ -103550,7 +103550,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -103595,7 +103595,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -104990,7 +104990,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -106370,7 +106370,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -106440,7 +106440,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.exist-db.thirdparty.xerces</groupId>
@@ -106715,7 +106715,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -108480,7 +108480,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -108955,7 +108955,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -109050,7 +109050,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -109085,7 +109085,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -109095,7 +109095,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.protobuf</groupId>
@@ -110405,7 +110405,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -111650,7 +111650,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -112020,7 +112020,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -112065,7 +112065,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -113350,7 +113350,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -114430,7 +114430,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -115050,7 +115050,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -115075,7 +115075,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -116360,7 +116360,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -117190,7 +117190,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -117390,7 +117390,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -117475,7 +117475,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>xerces</groupId>
@@ -117675,7 +117675,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -118150,7 +118150,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -118205,7 +118205,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -119505,7 +119505,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -120505,7 +120505,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -120890,7 +120890,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -121740,7 +121740,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -121755,12 +121755,12 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -123040,7 +123040,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -123755,7 +123755,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -124135,7 +124135,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -124380,7 +124380,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -125775,7 +125775,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -126265,7 +126265,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -126865,7 +126865,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -126950,7 +126950,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -127275,7 +127275,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -127955,7 +127955,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.javaslang</groupId>
@@ -129440,7 +129440,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -129450,7 +129450,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -130770,7 +130770,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -131485,7 +131485,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -131505,7 +131505,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -132785,7 +132785,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -133605,7 +133605,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -133700,7 +133700,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.exist-db.thirdparty.xerces</groupId>
@@ -133965,7 +133965,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -135750,7 +135750,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -136125,7 +136125,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -136435,7 +136435,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -136570,7 +136570,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -141060,7 +141060,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -141225,7 +141225,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -142890,7 +142890,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -142925,7 +142925,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -143490,7 +143490,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -143690,7 +143690,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -145780,7 +145780,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -146025,7 +146025,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -148480,7 +148480,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -149755,7 +149755,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -149770,7 +149770,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -150175,7 +150175,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -154575,7 +154575,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.1.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
@@ -154595,7 +154595,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.1.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.toasttab.protokt</groupId>
@@ -157705,7 +157705,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.ws.rs</groupId>
@@ -159730,7 +159730,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>1.4.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
@@ -160195,7 +160195,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -161275,7 +161275,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -162465,7 +162465,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -163500,7 +163500,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -164800,7 +164800,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -165660,7 +165660,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -166010,7 +166010,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -167245,7 +167245,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -168405,7 +168405,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -169200,7 +169200,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -170425,7 +170425,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -170645,7 +170645,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -171930,7 +171930,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -173170,7 +173170,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -174595,7 +174595,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -175080,7 +175080,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -176555,7 +176555,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -176580,7 +176580,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -176950,7 +176950,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -178660,7 +178660,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -179795,7 +179795,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -180310,7 +180310,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -181665,7 +181665,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -182900,7 +182900,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -183925,7 +183925,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -184710,7 +184710,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -185225,7 +185225,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -187020,7 +187020,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -187065,7 +187065,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -187615,7 +187615,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -189015,7 +189015,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -190200,7 +190200,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.liferay</groupId>
@@ -190640,7 +190640,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -191870,7 +191870,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -193175,7 +193175,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -194280,7 +194280,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws.security.kerb</groupId>
@@ -194300,7 +194300,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -194560,7 +194560,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -194570,7 +194570,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -195020,7 +195020,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -196765,12 +196765,12 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -197175,7 +197175,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -199265,7 +199265,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -201430,7 +201430,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xmlunit</groupId>
@@ -201875,7 +201875,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -203490,7 +203490,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -204945,7 +204945,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xmlunit</groupId>
@@ -205385,7 +205385,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -207135,7 +207135,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -207635,7 +207635,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -207830,7 +207830,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -208915,7 +208915,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -209110,7 +209110,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -210735,7 +210735,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -211190,7 +211190,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -212540,7 +212540,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -213700,7 +213700,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -214640,7 +214640,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -214745,7 +214745,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -215080,7 +215080,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -216880,7 +216880,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -217115,7 +217115,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -217550,7 +217550,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -217660,7 +217660,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -217955,7 +217955,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -219760,7 +219760,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents.wso2</groupId>
@@ -220230,7 +220230,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -221075,7 +221075,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -222820,7 +222820,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -222860,7 +222860,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -223335,7 +223335,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.offbytwo.jenkins</groupId>
@@ -224900,7 +224900,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -224915,7 +224915,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ognl</groupId>
@@ -225500,7 +225500,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.latencyutils</groupId>
@@ -226910,7 +226910,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -227580,7 +227580,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -229335,7 +229335,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -229560,7 +229560,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -229605,7 +229605,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -230115,7 +230115,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -230755,7 +230755,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.libphonenumber</groupId>
@@ -231480,7 +231480,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -232085,7 +232085,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -232215,7 +232215,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -232775,7 +232775,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -235195,7 +235195,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -236045,7 +236045,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -237765,7 +237765,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -238215,7 +238215,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -240345,7 +240345,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -240890,7 +240890,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.offbytwo.jenkins</groupId>
@@ -242275,7 +242275,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -243130,7 +243130,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -244510,7 +244510,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -245145,7 +245145,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -245940,7 +245940,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -246380,7 +246380,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -247795,7 +247795,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -248635,7 +248635,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -250170,7 +250170,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -250205,7 +250205,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -250740,7 +250740,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -252210,7 +252210,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -252255,7 +252255,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -252675,7 +252675,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -254645,7 +254645,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>xmlpull</groupId>
@@ -255710,7 +255710,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -257640,7 +257640,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -258030,7 +258030,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -258880,7 +258880,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -260590,7 +260590,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -261725,7 +261725,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -263100,7 +263100,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -264015,7 +264015,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -265835,7 +265835,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -266040,7 +266040,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -266550,7 +266550,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -268770,7 +268770,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -269640,7 +269640,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -271420,7 +271420,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -271755,7 +271755,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -273730,7 +273730,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -274615,7 +274615,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -275545,7 +275545,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.typesafe</groupId>
@@ -275685,7 +275685,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -278315,7 +278315,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.hdrhistogram</groupId>
@@ -279425,7 +279425,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -280790,7 +280790,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -281655,7 +281655,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -282895,7 +282895,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -283590,7 +283590,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -283620,7 +283620,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind.external</groupId>
@@ -284020,7 +284020,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jfree</groupId>
@@ -285280,7 +285280,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -286680,7 +286680,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -286830,7 +286830,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jctools</groupId>
@@ -286895,7 +286895,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -287520,7 +287520,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -290620,7 +290620,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -292175,7 +292175,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -293570,7 +293570,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -294440,7 +294440,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -295740,7 +295740,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -295940,7 +295940,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -297385,7 +297385,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -299480,7 +299480,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -300800,7 +300800,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -303030,7 +303030,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.ws</groupId>
@@ -304210,7 +304210,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -305815,7 +305815,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -307725,7 +307725,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -308635,7 +308635,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -310980,7 +310980,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jpmml</groupId>
@@ -312265,7 +312265,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -312315,7 +312315,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -312710,7 +312710,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.latencyutils</groupId>
@@ -314365,7 +314365,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -315240,7 +315240,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -318585,7 +318585,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -319420,7 +319420,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -320570,7 +320570,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -320805,7 +320805,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -321625,7 +321625,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -321655,7 +321655,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.oracle.database.jdbc</groupId>
@@ -321900,7 +321900,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -322355,7 +322355,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -325010,7 +325010,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.liferay</groupId>
@@ -326515,7 +326515,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -327855,7 +327855,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jfree</groupId>
@@ -331045,7 +331045,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -331690,7 +331690,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -331705,7 +331705,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -332085,7 +332085,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -333545,7 +333545,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.libphonenumber</groupId>
@@ -334430,7 +334430,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -334785,7 +334785,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -335555,7 +335555,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -336610,7 +336610,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -338115,7 +338115,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -339990,7 +339990,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.latencyutils</groupId>
@@ -340860,7 +340860,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -342165,7 +342165,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -343375,7 +343375,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -345315,7 +345315,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -346990,7 +346990,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -347775,7 +347775,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-common</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -347785,7 +347785,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-api</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -348150,7 +348150,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-collections</groupId>
@@ -349125,7 +349125,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -350040,7 +350040,7 @@
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>2.0.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.latencyutils</groupId>
