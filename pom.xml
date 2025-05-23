@@ -194005,7 +194005,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>3.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -291165,7 +291165,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>3.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -292635,7 +292635,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307190,7 +307190,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307375,7 +307375,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -310510,7 +310510,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>3.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
@@ -316760,7 +316760,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.resilience4j</groupId>
@@ -325670,7 +325670,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -330025,7 +330025,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -346475,7 +346475,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
