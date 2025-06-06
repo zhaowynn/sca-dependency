@@ -999,7 +999,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -2599,7 +2599,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.xhtmlrenderer</groupId>
@@ -4729,7 +4729,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.xhtmlrenderer</groupId>
@@ -6464,7 +6464,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -10929,7 +10929,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -12644,7 +12644,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -14669,7 +14669,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -18224,7 +18224,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -19544,7 +19544,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -22344,7 +22344,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -27674,7 +27674,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -30314,7 +30314,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -32754,7 +32754,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -34129,7 +34129,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -37114,7 +37114,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
@@ -40364,7 +40364,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.xhtmlrenderer</groupId>
@@ -43319,7 +43319,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>com.github.jsqlparser</groupId>
@@ -45389,7 +45389,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.xhtmlrenderer</groupId>
@@ -48514,7 +48514,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -50394,7 +50394,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -52114,7 +52114,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -53874,7 +53874,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -57039,7 +57039,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -59954,7 +59954,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -62024,7 +62024,7 @@
 <dependency>
   <groupId>com.puppycrawl.tools</groupId>
   <artifactId>checkstyle</artifactId>
-  <version>8.37</version>
+  <version>10.25.0</version>
 </dependency>
 <dependency>
   <groupId>org.openjdk.jmh</groupId>
@@ -63529,7 +63529,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.client</groupId>
@@ -66964,7 +66964,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -69774,7 +69774,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>com.itextpdf</groupId>
@@ -73214,7 +73214,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -75409,7 +75409,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.soap</groupId>
@@ -77479,7 +77479,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -79624,7 +79624,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>com.github.jsqlparser</groupId>
@@ -81989,7 +81989,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -84079,7 +84079,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -87234,7 +87234,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -88669,7 +88669,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>sshd-git</artifactId>
-  <version>2.9.2</version>
+  <version>2.12.1</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -89369,7 +89369,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.1.7.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -89464,7 +89464,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-core</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.2.37.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -89729,12 +89729,12 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-validation</artifactId>
-  <version>2.4.3</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-websockets-jsr</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.2.37.Final</version>
 </dependency>
 <dependency>
   <groupId>jakarta.transaction</groupId>
@@ -89949,7 +89949,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-servlet</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.2.37.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -90969,7 +90969,7 @@
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
   <artifactId>jackson-module-scala_2.12</artifactId>
-  <version>2.10.0</version>
+  <version>2.15.0</version>
 </dependency>
 <dependency>
   <groupId>com.typesafe.play</groupId>
@@ -94349,7 +94349,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -98159,7 +98159,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -100064,7 +100064,7 @@
 <dependency>
   <groupId>org.hibernate.validator</groupId>
   <artifactId>hibernate-validator</artifactId>
-  <version>6.2.3.Final</version>
+  <version>7.0.0.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -100465,7 +100465,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.logging</groupId>
@@ -104705,7 +104705,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -105850,7 +105850,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -107885,7 +107885,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -110135,7 +110135,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -113110,7 +113110,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -116110,7 +116110,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -119240,7 +119240,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -122780,7 +122780,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -125110,7 +125110,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -128855,7 +128855,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -130505,7 +130505,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -132520,7 +132520,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -135220,7 +135220,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -136495,7 +136495,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -136745,7 +136745,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -139775,7 +139775,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -140045,7 +140045,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -141185,7 +141185,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -143660,7 +143660,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -145245,7 +145245,7 @@
 <dependency>
     <groupId>org.json</groupId>
     <artifactId>json</artifactId>
-    <version>20211205</version>
+    <version>20231013</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.session</groupId>
@@ -145980,7 +145980,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -151205,7 +151205,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -151690,7 +151690,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -151825,7 +151825,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.1.7.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -151915,7 +151915,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -152220,7 +152220,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.mojo</groupId>
@@ -152475,7 +152475,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -153145,7 +153145,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-oss</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
@@ -153795,7 +153795,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.16.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>com.electronwill.night-config</groupId>
@@ -153960,7 +153960,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-client</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.11</version>
 </dependency>
 <dependency>
     <groupId>ch.cern.hbase</groupId>
@@ -154365,7 +154365,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-launch</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -154375,7 +154375,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-develop</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -155125,7 +155125,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-transaction</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.activiti.api</groupId>
@@ -156295,7 +156295,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.47</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
@@ -156670,7 +156670,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-test</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign</groupId>
@@ -157350,7 +157350,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-gateway</artifactId>
-    <version>3.1.4</version>
+    <version>3.1.10</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty</groupId>
@@ -157830,7 +157830,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-gateway-server</artifactId>
-    <version>3.1.3</version>
+    <version>3.1.10</version>
 </dependency>
 <dependency>
     <groupId>edu.usc.ir</groupId>
@@ -158000,7 +158000,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-cloud</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.struts</groupId>
@@ -159895,7 +159895,7 @@
 <dependency>
     <groupId>it.uniroma2.art.semanticturkey</groupId>
     <artifactId>st-core-services</artifactId>
-    <version>0.12</version>
+    <version>12.2</version>
 </dependency>
 <dependency>
     <groupId>org.antlr</groupId>
@@ -160430,7 +160430,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -163325,7 +163325,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -164580,7 +164580,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -167075,7 +167075,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -170370,7 +170370,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -173000,7 +173000,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -175695,7 +175695,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -177905,7 +177905,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -180915,7 +180915,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -182720,7 +182720,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -185815,7 +185815,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -188210,7 +188210,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.micrometer</groupId>
@@ -191245,7 +191245,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.micrometer</groupId>
@@ -192960,7 +192960,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.micrometer</groupId>
@@ -196065,7 +196065,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -198180,7 +198180,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -200290,7 +200290,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -202565,7 +202565,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -206060,7 +206060,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -208430,7 +208430,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -211860,7 +211860,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -213670,7 +213670,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -216030,7 +216030,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -218960,7 +218960,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -221745,7 +221745,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -224155,7 +224155,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -226740,7 +226740,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -228610,7 +228610,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -230780,7 +230780,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -233790,7 +233790,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.0.17.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -234175,7 +234175,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -236680,7 +236680,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -238875,7 +238875,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -241540,7 +241540,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -243805,7 +243805,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -247060,7 +247060,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -249285,7 +249285,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -251890,7 +251890,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -253685,7 +253685,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -254425,7 +254425,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.47</version>
 </dependency>
 <dependency>
     <groupId>io.opencensus</groupId>
@@ -254450,7 +254450,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-bean-validation</artifactId>
-    <version>2.35</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>io.github.resilience4j</groupId>
@@ -256380,7 +256380,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -257235,7 +257235,7 @@
 <dependency>
     <groupId>com.diboot</groupId>
     <artifactId>diboot-file-spring-boot-starter</artifactId>
-    <version>2.1.1</version>
+    <version>3.3.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -259625,7 +259625,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -262385,7 +262385,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.carrotsearch</groupId>
@@ -264800,7 +264800,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -268150,7 +268150,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -270365,7 +270365,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -272815,7 +272815,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -275750,7 +275750,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-bean-validation</artifactId>
-    <version>2.35</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -275980,7 +275980,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.47</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -277210,7 +277210,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -280095,7 +280095,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -282330,7 +282330,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -283325,7 +283325,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -285090,7 +285090,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.xhtmlrenderer</groupId>
@@ -289500,7 +289500,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -289855,7 +289855,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -293185,7 +293185,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-bean-validation</artifactId>
-    <version>2.35</version>
+    <version>3.0.1</version>
 </dependency>
 <dependency>
     <groupId>com.google.re2j</groupId>
@@ -294105,7 +294105,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -295150,7 +295150,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -296695,7 +296695,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
     <artifactId>jersey-spring5</artifactId>
-    <version>2.35</version>
+    <version>2.47</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang.modules</groupId>
@@ -298470,7 +298470,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -304670,7 +304670,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -306485,7 +306485,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -307020,7 +307020,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.1.7.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -307155,7 +307155,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -309420,7 +309420,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -310345,7 +310345,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>edu.princeton.cup</groupId>
@@ -310650,7 +310650,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.common</groupId>
@@ -310870,7 +310870,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.common</groupId>
@@ -313670,7 +313670,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -315900,7 +315900,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -318190,7 +318190,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -320105,7 +320105,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -323245,7 +323245,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.validation</groupId>
@@ -324085,7 +324085,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.external</groupId>
@@ -325640,7 +325640,7 @@
 <dependency>
     <groupId>com.puppycrawl.tools</groupId>
     <artifactId>checkstyle</artifactId>
-    <version>8.3</version>
+    <version>10.25.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -325985,7 +325985,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -327095,7 +327095,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -328850,7 +328850,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -329475,7 +329475,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
-    <version>2.6.6</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -329790,7 +329790,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -329890,7 +329890,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -330235,7 +330235,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws.security.kerb</groupId>
@@ -330560,7 +330560,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.1.7.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -333110,7 +333110,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -335905,7 +335905,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -336895,7 +336895,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
-    <version>2.4.3</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
@@ -338040,7 +338040,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -339210,7 +339210,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -341460,7 +341460,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -343970,7 +343970,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -344645,7 +344645,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -345615,7 +345615,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.threads</groupId>
@@ -346240,7 +346240,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.2.37.Final</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -347515,7 +347515,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -349195,7 +349195,7 @@
 <dependency>
     <groupId>org.hibernate.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>6.2.3.Final</version>
+    <version>7.0.0.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
