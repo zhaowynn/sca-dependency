@@ -2044,7 +2044,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -3974,7 +3974,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -5004,7 +5004,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -5069,7 +5069,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -5164,7 +5164,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.tencentcloudapi</groupId>
@@ -7519,7 +7519,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.spring</groupId>
@@ -8374,7 +8374,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.google.code.findbugs</groupId>
@@ -8384,7 +8384,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -8769,7 +8769,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -8869,7 +8869,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -9354,7 +9354,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.codehaus.woodstox</groupId>
@@ -10904,7 +10904,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -11024,7 +11024,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -13644,7 +13644,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>commons-fileupload</groupId>
@@ -15669,7 +15669,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -16209,7 +16209,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>net.sf.json-lib</groupId>
@@ -16314,7 +16314,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>ognl</groupId>
@@ -16729,7 +16729,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.codehaus.woodstox</groupId>
@@ -20734,7 +20734,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -21039,7 +21039,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>net.sf.json-lib</groupId>
@@ -21074,7 +21074,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.tencentcloudapi</groupId>
@@ -23354,7 +23354,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -23784,7 +23784,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.logging.log4j</groupId>
@@ -23804,7 +23804,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.pig4cloud.nacos</groupId>
@@ -24634,7 +24634,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -24679,7 +24679,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -24694,7 +24694,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -25604,12 +25604,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -26069,7 +26069,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.agilejava.docbkx</groupId>
@@ -26149,7 +26149,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -28804,7 +28804,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.projectlombok</groupId>
@@ -29614,7 +29614,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -31814,7 +31814,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -31974,7 +31974,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.flywaydb</groupId>
@@ -32074,7 +32074,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -33319,7 +33319,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -35304,7 +35304,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -35699,7 +35699,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>net.sf.json-lib</groupId>
@@ -35739,7 +35739,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>net.sf.json-lib</groupId>
@@ -36224,12 +36224,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>nl.jworks.markdown_to_asciidoc</groupId>
@@ -38294,7 +38294,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -38969,7 +38969,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>net.sf.json-lib</groupId>
@@ -38999,7 +38999,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -40309,7 +40309,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -41544,7 +41544,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.ws</groupId>
@@ -42549,7 +42549,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -44069,7 +44069,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>net.sf.json-lib</groupId>
@@ -44104,7 +44104,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -46569,7 +46569,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -47854,7 +47854,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -49074,7 +49074,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -49084,7 +49084,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.servicemix.bundles</groupId>
@@ -51559,7 +51559,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -52589,12 +52589,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -54979,7 +54979,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.woodstox</groupId>
@@ -55439,7 +55439,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.spring</groupId>
@@ -55654,7 +55654,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.codehaus.woodstox</groupId>
@@ -55784,12 +55784,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.objenesis</groupId>
@@ -58149,7 +58149,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>dom4j</groupId>
@@ -58629,12 +58629,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -60619,7 +60619,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.poi</groupId>
@@ -61094,7 +61094,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.skyscreamer</groupId>
@@ -61474,7 +61474,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -61604,7 +61604,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -62289,12 +62289,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -64654,7 +64654,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>dom4j</groupId>
@@ -65119,12 +65119,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -65604,7 +65604,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -65659,7 +65659,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -68019,7 +68019,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.spullara.mustache.java</groupId>
@@ -68394,12 +68394,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -68724,7 +68724,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -68764,7 +68764,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -70974,7 +70974,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -72209,7 +72209,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -73009,7 +73009,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.hdrhistogram</groupId>
@@ -73024,7 +73024,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -76579,7 +76579,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -76854,7 +76854,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -78864,7 +78864,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -80204,12 +80204,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -80744,12 +80744,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -83184,7 +83184,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -85254,7 +85254,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jsqlparser</groupId>
@@ -85734,7 +85734,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -85749,7 +85749,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -88144,7 +88144,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -88879,7 +88879,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.integration</groupId>
@@ -89439,7 +89439,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.4</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.webjars</groupId>
@@ -89714,7 +89714,7 @@
 <dependency>
   <groupId>com.github.jknack</groupId>
   <artifactId>handlebars</artifactId>
-  <version>4.0.7</version>
+  <version>4.1.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -89754,7 +89754,7 @@
 <dependency>
   <groupId>io.github.bonigarcia</groupId>
   <artifactId>webdrivermanager</artifactId>
-  <version>4.3.1</version>
+  <version>5.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -90314,7 +90314,7 @@
 <dependency>
   <groupId>com.github.tomakehurst</groupId>
   <artifactId>wiremock</artifactId>
-  <version>2.27.2</version>
+  <version>3.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -90604,7 +90604,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.6</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.typesafe.akka</groupId>
@@ -90619,7 +90619,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.1</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.webjars</groupId>
@@ -90719,7 +90719,7 @@
 <dependency>
   <groupId>org.webjars</groupId>
   <artifactId>webjars-locator-core</artifactId>
-  <version>0.35</version>
+  <version>0.39</version>
 </dependency>
 <dependency>
   <groupId>com.github.luben</groupId>
@@ -90989,7 +90989,7 @@
 <dependency>
   <groupId>org.apache.zookeeper</groupId>
   <artifactId>zookeeper</artifactId>
-  <version>3.4.8</version>
+  <version>3.6.3</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -91059,12 +91059,12 @@
 <dependency>
   <groupId>org.webjars</groupId>
   <artifactId>webjars-locator-core</artifactId>
-  <version>0.32</version>
+  <version>0.39</version>
 </dependency>
 <dependency>
   <groupId>org.apache.zookeeper</groupId>
   <artifactId>zookeeper</artifactId>
-  <version>3.5.7</version>
+  <version>3.6.3</version>
 </dependency>
 <dependency>
   <groupId>org.scala-lang.modules</groupId>
@@ -91079,7 +91079,7 @@
 <dependency>
   <groupId>com.typesafe.play</groupId>
   <artifactId>play_2.12</artifactId>
-  <version>2.6.21</version>
+  <version>2.7.0</version>
 </dependency>
 <dependency>
   <groupId>com.google.code.findbugs</groupId>
@@ -91994,12 +91994,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -92319,7 +92319,7 @@
 <dependency>
   <groupId>com.typesafe.play</groupId>
   <artifactId>play_2.12</artifactId>
-  <version>2.6.11</version>
+  <version>2.7.0</version>
 </dependency>
 <dependency>
   <groupId>org.scala-sbt</groupId>
@@ -92484,7 +92484,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -92934,7 +92934,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -95234,7 +95234,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>org.codehaus.woodstox</groupId>
@@ -95419,7 +95419,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.poi</groupId>
@@ -95439,7 +95439,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -95994,12 +95994,12 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -97539,7 +97539,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-lang3</artifactId>
-  <version>3.12.0</version>
+  <version>3.18.0</version>
 </dependency>
 <dependency>
   <groupId>com.squareup.okhttp</groupId>
@@ -98219,7 +98219,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-core</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -98974,7 +98974,7 @@
 <dependency>
   <groupId>org.apache.tomcat.embed</groupId>
   <artifactId>tomcat-embed-websocket</artifactId>
-  <version>9.0.63</version>
+  <version>9.0.107</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -101225,7 +101225,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -101605,7 +101605,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -102960,7 +102960,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -103085,7 +103085,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -105425,7 +105425,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.aviator</groupId>
@@ -107155,7 +107155,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -108350,7 +108350,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -108885,7 +108885,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -109025,7 +109025,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -109035,7 +109035,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -110775,7 +110775,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -111500,7 +111500,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -111925,7 +111925,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -113770,7 +113770,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.aviator</groupId>
@@ -114315,7 +114315,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -114895,7 +114895,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel.quarkus</groupId>
@@ -116780,7 +116780,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -117225,7 +117225,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -117245,7 +117245,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -117610,7 +117610,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -118000,7 +118000,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -119920,7 +119920,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -120525,12 +120525,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -120645,7 +120645,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -120800,7 +120800,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -121365,7 +121365,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -123465,7 +123465,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -124520,7 +124520,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -125795,12 +125795,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -126065,7 +126065,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -126160,7 +126160,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -127070,7 +127070,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -127715,7 +127715,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -127895,7 +127895,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.module</groupId>
@@ -128995,7 +128995,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.martiansoftware</groupId>
@@ -131175,7 +131175,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -133205,7 +133205,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -134390,7 +134390,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.module</groupId>
@@ -136070,7 +136070,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -137085,7 +137085,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -137195,7 +137195,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -138845,7 +138845,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>javax.cache</groupId>
@@ -140705,7 +140705,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -141435,7 +141435,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -142210,7 +142210,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -143065,7 +143065,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -143885,7 +143885,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -144670,7 +144670,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -145275,7 +145275,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-bindings-xml</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -145365,7 +145365,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -145540,7 +145540,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.agilejava.docbkx</groupId>
@@ -146970,7 +146970,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -147900,12 +147900,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>javax.portlet</groupId>
@@ -148405,7 +148405,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-0.23</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -148505,7 +148505,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -148515,7 +148515,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -150595,7 +150595,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -151905,7 +151905,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -152090,7 +152090,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -152160,7 +152160,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -152200,7 +152200,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.4</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -152340,7 +152340,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>4.3.1</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -152740,7 +152740,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-pmd-plugin</artifactId>
-    <version>3.14.0</version>
+    <version>3.25.0</version>
 </dependency>
 <dependency>
     <groupId>net.sourceforge.lept4j</groupId>
@@ -153005,7 +153005,7 @@
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
     <artifactId>shardingsphere-infra-executor</artifactId>
-    <version>5.0.0</version>
+    <version>5.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -153105,7 +153105,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.protostuff</groupId>
@@ -153240,7 +153240,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-hdfs</artifactId>
-    <version>2.8.5</version>
+    <version>3.2.0</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -153260,7 +153260,7 @@
 <dependency>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>versions-maven-plugin</artifactId>
-    <version>2.2</version>
+    <version>2.8.1</version>
 </dependency>
 <dependency>
     <groupId>org.brotli</groupId>
@@ -153270,7 +153270,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-transports-http</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -153450,7 +153450,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-bindings-soap</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -153575,7 +153575,7 @@
 <dependency>
     <groupId>org.apache.directory.server</groupId>
     <artifactId>apacheds-kerberos-codec</artifactId>
-    <version>2.0.0-M15</version>
+    <version>2.0.0.AM26</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -153695,7 +153695,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-reactor-netty</artifactId>
-    <version>2.5.0</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.sling</groupId>
@@ -153760,7 +153760,7 @@
 <dependency>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-engine</artifactId>
-    <version>7.0.0.Beta2</version>
+    <version>7-201708-EA</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -153815,7 +153815,7 @@
 <dependency>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-engine</artifactId>
-    <version>6.0.0.Beta1</version>
+    <version>7-201708-EA</version>
 </dependency>
 <dependency>
     <groupId>com.netflix.eureka</groupId>
@@ -153870,7 +153870,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>10.1.2</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hadoop</groupId>
@@ -153960,7 +153960,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-client</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.11-hadoop3</version>
 </dependency>
 <dependency>
     <groupId>ch.cern.hbase</groupId>
@@ -154440,7 +154440,7 @@
 <dependency>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-spring</artifactId>
-    <version>7.0.0.Beta3</version>
+    <version>7-201708-EA</version>
 </dependency>
 <dependency>
     <groupId>com.google.zxing</groupId>
@@ -154730,7 +154730,7 @@
 <dependency>
     <groupId>org.mariadb</groupId>
     <artifactId>r2dbc-mariadb</artifactId>
-    <version>1.1.2</version>
+    <version>1.2.1</version>
 </dependency>
 <dependency>
     <groupId>org.jetbrains.kotlin</groupId>
@@ -154835,7 +154835,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>9.24.4</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -155300,7 +155300,7 @@
 <dependency>
     <groupId>ch.cern.hbase</groupId>
     <artifactId>hbase-server</artifactId>
-    <version>2.2.4</version>
+    <version>2.2.4_1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hbase</groupId>
@@ -155535,7 +155535,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-testing-util</artifactId>
-    <version>2.0.1</version>
+    <version>2.5.11-hadoop3</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -155605,7 +155605,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>oauth2-oidc-sdk</artifactId>
-    <version>9.43.1</version>
+    <version>11.23.1</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -155715,12 +155715,12 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-ws-policy</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-release-plugin</artifactId>
-    <version>2.5.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere.elasticjob</groupId>
@@ -155805,7 +155805,7 @@
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-parsers</artifactId>
-    <version>1.27</version>
+    <version>2.0.0</version>
 </dependency>
 <dependency>
     <groupId>backport-util-concurrent</groupId>
@@ -155930,7 +155930,7 @@
 <dependency>
     <groupId>com.datastax.dse</groupId>
     <artifactId>dse-java-driver-core</artifactId>
-    <version>2.2.0</version>
+    <version>2.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.datastax.oss</groupId>
@@ -155975,7 +155975,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>3.0.0</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -156140,7 +156140,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-0.23</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -156150,7 +156150,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.thrift</groupId>
@@ -156415,7 +156415,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -156545,7 +156545,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>9.22</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>com.netflix.netflix-commons</groupId>
@@ -156610,7 +156610,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-rs-client</artifactId>
-    <version>3.4.4</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -157050,7 +157050,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-security</artifactId>
-    <version>3.4.4</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -157175,7 +157175,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>io.vertx</groupId>
@@ -157185,7 +157185,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.pdfbox</groupId>
@@ -157315,7 +157315,7 @@
 <dependency>
     <groupId>org.apache.maven</groupId>
     <artifactId>maven-artifact</artifactId>
-    <version>3.6.3</version>
+    <version>3.9.8</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents.core5</groupId>
@@ -157390,7 +157390,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-help-plugin</artifactId>
-    <version>3.2.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
@@ -157435,7 +157435,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-enforcer-plugin</artifactId>
-    <version>3.0.0</version>
+    <version>3.6.1</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -157475,7 +157475,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-ws-addr</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>io.gatling.highcharts</groupId>
@@ -157630,7 +157630,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.6.0</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -158100,7 +158100,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>10.1.2</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -158195,7 +158195,7 @@
 <dependency>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-bpmn-model</artifactId>
-    <version>7.0.0.Beta2</version>
+    <version>7-201708-EA</version>
 </dependency>
 <dependency>
     <groupId>avalon-framework</groupId>
@@ -158610,7 +158610,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-yarn-server-nodemanager</artifactId>
-    <version>2.7.4</version>
+    <version>3.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.activiti.core.common</groupId>
@@ -158755,7 +158755,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-shade-plugin</artifactId>
-    <version>3.2.4</version>
+    <version>3.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven</groupId>
@@ -158925,7 +158925,7 @@
 <dependency>
     <groupId>org.apache.phoenix</groupId>
     <artifactId>phoenix-core</artifactId>
-    <version>5.1.2</version>
+    <version>5.2.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -158965,7 +158965,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-yarn-server-resourcemanager</artifactId>
-    <version>2.7.4</version>
+    <version>3.2.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -159895,7 +159895,7 @@
 <dependency>
     <groupId>it.uniroma2.art.semanticturkey</groupId>
     <artifactId>st-core-services</artifactId>
-    <version>0.12</version>
+    <version>12.0</version>
 </dependency>
 <dependency>
     <groupId>org.antlr</groupId>
@@ -159990,7 +159990,7 @@
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-core</artifactId>
-    <version>3.3.10</version>
+    <version>3.5.11</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -160225,12 +160225,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -160685,7 +160685,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -160775,7 +160775,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor.addons</groupId>
@@ -160820,7 +160820,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -161425,7 +161425,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -161450,7 +161450,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -161670,7 +161670,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -163650,7 +163650,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>jakarta.annotation</groupId>
@@ -163890,7 +163890,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -164615,7 +164615,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -164655,7 +164655,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-vector-code-gen</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -166160,7 +166160,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -166200,7 +166200,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -166410,7 +166410,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -168915,7 +168915,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -169360,7 +169360,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -169380,7 +169380,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -169590,7 +169590,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.gmbal</groupId>
@@ -170605,7 +170605,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -171350,7 +171350,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
@@ -172070,7 +172070,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -172095,7 +172095,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -172345,7 +172345,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -174090,7 +174090,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.freemarker</groupId>
@@ -175190,7 +175190,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -175300,7 +175300,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -177340,7 +177340,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -178685,12 +178685,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -179070,7 +179070,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -179245,7 +179245,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -180385,7 +180385,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.itextpdf</groupId>
@@ -180520,7 +180520,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -181775,7 +181775,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -181800,7 +181800,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -182105,7 +182105,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -184185,7 +184185,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -185460,7 +185460,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -186405,7 +186405,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -187705,7 +187705,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -187865,7 +187865,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -189040,12 +189040,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -189605,7 +189605,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -190730,7 +190730,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -190895,7 +190895,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -191980,7 +191980,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -192015,7 +192015,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -192345,7 +192345,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -195525,7 +195525,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -197550,7 +197550,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -198675,7 +198675,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -199775,7 +199775,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -199930,7 +199930,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -200860,7 +200860,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -201975,7 +201975,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -202145,7 +202145,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -203065,7 +203065,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -203500,7 +203500,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -203515,7 +203515,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>jakarta.ws.rs</groupId>
@@ -203565,7 +203565,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -204365,7 +204365,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -205480,7 +205480,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -205650,7 +205650,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -206550,7 +206550,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -207740,7 +207740,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -208025,7 +208025,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -209120,7 +209120,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -209150,7 +209150,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -210165,7 +210165,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -211285,7 +211285,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -211435,7 +211435,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -212615,7 +212615,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -212645,7 +212645,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -213220,7 +213220,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.skyscreamer</groupId>
@@ -215460,7 +215460,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -216900,12 +216900,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -218350,7 +218350,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -220060,7 +220060,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -221120,7 +221120,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -221475,7 +221475,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -222260,7 +222260,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -223500,7 +223500,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -223740,7 +223740,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -225905,7 +225905,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -227125,7 +227125,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -228105,7 +228105,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -228265,7 +228265,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -229145,7 +229145,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -230160,7 +230160,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -230460,7 +230460,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -231410,7 +231410,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -231495,7 +231495,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -231515,7 +231515,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -233235,7 +233235,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.22</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.amqp</groupId>
@@ -233405,7 +233405,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -233975,7 +233975,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.22</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -234035,7 +234035,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234755,12 +234755,12 @@
 <dependency>
     <groupId>top.andoudou</groupId>
     <artifactId>common-tool</artifactId>
-    <version>1.0.8</version>
+    <version>1.1.0</version>
 </dependency>
 <dependency>
     <groupId>br.com.anteros</groupId>
     <artifactId>Anteros-Security-Spring</artifactId>
-    <version>1.0.2</version>
+    <version>2.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.javabird</groupId>
@@ -235035,7 +235035,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -236095,7 +236095,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -236410,7 +236410,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -237225,7 +237225,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -238295,7 +238295,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml</groupId>
@@ -238455,7 +238455,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -239750,7 +239750,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -240945,7 +240945,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -241115,7 +241115,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -242120,7 +242120,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -243180,7 +243180,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -243515,7 +243515,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -244520,7 +244520,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -244535,7 +244535,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -245155,7 +245155,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -245170,7 +245170,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -245375,7 +245375,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -246440,7 +246440,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -246620,7 +246620,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -247625,7 +247625,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -248685,7 +248685,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -249010,7 +249010,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -251090,7 +251090,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -253165,7 +253165,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -254295,7 +254295,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -254785,7 +254785,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -255770,7 +255770,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -256115,7 +256115,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -256915,7 +256915,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -257295,7 +257295,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -257650,12 +257650,12 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -257830,7 +257830,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -258925,7 +258925,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -259245,7 +259245,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -260310,7 +260310,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.4</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -260355,7 +260355,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.gmbal</groupId>
@@ -261065,7 +261065,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>8.5.35</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -261780,7 +261780,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -262115,7 +262115,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -262940,7 +262940,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -263975,7 +263975,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>8.5.35</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -264045,7 +264045,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.18.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -264120,7 +264120,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -264495,7 +264495,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -266620,7 +266620,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.module</groupId>
@@ -268075,7 +268075,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -268480,7 +268480,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>8.5.23</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -268515,7 +268515,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -269805,7 +269805,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -270035,7 +270035,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -271180,7 +271180,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>8.5.23</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -271190,7 +271190,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex</groupId>
@@ -271430,7 +271430,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.metro</groupId>
@@ -271445,7 +271445,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -272085,7 +272085,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -273820,7 +273820,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -273840,7 +273840,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -274455,7 +274455,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -275765,7 +275765,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -276585,7 +276585,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>oauth2-oidc-sdk</artifactId>
-    <version>9.35</version>
+    <version>11.23.1</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -276710,7 +276710,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -276840,7 +276840,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>8.5.23</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -277720,7 +277720,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>1.5.9.RELEASE</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex</groupId>
@@ -277820,7 +277820,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>8.5.23</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -278130,7 +278130,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -278750,7 +278750,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>9.22</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -279565,7 +279565,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -279825,7 +279825,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -280630,7 +280630,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -281710,7 +281710,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -282030,7 +282030,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -282910,7 +282910,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -282920,7 +282920,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -284425,7 +284425,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -285045,7 +285045,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.freemarker</groupId>
@@ -287095,7 +287095,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -288410,7 +288410,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>io.pivotal.cfenv</groupId>
@@ -288450,7 +288450,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -288565,7 +288565,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -289600,7 +289600,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.0</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.inject</groupId>
@@ -290810,7 +290810,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>4.3.1</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -291010,7 +291010,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>oauth2-oidc-sdk</artifactId>
-    <version>9.35</version>
+    <version>11.23.1</version>
 </dependency>
 <dependency>
     <groupId>org.cloudfoundry</groupId>
@@ -291020,7 +291020,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.0</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.oracle.database.jdbc</groupId>
@@ -291030,7 +291030,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>javax.jdo</groupId>
@@ -291480,7 +291480,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.4</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.oshi</groupId>
@@ -292195,7 +292195,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -292205,7 +292205,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -293375,7 +293375,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.agilejava.docbkx</groupId>
@@ -294465,7 +294465,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-storage-api</artifactId>
-    <version>2.7.3</version>
+    <version>2.8.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -294590,7 +294590,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -294780,7 +294780,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -295785,7 +295785,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -297485,7 +297485,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -298160,7 +298160,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -299150,7 +299150,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.6.2</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -299255,7 +299255,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -300145,7 +300145,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>oauth2-oidc-sdk</artifactId>
-    <version>9.35</version>
+    <version>11.23.1</version>
 </dependency>
 <dependency>
     <groupId>com.oracle.database.jdbc</groupId>
@@ -300285,7 +300285,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.0</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.woodstox</groupId>
@@ -300345,7 +300345,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-storage-api</artifactId>
-    <version>2.7.3</version>
+    <version>2.8.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -300970,7 +300970,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.typesafe.netty</groupId>
@@ -301045,7 +301045,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -301360,7 +301360,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -302315,7 +302315,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.sbt</groupId>
@@ -302650,7 +302650,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-vector-code-gen</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.containers</groupId>
@@ -302715,7 +302715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -302795,7 +302795,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>3.10</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>net.sourceforge.htmlunit</groupId>
@@ -302910,7 +302910,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.helger.commons</groupId>
@@ -302980,7 +302980,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.5.7</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -303805,7 +303805,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.hamcrest</groupId>
@@ -304055,7 +304055,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -304475,7 +304475,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -305975,7 +305975,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -306170,7 +306170,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -307200,7 +307200,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -308760,7 +308760,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -309080,7 +309080,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -310240,7 +310240,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.4</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.xnio</groupId>
@@ -310365,7 +310365,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>9.22</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>org.gradle</groupId>
@@ -310585,7 +310585,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-storage-api</artifactId>
-    <version>2.7.3</version>
+    <version>2.8.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -310970,7 +310970,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -311015,7 +311015,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>3.10</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.kerby</groupId>
@@ -311055,7 +311055,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache-extras.beanshell</groupId>
@@ -311070,7 +311070,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -311490,7 +311490,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>3.10</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -311700,7 +311700,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.6.2</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>org.checkerframework</groupId>
@@ -312675,7 +312675,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -313145,7 +313145,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -314180,7 +314180,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -315380,7 +315380,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -315635,7 +315635,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -316590,7 +316590,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.thrift</groupId>
@@ -316665,12 +316665,12 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-vector-code-gen</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -316715,7 +316715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.rest-assured</groupId>
@@ -316855,7 +316855,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -316895,7 +316895,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -316905,7 +316905,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.fastinfoset</groupId>
@@ -317040,7 +317040,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-0.23</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>pl.edu.icm</groupId>
@@ -317365,7 +317365,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.opencensus</groupId>
@@ -318025,7 +318025,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -318215,7 +318215,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.5.7</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>cglib</groupId>
@@ -319580,7 +319580,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -319830,7 +319830,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -320835,7 +320835,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -320850,7 +320850,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -321185,7 +321185,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.5.7</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>com.microsoft.sqlserver</groupId>
@@ -321995,7 +321995,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>xml-apis</groupId>
@@ -322140,7 +322140,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -322725,7 +322725,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp</groupId>
@@ -324045,7 +324045,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.6.2</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -324525,7 +324525,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-vector-code-gen</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -324660,7 +324660,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.json4s</groupId>
@@ -325145,7 +325145,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.auth0</groupId>
@@ -326615,7 +326615,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -326890,7 +326890,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -328270,7 +328270,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -329510,7 +329510,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.60</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -330100,7 +330100,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.60</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -330290,7 +330290,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.60</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.slf4j</groupId>
@@ -330650,7 +330650,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -330660,7 +330660,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-0.23</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -331085,7 +331085,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -331100,7 +331100,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.projectreactor</groupId>
@@ -331315,7 +331315,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -332495,7 +332495,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -333755,7 +333755,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-tomcat</artifactId>
-    <version>2.6.6</version>
+    <version>3.3.7</version>
 </dependency>
 <dependency>
     <groupId>com.typesafe.scala-logging</groupId>
@@ -333780,7 +333780,7 @@
 <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock</artifactId>
-    <version>2.27.2</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -333935,7 +333935,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -333960,7 +333960,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.fastinfoset</groupId>
@@ -334235,7 +334235,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -335070,7 +335070,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.5.7</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>org.checkerframework</groupId>
@@ -335630,7 +335630,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -335775,7 +335775,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>4.3.1</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.agilejava.docbkx</groupId>
@@ -335915,7 +335915,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.client</groupId>
@@ -335990,7 +335990,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>4.3.1</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.checkerframework</groupId>
@@ -336160,7 +336160,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.webjars</groupId>
@@ -336870,7 +336870,7 @@
 <dependency>
     <groupId>com.nimbusds</groupId>
     <artifactId>nimbus-jose-jwt</artifactId>
-    <version>3.10</version>
+    <version>10.0.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -337090,7 +337090,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.60</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
@@ -337595,7 +337595,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -338435,7 +338435,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -338980,7 +338980,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -339835,7 +339835,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -340960,7 +340960,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -341230,7 +341230,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.spullara.mustache.java</groupId>
@@ -341975,7 +341975,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -342545,7 +342545,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-storage-api</artifactId>
-    <version>2.7.3</version>
+    <version>2.8.0</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -342845,7 +342845,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -342945,7 +342945,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-0.23</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -343505,7 +343505,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -343725,7 +343725,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -344715,7 +344715,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>commons-dbcp</groupId>
@@ -344740,7 +344740,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -345295,7 +345295,7 @@
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
     <artifactId>zookeeper</artifactId>
-    <version>3.6.2</version>
+    <version>3.6.3</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -345425,7 +345425,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -345465,7 +345465,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -345565,7 +345565,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -345590,7 +345590,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-vector-code-gen</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.inject</groupId>
@@ -345685,7 +345685,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -345895,7 +345895,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -346050,7 +346050,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>io.spring.initializr</groupId>
@@ -346110,7 +346110,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>2.3.10</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -346270,7 +346270,7 @@
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>4.3.1</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -346850,7 +346850,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.64</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>io.kestra.plugin</groupId>
@@ -346905,7 +346905,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -348525,7 +348525,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -349910,7 +349910,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-websocket</artifactId>
-    <version>9.0.63</version>
+    <version>9.0.107</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.gmbal</groupId>
