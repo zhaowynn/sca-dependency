@@ -156415,7 +156415,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -170605,7 +170605,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -171350,7 +171350,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hive</groupId>
@@ -203515,7 +203515,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.ws.rs</groupId>
@@ -302715,7 +302715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -302910,7 +302910,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.helger.commons</groupId>
@@ -316670,7 +316670,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -316715,7 +316715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>io.rest-assured</groupId>
@@ -325145,7 +325145,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.auth0</groupId>
@@ -330650,7 +330650,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -344740,7 +344740,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-serde</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -345565,7 +345565,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -345685,7 +345685,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -346110,7 +346110,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
