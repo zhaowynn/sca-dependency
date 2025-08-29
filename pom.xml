@@ -1279,7 +1279,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.plugin</groupId>
@@ -3324,7 +3324,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.plugin</groupId>
@@ -6754,7 +6754,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.jayway.jsonpath</groupId>
@@ -9234,7 +9234,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>io.vavr</groupId>
@@ -12934,7 +12934,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.jayway.jsonpath</groupId>
@@ -14944,7 +14944,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.jayway.jsonpath</groupId>
@@ -16609,7 +16609,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>javax.mail</groupId>
@@ -18539,7 +18539,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -20049,7 +20049,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.dtd-parser</groupId>
@@ -22689,7 +22689,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -28164,7 +28164,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.jayway.jsonpath</groupId>
@@ -28994,7 +28994,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -31064,7 +31064,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.plugin</groupId>
@@ -34919,7 +34919,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -37914,7 +37914,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -41159,7 +41159,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -41944,7 +41944,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -46189,7 +46189,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.objenesis</groupId>
@@ -46739,7 +46739,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -47199,7 +47199,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>io.vavr</groupId>
@@ -51184,7 +51184,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -51834,7 +51834,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>commons-digester</groupId>
@@ -54674,7 +54674,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -57819,7 +57819,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -60759,7 +60759,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -64259,7 +64259,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -67629,7 +67629,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -70464,7 +70464,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -71629,7 +71629,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -74494,7 +74494,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.mail</groupId>
@@ -76089,7 +76089,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -78309,7 +78309,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -82669,7 +82669,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign.form</groupId>
@@ -84759,7 +84759,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign.form</groupId>
@@ -87734,7 +87734,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -88759,7 +88759,7 @@
 <dependency>
   <groupId>org.apache.sshd</groupId>
   <artifactId>apache-sshd</artifactId>
-  <version>2.9.2</version>
+  <version>2.16.0</version>
 </dependency>
 <dependency>
   <groupId>com.nimbusds</groupId>
@@ -94864,7 +94864,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -97199,7 +97199,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -99999,7 +99999,7 @@
 <dependency>
   <groupId>com.baomidou</groupId>
   <artifactId>mybatis-plus-extension</artifactId>
-  <version>3.4.0</version>
+  <version>3.5.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.data</groupId>
@@ -100400,7 +100400,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -102170,7 +102170,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -104595,7 +104595,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -106545,7 +106545,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -110050,7 +110050,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -113020,7 +113020,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -116015,7 +116015,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -117460,7 +117460,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -122685,7 +122685,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -124220,7 +124220,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -127100,7 +127100,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -130415,7 +130415,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -132350,7 +132350,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -133810,7 +133810,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -137705,7 +137705,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -138430,7 +138430,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -141980,7 +141980,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -144400,7 +144400,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>ch.netzwerg</groupId>
@@ -146715,7 +146715,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -150250,7 +150250,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -153235,7 +153235,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-mapreduce-client-app</artifactId>
-    <version>2.7.4</version>
+    <version>3.4.2</version>
 </dependency>
 <dependency>
     <groupId>org.apache.hadoop</groupId>
@@ -153600,7 +153600,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-mapreduce-client-shuffle</artifactId>
-    <version>2.7.4</version>
+    <version>3.4.2</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -153875,7 +153875,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-mapreduce-client-jobclient</artifactId>
-    <version>3.3.1</version>
+    <version>3.4.2</version>
 </dependency>
 <dependency>
     <groupId>net.javacrumbs.json-unit</groupId>
@@ -155135,7 +155135,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-mapreduce-client-common</artifactId>
-    <version>3.3.1</version>
+    <version>3.4.2</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -155775,7 +155775,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-mapreduce-client-core</artifactId>
-    <version>3.3.1</version>
+    <version>3.4.2</version>
 </dependency>
 <dependency>
     <groupId>io.gatling</groupId>
@@ -158860,7 +158860,7 @@
 <dependency>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-mapreduce-client-hs</artifactId>
-    <version>2.7.4</version>
+    <version>3.4.2</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -161745,7 +161745,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -163935,7 +163935,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -166455,7 +166455,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -168425,7 +168425,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -169635,7 +169635,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -172355,7 +172355,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -175330,7 +175330,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -176955,7 +176955,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.latencyutils</groupId>
@@ -180530,7 +180530,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -182045,7 +182045,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -185430,7 +185430,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -187825,7 +187825,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -190855,7 +190855,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.persistence</groupId>
@@ -192270,7 +192270,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.reflections</groupId>
@@ -195025,7 +195025,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -197170,7 +197170,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -199925,7 +199925,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -202135,7 +202135,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.woodstox</groupId>
@@ -205635,7 +205635,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -207975,7 +207975,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -211420,7 +211420,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -212885,7 +212885,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -214810,7 +214810,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -217705,7 +217705,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -221280,7 +221280,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -223730,7 +223730,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -225460,7 +225460,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -228250,7 +228250,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -230305,7 +230305,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -232950,7 +232950,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-collections</groupId>
@@ -236230,7 +236230,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -238440,7 +238440,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -241100,7 +241100,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -243330,7 +243330,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -246595,7 +246595,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -248830,7 +248830,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -250685,7 +250685,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -252775,7 +252775,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -255925,7 +255925,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.stream</groupId>
@@ -259080,7 +259080,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -261925,7 +261925,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -264335,7 +264335,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -266455,7 +266455,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -269815,7 +269815,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -272985,7 +272985,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -276100,7 +276100,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -279585,7 +279585,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -281850,7 +281850,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -284045,7 +284045,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -287110,7 +287110,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -287580,7 +287580,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -294605,7 +294605,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -297795,7 +297795,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -301205,7 +301205,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -304035,7 +304035,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -305985,7 +305985,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -308920,7 +308920,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -310595,7 +310595,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.5.1</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -312795,7 +312795,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -315400,7 +315400,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -319595,7 +319595,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby.joni</groupId>
@@ -322175,7 +322175,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -326760,7 +326760,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -327935,7 +327935,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -329425,7 +329425,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.5.1</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>io.opentracing</groupId>
@@ -332150,7 +332150,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -335960,7 +335960,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -338630,7 +338630,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -341105,7 +341105,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -343525,7 +343525,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -345935,7 +345935,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.5.1</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -346955,7 +346955,7 @@
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-extension</artifactId>
-    <version>3.4.0</version>
+    <version>3.5.8</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
