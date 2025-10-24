@@ -89464,7 +89464,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-core</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.20.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -89734,7 +89734,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-websockets-jsr</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.20.Final</version>
 </dependency>
 <dependency>
   <groupId>jakarta.transaction</groupId>
@@ -89949,7 +89949,7 @@
 <dependency>
   <groupId>io.undertow</groupId>
   <artifactId>undertow-servlet</artifactId>
-  <version>2.2.4.Final</version>
+  <version>2.3.20.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -90039,7 +90039,7 @@
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-undertow</artifactId>
-  <version>2.4.3</version>
+  <version>3.4.11</version>
 </dependency>
 <dependency>
   <groupId>com.google.guava</groupId>
@@ -151690,7 +151690,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -151900,7 +151900,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-undertow</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -152220,7 +152220,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.mojo</groupId>
@@ -152475,7 +152475,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -152765,7 +152765,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-websocket</artifactId>
-    <version>3.0.0</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>com.stevesoft.pat</groupId>
@@ -153795,7 +153795,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.16.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>com.electronwill.night-config</groupId>
@@ -154185,7 +154185,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-websocket</artifactId>
-    <version>3.0.0</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>com.codahale.metrics</groupId>
@@ -155660,7 +155660,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>4.0.0</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.ldap</groupId>
@@ -156150,7 +156150,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.thrift</groupId>
@@ -157995,7 +157995,7 @@
 <dependency>
     <groupId>io.r2dbc</groupId>
     <artifactId>r2dbc-h2</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <version>1.1.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.springblade</groupId>
@@ -159815,7 +159815,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-websocket</artifactId>
-    <version>2.7.6</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -159835,7 +159835,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-xml</artifactId>
-    <version>4.0.0</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -163325,7 +163325,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -171425,7 +171425,7 @@
 <dependency>
     <groupId>io.r2dbc</groupId>
     <artifactId>r2dbc-h2</artifactId>
-    <version>0.9.1.RELEASE</version>
+    <version>1.1.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
@@ -232695,7 +232695,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-websocket</artifactId>
-    <version>2.1.7.RELEASE</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -233030,7 +233030,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-websocket</artifactId>
-    <version>5.1.9.RELEASE</version>
+    <version>6.2.12</version>
 </dependency>
 <dependency>
     <groupId>com.github.oshi</groupId>
@@ -276685,7 +276685,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-xml</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>io.reactivex.rxjava3</groupId>
@@ -287350,7 +287350,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.session</groupId>
@@ -291030,7 +291030,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.1</version>
 </dependency>
 <dependency>
     <groupId>javax.jdo</groupId>
@@ -291080,7 +291080,7 @@
 <dependency>
     <groupId>io.r2dbc</groupId>
     <artifactId>r2dbc-h2</artifactId>
-    <version>0.9.1.RELEASE</version>
+    <version>1.1.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>org.hsqldb</groupId>
@@ -291575,7 +291575,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-xml</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>io.zipkin.brave</groupId>
@@ -300520,7 +300520,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-xml</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>org.scala-lang.modules</groupId>
@@ -303035,7 +303035,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>org.jboss</groupId>
@@ -307155,7 +307155,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.jopt-simple</groupId>
@@ -309150,7 +309150,7 @@
 <dependency>
     <groupId>io.r2dbc</groupId>
     <artifactId>r2dbc-h2</artifactId>
-    <version>0.9.1.RELEASE</version>
+    <version>1.1.0.RELEASE</version>
 </dependency>
 <dependency>
     <groupId>net.javacrumbs.json-unit</groupId>
@@ -310345,7 +310345,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>edu.princeton.cup</groupId>
@@ -310630,7 +310630,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-undertow</artifactId>
-    <version>2.4.3</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -316590,7 +316590,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.thrift</groupId>
@@ -316985,7 +316985,7 @@
 <dependency>
     <groupId>org.springframework.ws</groupId>
     <artifactId>spring-ws-core</artifactId>
-    <version>3.1.3</version>
+    <version>4.0.16</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.sisu</groupId>
@@ -318190,7 +318190,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -323985,7 +323985,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-websocket</artifactId>
-    <version>5.3.18</version>
+    <version>6.2.12</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -324150,7 +324150,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-websocket</artifactId>
-    <version>2.6.6</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -324915,7 +324915,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-websocket</artifactId>
-    <version>2.6.6</version>
+    <version>3.4.11</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -325985,7 +325985,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -329790,7 +329790,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jetty.websocket</groupId>
@@ -330235,7 +330235,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-websockets-jsr</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws.security.kerb</groupId>
@@ -335905,7 +335905,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -342845,7 +342845,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.1</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -344645,7 +344645,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -344715,7 +344715,7 @@
 <dependency>
     <groupId>org.apache.hive.shims</groupId>
     <artifactId>hive-shims-common</artifactId>
-    <version>2.3.9</version>
+    <version>4.0.1</version>
 </dependency>
 <dependency>
     <groupId>commons-dbcp</groupId>
@@ -345615,7 +345615,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-servlet</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.threads</groupId>
@@ -346240,7 +346240,7 @@
 <dependency>
     <groupId>io.undertow</groupId>
     <artifactId>undertow-core</artifactId>
-    <version>2.2.4.Final</version>
+    <version>2.3.20.Final</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
