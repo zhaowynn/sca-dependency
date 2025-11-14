@@ -1384,7 +1384,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -6844,7 +6844,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -9204,7 +9204,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -13029,7 +13029,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.logging</groupId>
@@ -15039,7 +15039,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -16554,7 +16554,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jodd</groupId>
@@ -19849,7 +19849,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -22514,7 +22514,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.yaml</groupId>
@@ -27989,7 +27989,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -28959,7 +28959,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>commons-beanutils</groupId>
@@ -31034,7 +31034,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -34449,7 +34449,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -37429,7 +37429,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.jws</groupId>
@@ -40699,7 +40699,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.baomidou</groupId>
@@ -41909,7 +41909,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jvnet.mimepull</groupId>
@@ -44214,7 +44214,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.jws</groupId>
@@ -45714,7 +45714,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -47164,7 +47164,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jvnet.mimepull</groupId>
@@ -50704,7 +50704,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -51954,7 +51954,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.objenesis</groupId>
@@ -54179,7 +54179,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -57334,7 +57334,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.yaml</groupId>
@@ -60259,7 +60259,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>jakarta.jws</groupId>
@@ -63914,7 +63914,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.data</groupId>
@@ -67284,7 +67284,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -70099,7 +70099,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -71584,7 +71584,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.plugin</groupId>
@@ -75734,7 +75734,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -77789,7 +77789,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -78249,7 +78249,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -82319,7 +82319,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.jaxb</groupId>
@@ -84414,7 +84414,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.data</groupId>
@@ -85304,7 +85304,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -85489,7 +85489,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -87124,7 +87124,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -89299,7 +89299,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-ie-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.beust</groupId>
@@ -89474,7 +89474,7 @@
 <dependency>
   <groupId>com.squareup.okhttp3</groupId>
   <artifactId>okhttp</artifactId>
-  <version>3.14.9</version>
+  <version>4.9.2</version>
 </dependency>
 <dependency>
   <groupId>com.headius</groupId>
@@ -89594,7 +89594,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-firefox-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -89684,7 +89684,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-opera-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -89769,7 +89769,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-java</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.hamcrest</groupId>
@@ -89844,7 +89844,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-safari-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.martiansoftware</groupId>
@@ -89974,12 +89974,12 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-chrome-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-support</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.hsqldb</groupId>
@@ -90064,7 +90064,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-edge-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -90334,7 +90334,7 @@
 <dependency>
   <groupId>org.seleniumhq.selenium</groupId>
   <artifactId>selenium-remote-driver</artifactId>
-  <version>3.141.59</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -94234,7 +94234,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>com.googlecode.libphonenumber</groupId>
@@ -98634,7 +98634,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.junit.platform</groupId>
@@ -99969,7 +99969,7 @@
 <dependency>
   <groupId>org.springframework.plugin</groupId>
   <artifactId>spring-plugin-core</artifactId>
-  <version>1.2.0.RELEASE</version>
+  <version>4.0.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -100370,7 +100370,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -102825,7 +102825,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -104570,7 +104570,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -110000,7 +110000,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -112965,7 +112965,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -115965,7 +115965,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -119130,7 +119130,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -122640,7 +122640,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -125425,7 +125425,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -127035,7 +127035,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.logging</groupId>
@@ -130375,7 +130375,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -132445,7 +132445,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -133765,7 +133765,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -135955,7 +135955,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -136300,7 +136300,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -140350,7 +140350,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -140885,7 +140885,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.parboiled</groupId>
@@ -143360,7 +143360,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -145670,7 +145670,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -147785,7 +147785,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -148995,7 +148995,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.prometheus</groupId>
@@ -149065,7 +149065,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.checkerframework</groupId>
@@ -152250,12 +152250,12 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-opera-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-chrome-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -152270,7 +152270,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-support</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -152285,7 +152285,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-safari-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -152345,7 +152345,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-edge-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.checkerframework</groupId>
@@ -152365,7 +152365,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-firefox-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -152385,7 +152385,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-remote-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -152395,12 +152395,12 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>3.14.9</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -152420,7 +152420,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-ie-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apiguardian</groupId>
@@ -152970,7 +152970,7 @@
 <dependency>
     <groupId>io.github.openfeign</groupId>
     <artifactId>feign-okhttp</artifactId>
-    <version>10.12</version>
+    <version>11.7</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -153045,7 +153045,7 @@
 <dependency>
     <groupId>io.minio</groupId>
     <artifactId>minio</artifactId>
-    <version>8.2.1</version>
+    <version>8.4.4</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -153145,7 +153145,7 @@
 <dependency>
     <groupId>org.springblade</groupId>
     <artifactId>blade-core-oss</artifactId>
-    <version>3.1.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
@@ -153380,7 +153380,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-safari-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jeecgframework.boot</groupId>
@@ -153960,7 +153960,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-client</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.13-hadoop3</version>
 </dependency>
 <dependency>
     <groupId>ch.cern.hbase</groupId>
@@ -153990,7 +153990,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-chrome-driver</artifactId>
-    <version>3.141.59-atlassian-1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -155305,7 +155305,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-server</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.13</version>
 </dependency>
 <dependency>
     <groupId>com.sun.activation</groupId>
@@ -155535,7 +155535,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-testing-util</artifactId>
-    <version>2.0.1</version>
+    <version>2.5.13</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -155560,7 +155560,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-metrics-api</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.13</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -155570,7 +155570,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-edge-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.rabbitmq</groupId>
@@ -157415,7 +157415,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-remote-driver</artifactId>
-    <version>3.141.59-atlassian-1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -157715,7 +157715,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-firefox-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.plexus</groupId>
@@ -158395,7 +158395,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-ie-driver</artifactId>
-    <version>3.141.59-atlassian-1</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -158560,7 +158560,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-common</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.13</version>
 </dependency>
 <dependency>
     <groupId>xmlenc</groupId>
@@ -159810,7 +159810,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-opera-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -159865,7 +159865,7 @@
 <dependency>
     <groupId>com.squareup.retrofit2</groupId>
     <artifactId>retrofit</artifactId>
-    <version>2.5.0</version>
+    <version>3.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -160065,7 +160065,7 @@
 <dependency>
     <groupId>org.apache.hbase</groupId>
     <artifactId>hbase-hadoop2-compat</artifactId>
-    <version>2.2.4</version>
+    <version>2.5.13</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -161700,7 +161700,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -163915,7 +163915,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -166450,7 +166450,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -169620,7 +169620,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -172420,7 +172420,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -174230,7 +174230,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -178295,7 +178295,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -179425,7 +179425,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -182100,7 +182100,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -184365,7 +184365,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -186615,7 +186615,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -189810,7 +189810,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -192340,7 +192340,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -196445,7 +196445,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -198515,7 +198515,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -198805,7 +198805,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -200985,7 +200985,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -204480,7 +204480,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -206685,7 +206685,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -210285,7 +210285,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -212850,7 +212850,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -216335,7 +216335,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -219350,7 +219350,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -220185,7 +220185,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -222405,7 +222405,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -226605,7 +226605,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -227195,7 +227195,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -229280,7 +229280,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -234575,7 +234575,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -235140,7 +235140,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -237325,7 +237325,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -239845,7 +239845,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -242230,7 +242230,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -245495,7 +245495,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -247745,7 +247745,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -250275,7 +250275,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -251770,7 +251770,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -254020,7 +254020,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -254565,7 +254565,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -254925,7 +254925,7 @@
 <dependency>
     <groupId>io.minio</groupId>
     <artifactId>minio</artifactId>
-    <version>8.0.3</version>
+    <version>8.4.4</version>
 </dependency>
 <dependency>
     <groupId>junit</groupId>
@@ -257235,7 +257235,7 @@
 <dependency>
     <groupId>com.diboot</groupId>
     <artifactId>diboot-file-spring-boot-starter</artifactId>
-    <version>2.1.1</version>
+    <version>2.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -257975,7 +257975,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -260480,7 +260480,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -263040,7 +263040,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -267950,7 +267950,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -268685,7 +268685,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -273845,7 +273845,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -274555,7 +274555,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -275260,7 +275260,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-remote-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.guava</groupId>
@@ -276300,7 +276300,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-safari-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -276610,7 +276610,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>2.0.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.oshi</groupId>
@@ -278235,7 +278235,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -280730,7 +280730,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -285200,7 +285200,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -286095,7 +286095,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -290335,7 +290335,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -290710,7 +290710,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-edge-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.zipkin.brave</groupId>
@@ -290730,7 +290730,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-opera-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -290740,7 +290740,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-chrome-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.datastax.oss</groupId>
@@ -290750,22 +290750,22 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>3.14.9</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-ie-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-support</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.ibm.icu</groupId>
@@ -290825,7 +290825,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-firefox-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -291625,7 +291625,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>2.0.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -292305,7 +292305,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -293415,7 +293415,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -295880,7 +295880,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tencentcloudapi</groupId>
@@ -297835,7 +297835,7 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>4.9.3</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -299420,7 +299420,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -301955,7 +301955,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>jakarta.jws</groupId>
@@ -302570,7 +302570,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.leveldbjni</groupId>
@@ -304165,7 +304165,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -307415,7 +307415,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.solven-eu.pepper</groupId>
@@ -308895,7 +308895,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>2.0.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -312660,7 +312660,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -313990,7 +313990,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -314290,7 +314290,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -316790,7 +316790,7 @@
 <dependency>
     <groupId>io.minio</groupId>
     <artifactId>minio</artifactId>
-    <version>8.0.3</version>
+    <version>8.4.4</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -318130,7 +318130,7 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>4.9.3</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.jdom</groupId>
@@ -318170,7 +318170,7 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>4.4.1</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -318515,7 +318515,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>us.springett</groupId>
@@ -322230,7 +322230,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -324495,7 +324495,7 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>4.4.1</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -324740,7 +324740,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.twitter</groupId>
@@ -325430,7 +325430,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>2.0.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -329155,7 +329155,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -333430,7 +333430,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -334295,7 +334295,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -335770,7 +335770,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-edge-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
@@ -335795,12 +335795,12 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-remote-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.mozilla</groupId>
@@ -336045,7 +336045,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-remote-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -336065,7 +336065,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-safari-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okio</groupId>
@@ -336140,22 +336140,22 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-edge-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-firefox-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-opera-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-chrome-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -336215,7 +336215,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-support</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -336225,7 +336225,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -336240,12 +336240,12 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>3.14.9</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-ie-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.mojo</groupId>
@@ -336255,7 +336255,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.freemarker</groupId>
@@ -336390,7 +336390,7 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>3.14.9</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.test-framework</groupId>
@@ -339630,7 +339630,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -339875,7 +339875,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -342040,7 +342040,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -342490,7 +342490,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-safari-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents.core5</groupId>
@@ -342930,7 +342930,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-firefox-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.rest-assured</groupId>
@@ -344670,7 +344670,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-ie-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -345070,7 +345070,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-opera-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -345120,7 +345120,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-chrome-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.hibernate.common</groupId>
@@ -345145,7 +345145,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-support</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -346085,7 +346085,7 @@
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>4.9.3</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>com.aliyun.oss</groupId>
@@ -346275,7 +346275,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-safari-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents.core5</groupId>
@@ -346285,7 +346285,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-remote-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.solven-eu.pepper</groupId>
@@ -346400,12 +346400,12 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.squareup.okhttp3</groupId>
     <artifactId>okhttp</artifactId>
-    <version>3.14.9</version>
+    <version>4.9.2</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -346580,7 +346580,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-edge-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.checkerframework</groupId>
@@ -346610,7 +346610,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-support</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -346695,7 +346695,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-opera-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -346725,7 +346725,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-firefox-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -346810,7 +346810,7 @@
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-chrome-driver</artifactId>
-    <version>3.141.59</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.clapper</groupId>
@@ -347125,7 +347125,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>2.0.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -349505,7 +349505,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -349930,7 +349930,7 @@
 <dependency>
     <groupId>org.springframework.plugin</groupId>
     <artifactId>spring-plugin-core</artifactId>
-    <version>1.2.0.RELEASE</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
