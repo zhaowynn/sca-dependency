@@ -155360,7 +155360,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>3.1.0</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
@@ -156080,7 +156080,7 @@
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-hateoas</artifactId>
-    <version>2.7.6</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -158150,7 +158150,7 @@
 <dependency>
     <groupId>org.springframework.kafka</groupId>
     <artifactId>spring-kafka</artifactId>
-    <version>2.8.0</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.oracle.database.jdbc</groupId>
@@ -159170,7 +159170,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>3.1.0</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.jeecg</groupId>
@@ -194005,7 +194005,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
@@ -219435,7 +219435,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.marshalling</groupId>
@@ -254255,7 +254255,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.35</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -275570,7 +275570,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.35</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -289965,7 +289965,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.35</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -291165,7 +291165,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -293200,7 +293200,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.35</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -299145,7 +299145,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
@@ -300815,7 +300815,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.35</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>com.wavefront</groupId>
@@ -301085,7 +301085,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.35</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>com.github.docker-java</groupId>
@@ -302330,7 +302330,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -302510,7 +302510,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-netty</artifactId>
-    <version>1.47.0</version>
+    <version>1.77.0</version>
 </dependency>
 <dependency>
     <groupId>org.assertj</groupId>
@@ -310510,7 +310510,7 @@
 <dependency>
     <groupId>org.springframework.vault</groupId>
     <artifactId>spring-vault-core</artifactId>
-    <version>2.3.2</version>
+    <version>4.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
@@ -311465,7 +311465,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.test-framework.providers</groupId>
     <artifactId>jersey-test-framework-provider-simple</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -311695,7 +311695,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.apache.zookeeper</groupId>
@@ -317435,7 +317435,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.test-framework.providers</groupId>
     <artifactId>jersey-test-framework-provider-simple</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -317690,7 +317690,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.test-framework.providers</groupId>
     <artifactId>jersey-test-framework-provider-simple</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -321410,7 +321410,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-netty</artifactId>
-    <version>1.47.0</version>
+    <version>1.77.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -323745,7 +323745,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-netty</artifactId>
-    <version>1.47.0</version>
+    <version>1.77.0</version>
 </dependency>
 <dependency>
     <groupId>io.grpc</groupId>
@@ -324035,7 +324035,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -324600,7 +324600,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>com.typesafe.netty</groupId>
@@ -335345,7 +335345,7 @@
 <dependency>
     <groupId>io.grpc</groupId>
     <artifactId>grpc-netty</artifactId>
-    <version>1.47.0</version>
+    <version>1.77.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -336485,7 +336485,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.test-framework.providers</groupId>
     <artifactId>jersey-test-framework-provider-simple</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>io.lettuce</groupId>
@@ -342465,7 +342465,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -345065,7 +345065,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-client</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -345240,7 +345240,7 @@
 <dependency>
     <groupId>org.glassfish.jersey.core</groupId>
     <artifactId>jersey-server</artifactId>
-    <version>2.36</version>
+    <version>2.46</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.hk2</groupId>
