@@ -2069,7 +2069,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -4169,7 +4169,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -4574,7 +4574,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -10269,7 +10269,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>commons-logging</groupId>
@@ -13679,7 +13679,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.spring</groupId>
@@ -15704,7 +15704,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -17659,7 +17659,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.spring</groupId>
@@ -20769,7 +20769,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -23384,7 +23384,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -28909,7 +28909,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.spring</groupId>
@@ -29854,7 +29854,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -32114,7 +32114,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>net.minidev</groupId>
@@ -35344,7 +35344,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -38314,7 +38314,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.skyscreamer</groupId>
@@ -38779,7 +38779,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba</groupId>
@@ -42854,7 +42854,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>io.github.openfeign.form</groupId>
@@ -46609,7 +46609,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.junit.jupiter</groupId>
@@ -48069,7 +48069,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -48814,7 +48814,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.headius</groupId>
@@ -52339,7 +52339,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -58254,7 +58254,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -61204,7 +61204,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -64764,7 +64764,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -68139,7 +68139,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -70749,7 +70749,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -72529,7 +72529,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -76379,7 +76379,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -76959,7 +76959,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -79139,7 +79139,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.zaxxer</groupId>
@@ -82994,7 +82994,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -85064,7 +85064,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>javax.activation</groupId>
@@ -85279,7 +85279,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -87999,7 +87999,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.dtd-parser</groupId>
@@ -95084,7 +95084,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.dtd-parser</groupId>
@@ -97579,7 +97579,7 @@
 <dependency>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-configuration2</artifactId>
-  <version>2.1</version>
+  <version>2.13.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -101270,7 +101270,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -103290,7 +103290,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.mapstruct</groupId>
@@ -105445,7 +105445,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -107440,7 +107440,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.rabbitmq</groupId>
@@ -110855,7 +110855,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -111575,7 +111575,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.agilejava.docbkx</groupId>
@@ -113855,7 +113855,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -116860,7 +116860,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -120000,7 +120000,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -123530,7 +123530,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -124645,7 +124645,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -128225,7 +128225,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -131230,7 +131230,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -133265,7 +133265,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -134740,7 +134740,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -138755,7 +138755,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -139270,7 +139270,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.opentest4j</groupId>
@@ -142520,7 +142520,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -144995,7 +144995,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -147330,7 +147330,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.opentest4j</groupId>
@@ -150710,7 +150710,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -154080,7 +154080,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-maven-plugin</artifactId>
-    <version>3.1.5</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.sonatype.plexus</groupId>
@@ -154750,7 +154750,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-verifier</artifactId>
-    <version>3.1.5</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.activiti</groupId>
@@ -154950,7 +154950,7 @@
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-contract-spec-java</artifactId>
-    <version>3.1.5</version>
+    <version>5.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere.elasticjob</groupId>
@@ -162290,7 +162290,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -164530,7 +164530,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -167030,7 +167030,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -170270,7 +170270,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -170605,7 +170605,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.2.0</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -172945,7 +172945,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.mapstruct</groupId>
@@ -175640,7 +175640,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -177445,7 +177445,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -180835,7 +180835,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -182490,7 +182490,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -185675,7 +185675,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -188085,7 +188085,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -191105,7 +191105,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -192735,7 +192735,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -195305,7 +195305,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -197665,7 +197665,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -200145,7 +200145,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -202370,7 +202370,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -203110,7 +203110,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -204125,7 +204125,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -205865,7 +205865,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -210060,7 +210060,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.jodd</groupId>
@@ -211680,7 +211680,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -213345,7 +213345,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -215555,7 +215555,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -218450,7 +218450,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -221560,7 +221560,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -223985,7 +223985,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -225700,7 +225700,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -228410,7 +228410,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -230515,7 +230515,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -233545,7 +233545,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>net.java.dev.jna</groupId>
@@ -234865,7 +234865,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -236490,7 +236490,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -236765,7 +236765,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -238690,7 +238690,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -239375,7 +239375,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>net.minidev</groupId>
@@ -241350,7 +241350,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -243595,7 +243595,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -246860,7 +246860,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -249085,7 +249085,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -250935,7 +250935,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.dtd-parser</groupId>
@@ -253205,7 +253205,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -256205,7 +256205,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.openfeign.form</groupId>
@@ -259375,7 +259375,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.gatling</groupId>
@@ -262195,7 +262195,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -264590,7 +264590,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -266800,7 +266800,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -270155,7 +270155,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -272235,7 +272235,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -276950,7 +276950,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -280460,7 +280460,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.opentest4j</groupId>
@@ -282125,7 +282125,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -284465,7 +284465,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -288655,7 +288655,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -290490,7 +290490,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -292635,7 +292635,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -295575,7 +295575,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -298265,7 +298265,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -301450,7 +301450,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -302715,7 +302715,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.jboss.spec.javax.annotation</groupId>
@@ -305410,7 +305410,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -306275,7 +306275,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -307190,7 +307190,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307375,7 +307375,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -309885,7 +309885,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.opentest4j</groupId>
@@ -313180,7 +313180,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -316310,7 +316310,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -316670,7 +316670,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -316760,7 +316760,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.resilience4j</groupId>
@@ -320455,7 +320455,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -324095,7 +324095,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -325670,7 +325670,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -327490,7 +327490,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -328385,7 +328385,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -330025,7 +330025,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -332610,7 +332610,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -338830,7 +338830,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -339625,7 +339625,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -341860,7 +341860,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.mail</groupId>
@@ -344390,7 +344390,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.woodstox</groupId>
@@ -345685,7 +345685,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -346110,7 +346110,7 @@
 <dependency>
     <groupId>org.apache.hive</groupId>
     <artifactId>hive-metastore</artifactId>
-    <version>2.3.9</version>
+    <version>4.2.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -346475,7 +346475,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -348635,7 +348635,7 @@
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-configuration2</artifactId>
-    <version>2.1</version>
+    <version>2.13.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
