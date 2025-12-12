@@ -1039,7 +1039,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>jakarta.mail</groupId>
@@ -2869,7 +2869,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -5144,7 +5144,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -6514,7 +6514,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>javax.validation</groupId>
@@ -11319,7 +11319,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -12679,7 +12679,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>jakarta.mail</groupId>
@@ -14719,7 +14719,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -18504,7 +18504,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -19729,7 +19729,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>commons-validator</groupId>
@@ -22394,7 +22394,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -27854,7 +27854,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>jakarta.mail</groupId>
@@ -30604,7 +30604,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -33114,7 +33114,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -34374,7 +34374,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -37349,7 +37349,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>jline</groupId>
@@ -40619,7 +40619,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -43659,7 +43659,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -45644,7 +45644,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -48769,7 +48769,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>jline</groupId>
@@ -49514,7 +49514,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.mybatis.spring.boot</groupId>
@@ -50639,7 +50639,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -54079,7 +54079,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>com.github.jsqlparser</groupId>
@@ -57234,7 +57234,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -60044,7 +60044,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -63629,7 +63629,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -67009,7 +67009,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -69814,7 +69814,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -73504,7 +73504,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -75444,7 +75444,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -77724,7 +77724,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>com.googlecode.libphonenumber</groupId>
@@ -79859,7 +79859,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>net.bytebuddy</groupId>
@@ -82034,7 +82034,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -84114,7 +84114,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -85719,7 +85719,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -89714,7 +89714,7 @@
 <dependency>
   <groupId>com.github.jknack</groupId>
   <artifactId>handlebars</artifactId>
-  <version>4.0.7</version>
+  <version>4.1.0</version>
 </dependency>
 <dependency>
   <groupId>org.asciidoctor</groupId>
@@ -90964,7 +90964,7 @@
 <dependency>
   <groupId>org.lz4</groupId>
   <artifactId>lz4-java</artifactId>
-  <version>1.6.0</version>
+  <version>1.8.1</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.module</groupId>
@@ -92204,7 +92204,7 @@
 <dependency>
   <groupId>io.github.gitbucket</groupId>
   <artifactId>gitbucket_2.13</artifactId>
-  <version>4.38.1</version>
+  <version>4.44.0</version>
 </dependency>
 <dependency>
   <groupId>org.webjars.bower</groupId>
@@ -94229,7 +94229,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.plugin</groupId>
@@ -98514,7 +98514,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -99899,7 +99899,7 @@
 <dependency>
   <groupId>org.mozilla</groupId>
   <artifactId>rhino</artifactId>
-  <version>1.7R4</version>
+  <version>1.7.14.1</version>
 </dependency>
 <dependency>
   <groupId>io.springfox</groupId>
@@ -100300,7 +100300,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -102735,7 +102735,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-collections</groupId>
@@ -104460,7 +104460,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -106060,7 +106060,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -108130,7 +108130,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -109895,7 +109895,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -112860,7 +112860,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -115875,7 +115875,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.jvnet.mimepull</groupId>
@@ -119005,7 +119005,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -120905,7 +120905,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -122525,7 +122525,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -125330,7 +125330,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.github.jsqlparser</groupId>
@@ -129115,7 +129115,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -130165,7 +130165,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -132180,7 +132180,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.jgit</groupId>
@@ -135880,7 +135880,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -136290,7 +136290,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -139730,7 +139730,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.4.1</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -140255,7 +140255,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.github.jsqlparser</groupId>
@@ -140880,7 +140880,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -143315,7 +143315,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -145625,7 +145625,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -151415,7 +151415,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -152160,7 +152160,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.headius</groupId>
@@ -152910,7 +152910,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>org.sonatype.aether</groupId>
@@ -153620,7 +153620,7 @@
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-core</artifactId>
-    <version>2.4.1</version>
+    <version>3.2.2</version>
 </dependency>
 <dependency>
     <groupId>org.ofdrw</groupId>
@@ -155400,12 +155400,12 @@
 <dependency>
     <groupId>com.clickhouse</groupId>
     <artifactId>clickhouse-http-client</artifactId>
-    <version>0.3.2</version>
+    <version>0.3.2-patch10</version>
 </dependency>
 <dependency>
     <groupId>com.clickhouse</groupId>
     <artifactId>clickhouse-http-client</artifactId>
-    <version>0.3.2-patch3</version>
+    <version>0.3.2-patch10</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -155720,7 +155720,7 @@
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-release-plugin</artifactId>
-    <version>2.5.2</version>
+    <version>3.3.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shardingsphere.elasticjob</groupId>
@@ -155805,7 +155805,7 @@
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-parsers</artifactId>
-    <version>1.27</version>
+    <version>2.0.0</version>
 </dependency>
 <dependency>
     <groupId>backport-util-concurrent</groupId>
@@ -157175,7 +157175,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>io.vertx</groupId>
@@ -157185,7 +157185,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.pdfbox</groupId>
@@ -162775,7 +162775,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -165155,7 +165155,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -167540,7 +167540,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -169505,7 +169505,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>net.sf.json-lib</groupId>
@@ -172255,7 +172255,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -174740,7 +174740,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -178015,7 +178015,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -180475,7 +180475,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -181935,7 +181935,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -185375,7 +185375,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -187780,7 +187780,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -190800,7 +190800,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -192155,7 +192155,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -196110,7 +196110,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -198220,7 +198220,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -199850,7 +199850,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -202055,7 +202055,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>net.bytebuddy</groupId>
@@ -203655,7 +203655,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>com.ecwid.consul</groupId>
@@ -205575,7 +205575,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -207870,7 +207870,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -209775,7 +209775,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -211350,7 +211350,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -216330,7 +216330,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.plugin</groupId>
@@ -219215,7 +219215,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>jakarta.mail</groupId>
@@ -221240,7 +221240,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -223635,7 +223635,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -226530,7 +226530,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -228175,7 +228175,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mule.glassfish.jaxb</groupId>
@@ -230275,7 +230275,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -234495,7 +234495,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -234760,7 +234760,7 @@
 <dependency>
     <groupId>br.com.anteros</groupId>
     <artifactId>Anteros-Security-Spring</artifactId>
-    <version>1.0.2</version>
+    <version>2.0.0</version>
 </dependency>
 <dependency>
     <groupId>cn.javabird</groupId>
@@ -236205,7 +236205,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>aopalliance</groupId>
@@ -238405,7 +238405,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -241070,7 +241070,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-cli</groupId>
@@ -243295,7 +243295,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -246565,7 +246565,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.jcraft</groupId>
@@ -248800,7 +248800,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -251655,7 +251655,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -253940,7 +253940,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -254785,7 +254785,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -255885,7 +255885,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -259040,7 +259040,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -261900,7 +261900,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-io</groupId>
@@ -264290,7 +264290,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -265755,7 +265755,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind.external</groupId>
@@ -267800,7 +267800,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -269755,7 +269755,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -272675,7 +272675,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -276050,7 +276050,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -279530,7 +279530,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -281815,7 +281815,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>joda-time</groupId>
@@ -286035,7 +286035,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -286870,7 +286870,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -288595,7 +288595,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.ldap</groupId>
@@ -289600,7 +289600,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.0</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.inject</groupId>
@@ -290205,7 +290205,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.vavr</groupId>
@@ -291020,7 +291020,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.0</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.oracle.database.jdbc</groupId>
@@ -291795,7 +291795,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -294515,7 +294515,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -296085,7 +296085,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>net.java.dev.jna</groupId>
@@ -297710,7 +297710,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -300285,7 +300285,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.3.0</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.woodstox</groupId>
@@ -301115,7 +301115,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -301890,7 +301890,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -303800,7 +303800,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -305925,7 +305925,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -308750,7 +308750,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>jline</groupId>
@@ -313905,7 +313905,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -315330,7 +315330,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-validator</groupId>
@@ -316905,7 +316905,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.fastinfoset</groupId>
@@ -317940,7 +317940,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>jakarta.json</groupId>
@@ -319515,7 +319515,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -322025,7 +322025,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -326605,7 +326605,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -329045,7 +329045,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -330800,7 +330800,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -333325,7 +333325,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -333960,7 +333960,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.fastinfoset</groupId>
@@ -335630,7 +335630,7 @@
 <dependency>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars</artifactId>
-    <version>4.0.7</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -335805,7 +335805,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>cn.afterturn</groupId>
@@ -338185,7 +338185,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -338425,7 +338425,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>commons-digester</groupId>
@@ -340955,7 +340955,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -343440,7 +343440,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -345875,7 +345875,7 @@
 <dependency>
     <groupId>org.lz4</groupId>
     <artifactId>lz4-java</artifactId>
-    <version>1.8.0</version>
+    <version>1.8.1</version>
 </dependency>
 <dependency>
     <groupId>org.apache.curator</groupId>
@@ -349285,7 +349285,7 @@
 <dependency>
     <groupId>org.mozilla</groupId>
     <artifactId>rhino</artifactId>
-    <version>1.7R4</version>
+    <version>1.7.14.1</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
