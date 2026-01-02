@@ -289,7 +289,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -389,7 +389,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jctools</groupId>
@@ -439,7 +439,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>net.sourceforge.findbugs</groupId>
@@ -479,7 +479,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -794,7 +794,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -2064,7 +2064,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -2329,7 +2329,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.persistence</groupId>
@@ -2384,7 +2384,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -3029,7 +3029,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.hynnet</groupId>
@@ -3159,7 +3159,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -3254,7 +3254,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -3734,7 +3734,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -4364,7 +4364,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -4429,7 +4429,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -5734,7 +5734,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>xfire</groupId>
@@ -5839,7 +5839,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -5894,7 +5894,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>net.sourceforge.findbugs</groupId>
@@ -5934,7 +5934,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -6224,7 +6224,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -7534,7 +7534,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.reactivestreams</groupId>
@@ -8574,7 +8574,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -8794,7 +8794,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -8939,7 +8939,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>ch.netzwerg</groupId>
@@ -9084,7 +9084,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.camel.quarkus</groupId>
@@ -9689,7 +9689,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.github.swagger2markup</groupId>
@@ -10474,7 +10474,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.stoyanr</groupId>
@@ -10694,7 +10694,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -11914,7 +11914,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -12019,7 +12019,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -12084,7 +12084,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -12119,7 +12119,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -12434,7 +12434,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -13704,7 +13704,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.javaslang</groupId>
@@ -13969,7 +13969,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -14054,7 +14054,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -14119,7 +14119,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -14154,7 +14154,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -14419,7 +14419,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -15729,7 +15729,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.javaslang</groupId>
@@ -16144,7 +16144,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -16324,7 +16324,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -16469,7 +16469,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -17084,7 +17084,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.dameng</groupId>
@@ -17864,7 +17864,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -18004,7 +18004,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -18994,7 +18994,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -19084,7 +19084,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -19149,7 +19149,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -19189,7 +19189,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -19464,7 +19464,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -20764,7 +20764,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -21674,7 +21674,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.hynnet</groupId>
@@ -21749,7 +21749,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -21819,7 +21819,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.servlet</groupId>
@@ -21854,7 +21854,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -22104,7 +22104,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -23379,7 +23379,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -24324,7 +24324,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -25829,7 +25829,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.junit.jupiter</groupId>
@@ -26604,7 +26604,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>xfire</groupId>
@@ -26769,7 +26769,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.inject</groupId>
@@ -26894,7 +26894,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>commons-io</groupId>
@@ -27124,7 +27124,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -27144,7 +27144,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -27244,7 +27244,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>rubygems</groupId>
@@ -27324,7 +27324,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.jnr</groupId>
@@ -27624,7 +27624,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.cloud</groupId>
@@ -29434,7 +29434,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.cache</groupId>
@@ -30069,7 +30069,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -30124,7 +30124,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -30749,7 +30749,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.hynnet</groupId>
@@ -30879,7 +30879,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -30984,7 +30984,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -31489,7 +31489,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.cache</groupId>
@@ -32329,7 +32329,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -32474,7 +32474,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -32499,7 +32499,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.offbytwo.jenkins</groupId>
@@ -33484,7 +33484,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -33549,7 +33549,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -33644,7 +33644,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -33734,7 +33734,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.tdunning</groupId>
@@ -34054,7 +34054,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -35294,7 +35294,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -36484,7 +36484,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -36549,7 +36549,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -36629,7 +36629,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -36729,7 +36729,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.xiaoymin</groupId>
@@ -37049,7 +37049,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -38284,7 +38284,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -38764,7 +38764,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.junit.jupiter</groupId>
@@ -38959,7 +38959,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -39524,7 +39524,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.tomcat</groupId>
@@ -39734,7 +39734,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>xfire</groupId>
@@ -39819,7 +39819,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -39894,7 +39894,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -39994,7 +39994,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -40294,7 +40294,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -41619,7 +41619,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.javassist</groupId>
@@ -41664,7 +41664,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -41764,7 +41764,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -42274,7 +42274,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>jakarta.activation</groupId>
@@ -43044,7 +43044,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -43109,7 +43109,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -43564,7 +43564,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -44744,7 +44744,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.hynnet</groupId>
@@ -44819,7 +44819,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -44889,7 +44889,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -44999,7 +44999,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -45344,7 +45344,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -46604,7 +46604,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -46864,7 +46864,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -46979,7 +46979,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -47094,7 +47094,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.jcraft</groupId>
@@ -47544,7 +47544,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -48239,7 +48239,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -48304,7 +48304,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -48829,7 +48829,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -49764,7 +49764,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>xfire</groupId>
@@ -49849,7 +49849,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -49949,7 +49949,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind.external</groupId>
@@ -50019,7 +50019,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.pegdown</groupId>
@@ -50344,7 +50344,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -51714,7 +51714,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>commons-fileupload</groupId>
@@ -52169,7 +52169,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.bind</groupId>
@@ -52724,7 +52724,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.slf4j</groupId>
@@ -53209,7 +53209,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -53269,7 +53269,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -53389,7 +53389,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.swagger</groupId>
@@ -53489,7 +53489,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -53779,7 +53779,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -55049,7 +55049,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>commons-codec</groupId>
@@ -55454,7 +55454,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -56384,7 +56384,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>xfire</groupId>
@@ -56454,7 +56454,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -56489,7 +56489,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -56644,7 +56644,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -56939,7 +56939,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -58334,7 +58334,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch</groupId>
@@ -58419,7 +58419,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.parboiled</groupId>
@@ -59219,7 +59219,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.protobuf</groupId>
@@ -59399,7 +59399,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -59444,7 +59444,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.errorprone</groupId>
@@ -59544,7 +59544,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -59604,7 +59604,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -61234,7 +61234,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -61404,7 +61404,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -61744,7 +61744,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -61804,7 +61804,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>ca.szc.thirdparty.nl.jworks.markdown_to_asciidoc</groupId>
@@ -62769,7 +62769,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -62959,7 +62959,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -63009,7 +63009,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -63089,7 +63089,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.pagehelper</groupId>
@@ -63159,7 +63159,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -64754,7 +64754,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -65709,7 +65709,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.reflections</groupId>
@@ -66169,7 +66169,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -66359,7 +66359,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -66404,7 +66404,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -66489,7 +66489,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.bouncycastle</groupId>
@@ -66564,7 +66564,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.mockito</groupId>
@@ -68134,7 +68134,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -68979,7 +68979,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -69184,7 +69184,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -69229,7 +69229,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -69374,7 +69374,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -70969,7 +70969,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -71284,7 +71284,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -71399,7 +71399,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -71514,7 +71514,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -72024,7 +72024,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.cache</groupId>
@@ -72804,7 +72804,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>ch.qos.logback</groupId>
@@ -72964,7 +72964,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -73729,7 +73729,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.ow2.asm</groupId>
@@ -73819,7 +73819,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -73944,7 +73944,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -74604,7 +74604,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -74809,7 +74809,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -74849,7 +74849,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -74939,7 +74939,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.glassfish.pfl</groupId>
@@ -75014,7 +75014,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.eclipse.jgit</groupId>
@@ -76574,7 +76574,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -76944,7 +76944,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.ws</groupId>
@@ -77079,7 +77079,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -77399,7 +77399,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
@@ -77944,7 +77944,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -78069,7 +78069,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -78174,7 +78174,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -78699,7 +78699,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.cache</groupId>
@@ -79304,7 +79304,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.lucene</groupId>
@@ -79419,7 +79419,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.retry</groupId>
@@ -81189,7 +81189,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.hynnet</groupId>
@@ -81399,7 +81399,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.inject</groupId>
@@ -81429,7 +81429,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby.jcodings</groupId>
@@ -81539,7 +81539,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -81604,7 +81604,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.github.fge</groupId>
@@ -82989,7 +82989,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -83224,7 +83224,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -83489,7 +83489,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.j2objc</groupId>
@@ -83519,7 +83519,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -83619,7 +83619,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -83694,7 +83694,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>cn.hutool</groupId>
@@ -85059,7 +85059,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -86194,7 +86194,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.jruby</groupId>
@@ -86334,7 +86334,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
@@ -86449,7 +86449,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>ognl</groupId>
@@ -86539,7 +86539,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -86629,7 +86629,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind</groupId>
@@ -87994,7 +87994,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
@@ -88279,7 +88279,7 @@
 <dependency>
   <groupId>org.apache.logging.log4j</groupId>
   <artifactId>log4j-core</artifactId>
-  <version>2.17.1</version>
+  <version>2.25.3</version>
 </dependency>
 <dependency>
   <groupId>org.scala-sbt</groupId>
@@ -88444,7 +88444,7 @@
 <dependency>
   <groupId>org.apache.logging.log4j</groupId>
   <artifactId>log4j-slf4j-impl</artifactId>
-  <version>2.17.1</version>
+  <version>2.25.3</version>
 </dependency>
 <dependency>
   <groupId>org.scala-sbt</groupId>
@@ -90369,7 +90369,7 @@
 <dependency>
   <groupId>org.bitbucket.b_c</groupId>
   <artifactId>jose4j</artifactId>
-  <version>0.7.6</version>
+  <version>0.9.6</version>
 </dependency>
 <dependency>
   <groupId>org.apache.httpcomponents</groupId>
@@ -93289,7 +93289,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.bind.external</groupId>
@@ -93359,7 +93359,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>rubygems</groupId>
@@ -93449,7 +93449,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -93679,7 +93679,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -93749,7 +93749,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>org.projectlombok</groupId>
@@ -95119,7 +95119,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
@@ -96564,7 +96564,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.ws</groupId>
@@ -96629,7 +96629,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.sun.istack</groupId>
@@ -96729,7 +96729,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.alibaba.nacos</groupId>
@@ -97554,7 +97554,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.77.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>javax.xml.ws</groupId>
@@ -97689,7 +97689,7 @@
 <dependency>
   <groupId>org.elasticsearch</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>7.12.1</version>
+  <version>8.19.8</version>
 </dependency>
 <dependency>
   <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -97954,7 +97954,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -99104,12 +99104,12 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-codec-http2</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>xfire</groupId>
@@ -99179,7 +99179,7 @@
 <dependency>
   <groupId>io.netty</groupId>
   <artifactId>netty-handler-proxy</artifactId>
-  <version>4.1.38.Final</version>
+  <version>4.1.129.Final</version>
 </dependency>
 <dependency>
   <groupId>com.google.protobuf</groupId>
@@ -99644,7 +99644,7 @@
 <dependency>
   <groupId>org.springframework.data</groupId>
   <artifactId>spring-data-elasticsearch</artifactId>
-  <version>4.2.11</version>
+  <version>4.4.0</version>
 </dependency>
 <dependency>
   <groupId>org.elasticsearch.plugin</groupId>
@@ -100885,7 +100885,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>dom4j</groupId>
@@ -101330,7 +101330,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -101760,7 +101760,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -101935,7 +101935,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -102060,7 +102060,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jsoup</groupId>
@@ -102780,7 +102780,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -103485,7 +103485,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -103590,7 +103590,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -103620,7 +103620,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -103665,7 +103665,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -103825,7 +103825,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -104150,7 +104150,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -105015,7 +105015,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.cache</groupId>
@@ -105525,7 +105525,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -106235,7 +106235,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -106385,7 +106385,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -106460,7 +106460,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -107020,7 +107020,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -107605,7 +107605,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -107725,7 +107725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -109105,7 +109105,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -109125,7 +109125,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -109160,7 +109160,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -109580,7 +109580,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -110425,7 +110425,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -110915,7 +110915,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -111505,7 +111505,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -112060,7 +112060,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -112085,7 +112085,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind.external</groupId>
@@ -112120,7 +112120,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -112530,7 +112530,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -113405,7 +113405,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -113925,7 +113925,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -115085,7 +115085,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.hynnet</groupId>
@@ -115110,7 +115110,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -115175,7 +115175,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.protobuf</groupId>
@@ -115600,7 +115600,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.googlecode.libphonenumber</groupId>
@@ -116465,7 +116465,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -116930,7 +116930,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -117325,7 +117325,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -117335,7 +117335,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.pig4cloud.nacos</groupId>
@@ -118220,7 +118220,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.hynnet</groupId>
@@ -118260,7 +118260,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -118320,7 +118320,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.protobuf</groupId>
@@ -118735,7 +118735,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -119625,7 +119625,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -120085,7 +120085,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>jakarta.xml.bind</groupId>
@@ -121540,7 +121540,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -121615,7 +121615,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -121725,7 +121725,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -121795,7 +121795,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -121855,7 +121855,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -122265,7 +122265,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -123165,7 +123165,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -123625,7 +123625,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -123765,7 +123765,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -124595,7 +124595,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -124740,7 +124740,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -125025,7 +125025,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -126655,7 +126655,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel.quarkus</groupId>
@@ -126880,7 +126880,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -126940,7 +126940,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -127735,7 +127735,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -128485,7 +128485,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -128635,7 +128635,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -129425,7 +129425,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -129575,7 +129575,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -129750,7 +129750,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -130885,7 +130885,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.yaml</groupId>
@@ -131280,7 +131280,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -131355,7 +131355,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.javassist</groupId>
@@ -131480,7 +131480,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -131595,7 +131595,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -131780,7 +131780,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -132880,7 +132880,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -133305,7 +133305,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -133375,7 +133375,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -133545,7 +133545,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -133620,7 +133620,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -133680,7 +133680,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -134290,7 +134290,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -134960,7 +134960,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -135050,7 +135050,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -135635,7 +135635,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -135685,7 +135685,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -137925,7 +137925,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -138840,7 +138840,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
@@ -139120,7 +139120,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -139375,7 +139375,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -139445,7 +139445,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -139515,7 +139515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -139940,7 +139940,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -142215,7 +142215,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-collections</groupId>
@@ -142630,7 +142630,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -142715,7 +142715,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -142915,7 +142915,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -144660,7 +144660,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -145135,7 +145135,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -145190,7 +145190,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -146975,7 +146975,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -147320,7 +147320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.spring</groupId>
@@ -147440,7 +147440,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -147515,7 +147515,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -147620,7 +147620,7 @@
 <dependency>
     <groupId>org.codelibs</groupId>
     <artifactId>jhighlight</artifactId>
-    <version>1.0.3</version>
+    <version>1.1.1</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -148415,7 +148415,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.5</version>
 </dependency>
 <dependency>
     <groupId>org.scala-sbt</groupId>
@@ -148960,7 +148960,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.6</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.webjars</groupId>
@@ -149635,7 +149635,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -149710,7 +149710,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>ognl</groupId>
@@ -149780,7 +149780,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -150700,7 +150700,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -150810,7 +150810,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -151125,7 +151125,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -152925,7 +152925,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.4.6</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -153475,7 +153475,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.17.7</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.codehaus.groovy</groupId>
@@ -155945,7 +155945,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.activation</groupId>
@@ -156015,7 +156015,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.6</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.pegdown</groupId>
@@ -156120,7 +156120,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>com.nimbusds</groupId>
@@ -156910,7 +156910,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch-lz4</artifactId>
-    <version>7.17.3</version>
+    <version>8.19.9</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -157180,7 +157180,7 @@
 <dependency>
     <groupId>io.vertx</groupId>
     <artifactId>vertx-web-templ-handlebars</artifactId>
-    <version>4.2.1</version>
+    <version>4.5.23</version>
 </dependency>
 <dependency>
     <groupId>com.github.jknack</groupId>
@@ -158390,7 +158390,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.85.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -158470,7 +158470,7 @@
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
     <artifactId>log4j-core</artifactId>
-    <version>2.19.0</version>
+    <version>2.25.3</version>
 </dependency>
 <dependency>
     <groupId>org.apache.shiro</groupId>
@@ -160640,7 +160640,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -161470,7 +161470,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -162335,7 +162335,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -163015,7 +163015,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -163700,7 +163700,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -164620,7 +164620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -165545,7 +165545,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -166220,7 +166220,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.platform</groupId>
@@ -167125,7 +167125,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -167895,7 +167895,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -168055,7 +168055,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -169175,7 +169175,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -170435,7 +170435,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.docker-java</groupId>
@@ -171390,7 +171390,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.mapstruct</groupId>
@@ -171905,7 +171905,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -173055,7 +173055,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -173830,7 +173830,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -174935,7 +174935,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -175205,7 +175205,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -175730,7 +175730,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -176315,7 +176315,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -176500,7 +176500,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -176550,7 +176550,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -177430,7 +177430,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -177475,7 +177475,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -177550,7 +177550,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -178540,7 +178540,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.hynnet</groupId>
@@ -180125,7 +180125,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -180285,7 +180285,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -180920,7 +180920,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -181635,7 +181635,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -182725,7 +182725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -183500,7 +183500,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>commons-fileupload</groupId>
@@ -185040,7 +185040,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -185200,7 +185200,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -185820,7 +185820,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -187295,7 +187295,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -187585,7 +187585,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -188225,7 +188225,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -189355,7 +189355,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -190410,7 +190410,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -190630,7 +190630,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.netbeans.external</groupId>
@@ -191260,7 +191260,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -191815,7 +191815,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -192985,7 +192985,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -193635,7 +193635,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.cache</groupId>
@@ -194490,7 +194490,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -194540,7 +194540,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -195510,7 +195510,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -195565,7 +195565,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -195660,7 +195660,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -196495,7 +196495,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -196690,7 +196690,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -196735,7 +196735,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -197650,7 +197650,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -197705,7 +197705,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -197780,7 +197780,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.mockito</groupId>
@@ -199460,7 +199460,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -199655,7 +199655,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -200300,7 +200300,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>xyz.wc1950</groupId>
@@ -201530,7 +201530,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.dtd-parser</groupId>
@@ -201555,7 +201555,7 @@
 <dependency>
     <groupId>io.rest-assured</groupId>
     <artifactId>spring-mock-mvc</artifactId>
-    <version>4.5.1</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -201645,7 +201645,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -201845,7 +201845,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -202490,7 +202490,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -203130,7 +203130,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -203620,7 +203620,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -205145,7 +205145,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -205355,7 +205355,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -205970,7 +205970,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -207360,7 +207360,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -207610,7 +207610,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -208365,7 +208365,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -209680,7 +209680,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -210040,7 +210040,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -210955,7 +210955,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -211175,7 +211175,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -211795,7 +211795,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -213520,7 +213520,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -213680,7 +213680,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -214175,7 +214175,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -214550,7 +214550,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.tomcat</groupId>
@@ -214615,7 +214615,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -214700,7 +214700,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -215580,7 +215580,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -215665,7 +215665,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -215985,7 +215985,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -216840,7 +216840,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -217385,7 +217385,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -217505,7 +217505,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -217525,7 +217525,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -217625,7 +217625,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -218465,7 +218465,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -218565,7 +218565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -218915,7 +218915,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.cloud</groupId>
@@ -220825,7 +220825,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -221065,7 +221065,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -221665,7 +221665,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -223070,7 +223070,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -223315,7 +223315,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -224110,7 +224110,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jaxb</groupId>
@@ -224840,7 +224840,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -224875,7 +224875,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.camel</groupId>
@@ -225695,7 +225695,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
@@ -225935,7 +225935,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.bouncycastle</groupId>
@@ -226020,7 +226020,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -226440,7 +226440,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -226880,7 +226880,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -227795,7 +227795,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -228020,7 +228020,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -228565,7 +228565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -229925,7 +229925,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -230705,7 +230705,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -231320,7 +231320,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -231970,7 +231970,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -232035,7 +232035,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -232155,7 +232155,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -233530,7 +233530,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
@@ -233745,7 +233745,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234150,7 +234150,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -234800,7 +234800,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -235805,7 +235805,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.springfox</groupId>
@@ -236025,7 +236025,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -236615,7 +236615,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -237975,7 +237975,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -238195,7 +238195,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.stoyanr</groupId>
@@ -238835,7 +238835,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -240635,7 +240635,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -240880,7 +240880,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -241495,7 +241495,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -242890,7 +242890,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -243105,7 +243105,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -243715,12 +243715,12 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -246140,7 +246140,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -246370,7 +246370,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -247010,7 +247010,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -248390,7 +248390,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -248610,7 +248610,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -249210,7 +249210,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -249950,7 +249950,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -249985,7 +249985,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>rubygems</groupId>
@@ -250075,7 +250075,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -250965,7 +250965,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -251180,7 +251180,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.annotation</groupId>
@@ -251270,7 +251270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -252115,7 +252115,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -252180,7 +252180,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -252280,7 +252280,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -253150,7 +253150,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -253295,7 +253295,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.tdunning</groupId>
@@ -253615,7 +253615,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>ch.qos.logback</groupId>
@@ -254095,7 +254095,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -254420,7 +254420,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.8</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.jersey.ext</groupId>
@@ -254730,7 +254730,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis</groupId>
@@ -255460,7 +255460,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -255695,7 +255695,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -256320,7 +256320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -258645,7 +258645,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.fusesource.jansi</groupId>
@@ -258855,7 +258855,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.xmlbeans</groupId>
@@ -259385,7 +259385,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.0.44.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>net.sf.saxon</groupId>
@@ -259565,7 +259565,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -260140,7 +260140,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.0.29</version>
+    <version>3.0.5</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -261485,7 +261485,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -261720,7 +261720,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
@@ -262320,7 +262320,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>javax.persistence</groupId>
@@ -263720,7 +263720,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -263955,7 +263955,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.soap</groupId>
@@ -264725,7 +264725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -265430,7 +265430,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.findbugs</groupId>
@@ -265505,7 +265505,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind.external</groupId>
@@ -265850,7 +265850,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -265910,7 +265910,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -266745,7 +266745,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -267020,7 +267020,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.virtuald</groupId>
@@ -267110,7 +267110,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -269410,7 +269410,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -269630,7 +269630,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -270305,7 +270305,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.jruby</groupId>
@@ -272225,7 +272225,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.code.gson</groupId>
@@ -273415,7 +273415,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -273470,7 +273470,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -275285,7 +275285,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -275660,7 +275660,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -276020,7 +276020,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.8</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.ccil.cowan.tagsoup</groupId>
@@ -277115,7 +277115,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -278855,7 +278855,7 @@
 <dependency>
     <groupId>io.rest-assured</groupId>
     <artifactId>spring-mock-mvc</artifactId>
-    <version>4.5.1</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.restdocs</groupId>
@@ -279200,7 +279200,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.aspectj</groupId>
@@ -279415,7 +279415,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -279860,7 +279860,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -281440,7 +281440,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -281635,7 +281635,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -282270,7 +282270,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.eclipse.persistence</groupId>
@@ -283445,7 +283445,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -283530,7 +283530,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -283605,7 +283605,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -284455,7 +284455,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -284575,7 +284575,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -284895,7 +284895,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -286445,7 +286445,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -286520,7 +286520,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -286670,7 +286670,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -286765,7 +286765,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -286905,7 +286905,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind.external</groupId>
@@ -288665,7 +288665,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -288735,7 +288735,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -288800,7 +288800,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.pegdown</groupId>
@@ -289455,7 +289455,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -292635,7 +292635,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -292685,7 +292685,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -294295,7 +294295,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -294430,7 +294430,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -294895,7 +294895,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -295025,7 +295025,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.hynnet</groupId>
@@ -296705,7 +296705,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.8</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -296810,7 +296810,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.parquet</groupId>
@@ -297320,7 +297320,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -298415,7 +298415,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -299390,7 +299390,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -300320,7 +300320,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.maven.resolver</groupId>
@@ -300755,7 +300755,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -301635,7 +301635,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.pfl</groupId>
@@ -302190,7 +302190,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.6</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -303130,7 +303130,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.9</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.jmock</groupId>
@@ -303730,7 +303730,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -305585,7 +305585,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.baomidou</groupId>
@@ -305795,7 +305795,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework</groupId>
@@ -306250,7 +306250,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -307190,7 +307190,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307375,7 +307375,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -307565,7 +307565,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -308455,7 +308455,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -308625,7 +308625,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -309175,7 +309175,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -309330,7 +309330,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -310790,7 +310790,7 @@
 <dependency>
     <groupId>io.rest-assured</groupId>
     <artifactId>spring-mock-mvc</artifactId>
-    <version>4.5.1</version>
+    <version>6.0.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -311105,7 +311105,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.9</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.apache-extras.beanshell</groupId>
@@ -311210,7 +311210,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.9</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -312140,7 +312140,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -312210,7 +312210,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.istack</groupId>
@@ -312295,7 +312295,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.j2objc</groupId>
@@ -313170,7 +313170,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -313300,7 +313300,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
@@ -313585,7 +313585,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch</groupId>
@@ -314200,7 +314200,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -315010,7 +315010,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>jakarta.activation</groupId>
@@ -315225,7 +315225,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
@@ -315670,7 +315670,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -316475,7 +316475,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.5</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -316760,7 +316760,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>io.github.resilience4j</groupId>
@@ -319260,7 +319260,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.reactivestreams</groupId>
@@ -319410,7 +319410,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.springframework.retry</groupId>
@@ -319875,7 +319875,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.jnr</groupId>
@@ -321135,7 +321135,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.5</version>
 </dependency>
 <dependency>
     <groupId>com.beust</groupId>
@@ -321510,7 +321510,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.ow2.asm</groupId>
@@ -321580,7 +321580,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.microsoft.sqlserver</groupId>
@@ -321860,7 +321860,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -322815,7 +322815,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -323635,7 +323635,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.6</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>com.zaxxer</groupId>
@@ -324115,7 +324115,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.activation</groupId>
@@ -325575,7 +325575,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.spark</groupId>
@@ -325670,7 +325670,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -326245,7 +326245,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.swagger</groupId>
@@ -326335,7 +326335,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -326500,7 +326500,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -326935,7 +326935,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -328365,7 +328365,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -328475,7 +328475,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -328745,7 +328745,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -328945,7 +328945,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
@@ -330015,7 +330015,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>io.spring.initializr</groupId>
@@ -330025,7 +330025,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -331570,7 +331570,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>xfire</groupId>
@@ -331645,7 +331645,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -331680,7 +331680,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
@@ -332635,7 +332635,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.github.fge</groupId>
@@ -332725,7 +332725,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.bind</groupId>
@@ -333020,7 +333020,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.lucene</groupId>
@@ -333670,7 +333670,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.9</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>org.objenesis</groupId>
@@ -335180,7 +335180,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.activation</groupId>
@@ -335505,7 +335505,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.glassfish.ha</groupId>
@@ -336900,7 +336900,7 @@
 <dependency>
     <groupId>org.bitbucket.b_c</groupId>
     <artifactId>jose4j</artifactId>
-    <version>0.7.6</version>
+    <version>0.9.6</version>
 </dependency>
 <dependency>
     <groupId>commons-codec</groupId>
@@ -337710,7 +337710,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>org.elasticsearch.plugin</groupId>
@@ -337735,7 +337735,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -338100,7 +338100,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -339065,7 +339065,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -340680,7 +340680,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.activation</groupId>
@@ -340840,7 +340840,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
@@ -341280,7 +341280,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>org.kohsuke.stapler</groupId>
@@ -343215,7 +343215,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.activation</groupId>
@@ -343355,7 +343355,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -343645,7 +343645,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>io.netty</groupId>
@@ -343805,7 +343805,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.messaging.saaj</groupId>
@@ -344555,7 +344555,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>com.github.scopt</groupId>
@@ -346030,7 +346030,7 @@
 <dependency>
     <groupId>org.asynchttpclient</groupId>
     <artifactId>async-http-client</artifactId>
-    <version>2.12.3</version>
+    <version>3.0.5</version>
 </dependency>
 <dependency>
     <groupId>org.asciidoctor</groupId>
@@ -346040,7 +346040,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-core_2.12</artifactId>
-    <version>3.3.0</version>
+    <version>3.5.0</version>
 </dependency>
 <dependency>
     <groupId>org.datanucleus</groupId>
@@ -346475,7 +346475,7 @@
 <dependency>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-ganglia-lgpl_2.13</artifactId>
-    <version>3.2.1</version>
+    <version>4.1.0</version>
 </dependency>
 <dependency>
     <groupId>com.vaadin.external.google</groupId>
@@ -347500,7 +347500,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http2</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.protobuf</groupId>
@@ -347720,7 +347720,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-handler-proxy</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
@@ -347760,7 +347760,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.38.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>com.google.errorprone</groupId>
@@ -348660,7 +348660,7 @@
 <dependency>
     <groupId>io.netty</groupId>
     <artifactId>netty-codec-http</artifactId>
-    <version>4.1.77.Final</version>
+    <version>4.1.129.Final</version>
 </dependency>
 <dependency>
     <groupId>javax.xml.ws</groupId>
@@ -348695,7 +348695,7 @@
 <dependency>
     <groupId>org.springframework.data</groupId>
     <artifactId>spring-data-elasticsearch</artifactId>
-    <version>4.2.11</version>
+    <version>4.4.0</version>
 </dependency>
 <dependency>
     <groupId>com.github.pagehelper</groupId>
@@ -348755,7 +348755,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.12.1</version>
+    <version>8.19.8</version>
 </dependency>
 <dependency>
     <groupId>cn.hutool</groupId>
